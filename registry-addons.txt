@@ -1,4 +1,5 @@
-﻿https://sourceforge.net/projects/cudatext/files/addons/linters/linter.CssLint.zip
+﻿;
+https://sourceforge.net/projects/cudatext/files/addons/linters/linter.CssLint.zip
 https://sourceforge.net/projects/cudatext/files/addons/linters/linter.HtmlTidy.zip
 https://sourceforge.net/projects/cudatext/files/addons/linters/linter.JavaScriptLint.zip
 https://sourceforge.net/projects/cudatext/files/addons/linters/linter.PyLint.zip
