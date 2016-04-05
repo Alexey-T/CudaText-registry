@@ -76,7 +76,6 @@ https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Java_Velocit
 https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Java.zip
 https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.JCL.zip
 https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Jinja2.zip
-https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.JSON.zip
 https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Julia.zip
 https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.KiXtart.zip
 https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.LaTeX.zip
