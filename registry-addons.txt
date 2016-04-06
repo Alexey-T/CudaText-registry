@@ -52,6 +52,7 @@ https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Num_To_Wor
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Num_To_Words.zip
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Options_Report.zip
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Python_Intel.zip
+https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.reStructuredText_Preview.zip
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Ruby_Format.zip
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Session_Manager.zip
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Snippets.zip
