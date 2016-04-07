@@ -15,6 +15,7 @@ https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Color_Pick
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Complete_From_Text.zip
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Config_Icons.zip
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Config_Menu.zip
+https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.CSS_AutoPrefixer.zip
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.CSS_CanIUse.zip
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.CSS_Comb.zip
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.CSS_Format.zip
