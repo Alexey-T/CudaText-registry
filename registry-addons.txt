@@ -16,6 +16,7 @@ https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Complete_F
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Config_Icons.zip
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Config_Menu.zip
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.CSS_CanIUse.zip
+https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.CSS_Comb.zip
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.CSS_Format.zip
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.CSS_Minifier.zip
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.CSS_Prefixer.zip
