@@ -43,6 +43,7 @@ https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Increment.
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Insert_Numbers.zip
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Insert_Time.zip
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Insert_Unicode_Char.zip
+https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Install_From_Github.zip
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.JS_Format.zip
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.JS_Minifier.zip
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Keymap_Report.zip
