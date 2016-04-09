@@ -40,6 +40,7 @@ https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.HTML_Previ
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.HTML_Tidy.zip
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.HTML_Validator.zip
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Increment.zip
+https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Ini_Sort.zip
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Insert_Numbers.zip
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Insert_Time.zip
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Insert_Unicode_Char.zip
