@@ -83,9 +83,6 @@ https://sourceforge.net/projects/cudatext/files/addons/snippets/snippets.nnCron.
 https://sourceforge.net/projects/cudatext/files/addons/snippets/snippets.Pascal.zip
 https://sourceforge.net/projects/cudatext/files/addons/snippets/snippets.PHP.zip
 https://sourceforge.net/projects/cudatext/files/addons/snippets/snippets.Python.zip
-https://sourceforge.net/projects/cudatext/files/addons/themes/theme.DarkWolf.zip
-https://sourceforge.net/projects/cudatext/files/addons/themes/theme.Verbis-Diablo.zip
-https://sourceforge.net/projects/cudatext/files/addons/themes/theme.Zeus.zip
 https://sourceforge.net/projects/cudatext/files/addons/translations/translation.de_DE.zip
 https://sourceforge.net/projects/cudatext/files/addons/translations/translation.es_VE.zip
 https://sourceforge.net/projects/cudatext/files/addons/translations/translation.fr_FR.zip
