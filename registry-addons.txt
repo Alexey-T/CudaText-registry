@@ -3,8 +3,8 @@ https://sourceforge.net/projects/cudatext/files/addons/linters/linter.CssLint.zi
 https://sourceforge.net/projects/cudatext/files/addons/linters/linter.HtmlTidy.zip
 https://sourceforge.net/projects/cudatext/files/addons/linters/linter.JavaScriptLint.zip
 https://sourceforge.net/projects/cudatext/files/addons/linters/linter.PyLint.zip
-https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.ASCII_Art.zip
-https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.AStyle_Format.zip
+https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.ASCII_Art.zip Allows to insert text formatted via ASCII-art fonts
+https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.AStyle_Format.zip Formats source code for lexers C, C++, C#, Java, using AStyle library
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Backup_File.zip
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Base_Encoder.zip
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Brackets_Hilite.zip
