@@ -59,15 +59,15 @@ https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Python_Int
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.reStructuredText_Preview.zip Previews reStructuredText file as HTML in browser
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Ruby_Format.zip Formats Ruby source code
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Session_Manager.zip Allows to manage "sessions" in editor
-https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Snippets.zip Supports snippets, see help in wiki
+https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Snippets.zip Support for snippets in CudaText, see wiki
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Sort_By_Length.zip Sorts entire text by length of lines
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Spell_Checker.zip Spell checker, shows underlines for wrong words
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.SQL_Format.zip Formats SQL code (using sqlparse library)
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Sum_Lines.zip Calculates sum/min/max/avg of numbers in lines
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Switch_Header.zip Switches file pairs: c<>h, cpp<>h, cc<>h, asm<>inc
-https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Tabs_List.zip Shows in side-panel "Tabs" list
-https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Text_Statistics.zip Shows for text: count of lines, words, letters
-https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Web_Font.zip Inserts into CSS fonts from webfont.ru
+https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Tabs_List.zip Shows in side-panel list of tabs
+https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Text_Statistics.zip Calcs for text: count of lines, words, letters
+https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Web_Font.zip Inserts into CSS code fonts from webfont.ru
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.XML_Format.zip Formats XML code (uses xmlpp library)
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.XML_Tidy.zip Formats XML code (using xml.dom library)
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.YAML_Format.zip Formats YAML code (using pyyaml library)
