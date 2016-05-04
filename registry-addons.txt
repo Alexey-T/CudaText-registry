@@ -86,6 +86,7 @@ https://sourceforge.net/projects/cudatext/files/addons/snippets/snippets.Python.
 https://sourceforge.net/projects/cudatext/files/addons/translations/translation.cz_CZ.zip
 https://sourceforge.net/projects/cudatext/files/addons/translations/translation.de_DE.zip
 https://sourceforge.net/projects/cudatext/files/addons/translations/translation.el_GR.zip
+https://sourceforge.net/projects/cudatext/files/addons/translations/translation.es_ES.zip
 https://sourceforge.net/projects/cudatext/files/addons/translations/translation.es_VE.zip
 https://sourceforge.net/projects/cudatext/files/addons/translations/translation.fr_FR.zip
 https://sourceforge.net/projects/cudatext/files/addons/translations/translation.ja_JP.zip
