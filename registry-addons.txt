@@ -29,6 +29,7 @@ https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Emmet_Lite
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.External_Tools.zip Support for calling external programs in CudaText
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Extract_Emails.zip Finds emails in current file
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Extract_Strings.zip Shows dialog to enter regex, regex will find list of strings
+https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.FindInFiles.zip Find in Files
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Hex_Dump.zip Shows text in hex-dump format
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Hilite_All_Occurrences.zip Highlights all occurrences of selected word
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Hilite_Occurrences_New.zip Highlights all occurrences of selected/current word
