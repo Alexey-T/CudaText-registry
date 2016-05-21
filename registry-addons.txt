@@ -58,6 +58,7 @@ https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Numbered_B
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Num_To_Words_Propis.zip Converts numbers to words, Rus lang
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Num_To_Words.zip Converts numbers to words
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Options_Report.zip Shows HTML page with report of options
+https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Python_Fix_Imports.zip Corrects import-statements in Python file (see readme)
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Python_Intel.zip Intelligence for Python: auto-completion, goto-definition
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.reStructuredText_Preview.zip Previews reStructuredText file as HTML in browser
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Ruby_Format.zip Formats Ruby source code
