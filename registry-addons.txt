@@ -64,6 +64,7 @@ https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.reStructur
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Ruby_Format.zip Formats Ruby source code
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Session_Manager.zip Allows to manage "sessions" in editor
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Snippets.zip Support for snippets in CudaText, see wiki
+https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Sort.zip Sorts selection, with options
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Sort_By_Length.zip Sorts entire text by length of lines
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Spell_Checker.zip Spell checker, shows underlines for wrong words
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.SQL_Format.zip Formats SQL code (using sqlparse library)
