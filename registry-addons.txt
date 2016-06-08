@@ -28,6 +28,7 @@ https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.CudaLint.z
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.DevDocs.zip Performs search on DevDocs site
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.DocBlock_Comments.zip Helps to type DocBlock comments, for JS/PHP lexers
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Emmet_Lite_WindowsOnly.zip Emmet engine, see www.emmet.io
+https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Encode.zip Converts text using many "codings", "transformations"
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.External_Tools.zip Support for calling external programs in CudaText
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Extract_Emails.zip Finds emails in current file
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Extract_Strings.zip Shows dialog to enter regex, regex will find list of strings
