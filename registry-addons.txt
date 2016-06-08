@@ -50,6 +50,7 @@ https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Insert_Num
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Insert_Time.zip Inserts current date/time into text
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Insert_Unicode_Char.zip Inserts Unicode char after entering its hex code
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Install_From_Github.zip Allows to install plugin from Github URL
+https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Intext_Bookmarks.zip Manages "permanent bookmarks" which are text comments
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.JS_Format.zip Formats JavaScript or JSON code
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.JS_Minifier.zip Makes JavaScript code compact
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Keymap_Report.zip Shows HTML page with report of hotkeys
