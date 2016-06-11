@@ -83,6 +83,7 @@ https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Lisp.zip
 https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Logfiles.zip
 https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.MacroScript_(Macro_Sheduler).zip
 https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.MATLAB.zip
+https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.MediaWiki.zip
 https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Metafont.zip
 https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.MIB_files_(SNMP_protocol).zip
 https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.MIPS_Assembly.zip
