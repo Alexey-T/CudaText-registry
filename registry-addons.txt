@@ -60,6 +60,7 @@ https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Markdown_P
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Numbered_Bookmarks.zip Allows to set/goto numbered bookmarks (1..9)
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Num_To_Words_Propis.zip Converts numbers to words, Rus lang
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Num_To_Words.zip Converts numbers to words
+https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Online_Search.zip Opens browser with search for selected text
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Options_Report.zip Shows HTML page with report of options
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Python_Fix_Imports.zip Corrects import-statements in Python file (see readme)
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Python_Intel.zip Intelligence for Python: auto-completion, goto-definition
