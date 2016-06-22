@@ -40,6 +40,7 @@ https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Dockerfile.z
 https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.D.zip
 https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Eiffel.zip
 https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Elm.zip
+https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Elixir.zip
 https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Erlang.zip
 https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Euphoria.zip
 https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Factor.zip
