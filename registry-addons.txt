@@ -1,8 +1,4 @@
 ﻿;
-https://sourceforge.net/projects/cudatext/files/addons/linters/linter.CSS_using_csslint.zip Linter for CSS, using csslint, requires Node.js
-https://sourceforge.net/projects/cudatext/files/addons/linters/linter.HTML_using_htmltidy.zip Linter for HTML, using HTML Tidy
-https://sourceforge.net/projects/cudatext/files/addons/linters/linter.JavaScript_using_jsl.zip Linter for JavaScript, using JSL
-https://sourceforge.net/projects/cudatext/files/addons/linters/linter.Python_using_pylint.zip Linter for Python, using PyLint
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.ASCII_Art.zip Allows to insert text formatted via ASCII-art fonts
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.AStyle_Format.zip Formats code for C, C++, C#, Java, using AStyle library
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Backup_File.zip Makes backup-copy of current file, with time-stamp
