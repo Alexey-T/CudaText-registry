@@ -17,24 +17,19 @@ https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.CBlock.zip
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Color_Picker.zip Shows color-picker dialog, inserts color #rrggbb
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Complete_From_Text.zip Handles Ctrl+Space, gives list of words from current file
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Config_Icons.zip Allows to choose icon-set for toolbar
-https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Config_Menu.zip Allows to customize CudaText top/context menus
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.CSS_AutoPrefixer.zip Inserts vendor prefixes into CSS code (requires Node.js)
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.CSS_CanIUse.zip For CSS, shows info about selected word from CanIUse.com site
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.CSS_Comb.zip Sorts CSS properties in specific order (CSScomb engine)
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.CSS_Format.zip Formats/indents CSS code
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.CSS_Minifier.zip Makes CSS code compact
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.CSS_Prefixer.zip Inserts vendor prefixes into CSS code
-https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Config_Keymap.zip Shows dialog for view/set hotkeys in editor
-https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.CudaExt.zip Additional commands, in Commands dialog
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.CudaLint.zip Linting (syntax-checking) of source code
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.DevDocs.zip Performs search on DevDocs site
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.DocBlock_Comments.zip Helps to type DocBlock comments, for JS/PHP lexers
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Emmet_Lite_WindowsOnly.zip Emmet engine, see www.emmet.io
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Encode.zip Converts text using many "codings", "transformations"
-https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.External_Tools.zip Support for calling external programs in CudaText
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Extract_Emails.zip Finds emails in current file
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Extract_Strings.zip Shows dialog to enter regex, regex will find list of strings
-https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.FindInFiles.zip Find in Files
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.FTP.zip FTP client: download, upload, create/delete files/dirs
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Hex_Dump.zip Shows text in hex-dump format
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Hilite_All_Occurrences.zip Highlights all occurrences of selected word
@@ -52,24 +47,19 @@ https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Insert_Num
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Insert_Time.zip Inserts current date/time into text
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Insert_Unicode_Char.zip Inserts Unicode char after entering its hex code
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Install_From_Github.zip Allows to install plugin from Github URL
-https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Intext_Bookmarks.zip Manages "permanent bookmarks" which are text comments
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.JS_Format.zip Formats JavaScript or JSON code
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.JS_Minifier.zip Makes JavaScript code compact
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.JS_Sort_Imports.zip Sorts import-lines in JavaScript
-https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Keymap_Report.zip Shows HTML page with report of hotkeys
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Lorem_Ipsum.zip Inserts "Lorem Ipsum" text
-https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Macros.zip Macros manager for CudaText
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Markdown_Preview.zip Previews Markdown text as HTML in browser
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Numbered_Bookmarks.zip Allows to set/goto numbered bookmarks (1..9)
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Num_To_Words_Propis.zip Converts numbers to words, Rus lang
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Num_To_Words.zip Converts numbers to words
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Online_Search.zip Opens browser with search for selected text
-https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Options_Report.zip Shows HTML page with report of options
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Python_Fix_Imports.zip Corrects import-statements in Python file (see readme)
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Python_Intel.zip Intelligence for Python: auto-completion, goto-definition
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.reStructuredText_Preview.zip Previews reStructuredText file as HTML in browser
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Ruby_Format.zip Formats Ruby source code
-https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Session_Manager.zip Allows to manage "sessions" in editor
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Snippets.zip Support for snippets in CudaText, see wiki
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Sort.zip Gives dialog and commands to sort text
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Sort_By_Length.zip Sorts entire text by length of lines
