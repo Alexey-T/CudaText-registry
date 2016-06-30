@@ -1,10 +1,13 @@
 ﻿;lint
+https://sourceforge.net/projects/cudatext/files/addons/linters/linter.C%2B%2B_using_cppcheck.zip Linter for C++, using cppcheck
 https://sourceforge.net/projects/cudatext/files/addons/linters/linter.CSS_using_csslint.zip Linter for CSS, using csslint, requires Node.js
 https://sourceforge.net/projects/cudatext/files/addons/linters/linter.HTML_using_htmltidy.zip Linter for HTML, using HTML Tidy
+https://sourceforge.net/projects/cudatext/files/addons/linters/linter.Java_using_javac.zip Linter for Java, using javac
 https://sourceforge.net/projects/cudatext/files/addons/linters/linter.JavaScript_using_jsl.zip Linter for JavaScript, using JSL
 https://sourceforge.net/projects/cudatext/files/addons/linters/linter.Python_using_pylint.zip Linter for Python, using PyLint
 https://sourceforge.net/projects/cudatext/files/addons/linters/linter.JSON_using_python-json.zip Linter for JSON, using python-json
 https://sourceforge.net/projects/cudatext/files/addons/linters/linter.PHP_using_phpl.zip Linter for PHP, using "php -l"
+https://sourceforge.net/projects/cudatext/files/addons/linters/linter.Ruby_using_ruby.zip Linter for Ruby, using ruby
 ;plugins
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.ASCII_Art.zip Allows to insert text formatted via ASCII-art fonts
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.AStyle_Format.zip Formats code for C, C++, C#, Java, using AStyle library
