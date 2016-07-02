@@ -10,6 +10,7 @@ https://sourceforge.net/projects/cudatext/files/addons/linters/linter.Python_usi
 https://sourceforge.net/projects/cudatext/files/addons/linters/linter.JSON_using_python-json.zip Linter for JSON, using python-json
 https://sourceforge.net/projects/cudatext/files/addons/linters/linter.PHP_using_phpl.zip Linter for PHP, using "php -l"
 https://sourceforge.net/projects/cudatext/files/addons/linters/linter.Ruby_using_ruby.zip Linter for Ruby, using ruby
+https://sourceforge.net/projects/cudatext/files/addons/linters/linter.YAML_using_pyyaml.zip Linter for YAML, using pyyaml (only Linux/OSX yet)
 ;plugins
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.ASCII_Art.zip Allows to insert text formatted via ASCII-art fonts
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.AStyle_Format.zip Formats code for C, C++, C#, Java, using AStyle library
