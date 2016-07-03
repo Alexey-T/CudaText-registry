@@ -13,6 +13,7 @@ https://sourceforge.net/projects/cudatext/files/addons/linters/linter.Modelica_u
 https://sourceforge.net/projects/cudatext/files/addons/linters/linter.Python_using_pylint.zip Linter for Python, using PyLint
 https://sourceforge.net/projects/cudatext/files/addons/linters/linter.JSON_using_python-json.zip Linter for JSON, using python-json
 https://sourceforge.net/projects/cudatext/files/addons/linters/linter.PHP_using_phpl.zip Linter for PHP, using "php -l"
+https://sourceforge.net/projects/cudatext/files/addons/linters/linter.PHP_using_phplint.zip Linter for PHP, using phplint
 https://sourceforge.net/projects/cudatext/files/addons/linters/linter.Ruby_using_ruby.zip Linter for Ruby, using ruby
 https://sourceforge.net/projects/cudatext/files/addons/linters/linter.XML_using_xmllint.zip Linter for XML, using libxml
 https://sourceforge.net/projects/cudatext/files/addons/linters/linter.YAML_using_pyyaml.zip Linter for YAML, using pyyaml (only Linux/OSX yet)
