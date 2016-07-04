@@ -11,6 +11,7 @@ https://sourceforge.net/projects/cudatext/files/addons/linters/linter.JavaScript
 https://sourceforge.net/projects/cudatext/files/addons/linters/linter.Lua_using_luac.zip Linter for Lua, using luac
 https://sourceforge.net/projects/cudatext/files/addons/linters/linter.Modelica_using_moparser.zip Linter for Modelica, using MoParser (Windows only)
 https://sourceforge.net/projects/cudatext/files/addons/linters/linter.Python_using_pylint.zip Linter for Python, using PyLint
+https://sourceforge.net/projects/cudatext/files/addons/linters/linter.Python_using_pep8.zip Linter for Python, using PEP8
 https://sourceforge.net/projects/cudatext/files/addons/linters/linter.JSON_using_python-json.zip Linter for JSON, using python-json
 https://sourceforge.net/projects/cudatext/files/addons/linters/linter.PHP_using_phpl.zip Linter for PHP, using "php -l"
 https://sourceforge.net/projects/cudatext/files/addons/linters/linter.PHP_using_phplint.zip Linter for PHP, using phplint
