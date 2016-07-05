@@ -3,6 +3,7 @@ https://sourceforge.net/projects/cudatext/files/addons/linters/linter.C%2B%2B_us
 https://sourceforge.net/projects/cudatext/files/addons/linters/linter.C%2B%2B_using_cpplint.zip Linter for C++, using cpplint
 https://sourceforge.net/projects/cudatext/files/addons/linters/linter.CSS_using_csslint.zip Linter for CSS, using csslint, requires Node.js
 https://sourceforge.net/projects/cudatext/files/addons/linters/linter.CoffeeScript_using_coffee.zip Linter for CoffeeScript, using coffee, requires Node.js
+https://sourceforge.net/projects/cudatext/files/addons/linters/linter.CoffeeScript_using_coffeelint.zip Linter for CoffeeScript, using coffeelint, requires Node.js
 https://sourceforge.net/projects/cudatext/files/addons/linters/linter.Go_using_golint.zip Linter for Go, using golint
 https://sourceforge.net/projects/cudatext/files/addons/linters/linter.Go_using_gotype.zip Linter for Go, using gotype
 https://sourceforge.net/projects/cudatext/files/addons/linters/linter.Go_using_go-vet.zip Linter for Go, using "go vet"
