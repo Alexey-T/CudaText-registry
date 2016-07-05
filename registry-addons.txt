@@ -8,6 +8,7 @@ https://sourceforge.net/projects/cudatext/files/addons/linters/linter.Go_using_g
 https://sourceforge.net/projects/cudatext/files/addons/linters/linter.Go_using_go-vet.zip Linter for Go, using "go vet"
 https://sourceforge.net/projects/cudatext/files/addons/linters/linter.HTML_using_htmltidy.zip Linter for HTML, using HTML Tidy
 https://sourceforge.net/projects/cudatext/files/addons/linters/linter.Java_using_javac.zip Linter for Java, using javac
+https://sourceforge.net/projects/cudatext/files/addons/linters/linter.JavaScript_using_eslint.zip Linter for JavaScript/ReactJS, using ESLint, requires Node.js
 https://sourceforge.net/projects/cudatext/files/addons/linters/linter.JavaScript_using_jsl.zip Linter for JavaScript, using JSL
 https://sourceforge.net/projects/cudatext/files/addons/linters/linter.JavaScript_using_jshint.zip Linter for JavaScript, using JSHint, requires Node.js
 https://sourceforge.net/projects/cudatext/files/addons/linters/linter.JSON_using_python-json.zip Linter for JSON, using python-json
