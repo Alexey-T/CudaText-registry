@@ -19,7 +19,8 @@ https://sourceforge.net/projects/cudatext/files/addons/linters/linter.Python_usi
 https://sourceforge.net/projects/cudatext/files/addons/linters/linter.Python_using_pep8.zip Linter for Python, using PEP8
 https://sourceforge.net/projects/cudatext/files/addons/linters/linter.PHP_using_phpl.zip Linter for PHP, using "php -l"
 https://sourceforge.net/projects/cudatext/files/addons/linters/linter.PHP_using_phplint.zip Linter for PHP, using phplint
-https://sourceforge.net/projects/cudatext/files/addons/linters/linter.PHP_using_phpmd.zip Linter for PHP, using phpmd
+https://sourceforge.net/projects/cudatext/files/addons/linters/linter.PHP_using_phpcs.zip Linter for PHP, using PHP_CodeSniffer
+https://sourceforge.net/projects/cudatext/files/addons/linters/linter.PHP_using_phpmd.zip Linter for PHP, using PHPMD
 https://sourceforge.net/projects/cudatext/files/addons/linters/linter.Ruby_using_rubocop.zip Linter for Ruby, using rubocop
 https://sourceforge.net/projects/cudatext/files/addons/linters/linter.Ruby_using_ruby.zip Linter for Ruby, using ruby
 https://sourceforge.net/projects/cudatext/files/addons/linters/linter.XML_using_xmllint-libxml2.zip Linter for XML, using xmllint-libxml2
