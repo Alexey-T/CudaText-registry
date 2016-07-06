@@ -152,6 +152,7 @@ https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Virgil.zip
 https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Visual_Basic.zip
 https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Visual_dBase.zip
 https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.WinBuilder_script.zip
+https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Windows_Resource_Script.zip
 https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.WSH_script.zip
 https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.XSLT.zip
 https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Yacc.zip
