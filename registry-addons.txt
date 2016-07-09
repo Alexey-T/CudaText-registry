@@ -7,6 +7,7 @@ https://sourceforge.net/projects/cudatext/files/addons/linters/linter.CoffeeScri
 https://sourceforge.net/projects/cudatext/files/addons/linters/linter.Go_using_golint.zip Linter for Go, using golint
 https://sourceforge.net/projects/cudatext/files/addons/linters/linter.Go_using_gotype.zip Linter for Go, using gotype
 https://sourceforge.net/projects/cudatext/files/addons/linters/linter.Go_using_go-vet.zip Linter for Go, using "go vet"
+https://sourceforge.net/projects/cudatext/files/addons/linters/linter.Haml_using_ruby-haml.zip Linter for Haml, using Ruby-haml
 https://sourceforge.net/projects/cudatext/files/addons/linters/linter.HTML_using_htmltidy.zip Linter for HTML, using HTML Tidy
 https://sourceforge.net/projects/cudatext/files/addons/linters/linter.Java_using_javac.zip Linter for Java, using javac
 https://sourceforge.net/projects/cudatext/files/addons/linters/linter.JavaScript_using_eslint.zip Linter for JavaScript/ReactJS, using ESLint, requires Node.js
