@@ -148,6 +148,7 @@ https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Vala.zip
 https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.VBScript.zip
 https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Verilog_HDL.zip
 https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.VHDL.zip
+https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.VimL.zip
 https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Virgil.zip
 https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Visual_Basic.zip
 https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Visual_dBase.zip
