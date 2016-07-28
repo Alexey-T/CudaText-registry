@@ -70,6 +70,7 @@ https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.IDL_files.zi
 https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.IDL_language.zip
 https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Informix_4GL.zip
 https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Inno_Setup.zip
+https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Intel_HEX.zip
 https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Jade.zip
 https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Jasmine_JVM_Assembler.zip
 https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.JavaScript_Babel.zip
