@@ -50,6 +50,7 @@ https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.DevDocs.zi
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.DocBlock_Comments.zip Helps to type DocBlock comments, for JS/PHP lexers
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Emmet_Lite_WindowsOnly.zip Emmet engine, see www.emmet.io
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Encode.zip Converts text using many "codings", "transformations"
+https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Explorer_Integration.zip Integrates CudaText with Windows Explorer
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Extract_Emails.zip Finds emails in current file
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Extract_Strings.zip Shows dialog to enter regex, regex will find list of strings
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.FTP.zip FTP client: download, upload, create/delete files/dirs
