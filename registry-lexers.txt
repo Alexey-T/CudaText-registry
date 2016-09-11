@@ -21,6 +21,7 @@ https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.AWK.zip
 https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Bash_script.zip
 https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.BibTeX.zip
 https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Bitsquid_SJSON.zip
+https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Bohemia_SQF.zip
 https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Boo.zip
 https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Brainfuck.zip
 https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Caml.zip
