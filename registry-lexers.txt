@@ -10,10 +10,11 @@ https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Apache_confi
 https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Apache_Pig.zip
 https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.AppleScript.zip
 https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Arduino.zip
-https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.ARM_Assembly.zip
 https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.ASAP2.zip
+https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Assembly_ARM.zip
 https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Assembly_FASM.zip
 https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Assembly_JWASM.zip
+https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Assembly_MIPS.zip
 https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Asymptote.zip
 https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Automake.zip
 https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.AviSynth.zip
@@ -89,7 +90,6 @@ https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.MATLAB.zip
 https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.MediaWiki.zip
 https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Metafont.zip
 https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.MIB_files_(SNMP_protocol).zip
-https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.MIPS_Assembly.zip
 https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Modelica.zip
 https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Modula_2.zip
 https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.MSVS_Solution.zip
