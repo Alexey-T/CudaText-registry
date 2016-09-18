@@ -16,6 +16,8 @@ https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Assembly_FAS
 https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Assembly_JWASM.zip
 https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Assembly_MIPS.zip
 https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Asymptote.zip
+https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.AutoHotkey.zip
+https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.AutoIt.zip
 https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Automake.zip
 https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.AviSynth.zip
 https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.AWK.zip
