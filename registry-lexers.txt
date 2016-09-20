@@ -145,6 +145,7 @@ https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Swift.zip
 https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Tcl.zip
 https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Text_Russian_detector.zip
 https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Text_with_indentation.zip
+https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Textile.zip
 https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.TOML.zip
 https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Tree.zip
 https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.T-SQL.zip
