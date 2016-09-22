@@ -71,6 +71,7 @@ https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Insert_Uni
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Install_From_Github.zip Allows to install plugin from Github URL
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.JS_Format.zip Formats JavaScript or JSON code
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.JS_Minifier.zip Makes JavaScript code compact
+https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.JS_Multiline_Array.zip Converts n lines of text to JS array
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.JS_Sort_Imports.zip Sorts import-lines in JavaScript
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Lorem_Ipsum.zip Inserts "Lorem Ipsum" text
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Markdown_Preview.zip Previews Markdown text as HTML in browser
