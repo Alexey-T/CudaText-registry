@@ -7,6 +7,7 @@ https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Acu_Cobol.zi
 https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Ada.zip
 https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Adobe_Flash.zip
 https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Apache_config.zip
+https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Apache_Hive.zip
 https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Apache_Pig.zip
 https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.AppleScript.zip
 https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Arduino.zip
