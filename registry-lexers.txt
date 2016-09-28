@@ -13,6 +13,7 @@ https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.AppleScript.
 https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Arduino.zip
 https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.ASAP2.zip
 https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Assembly_ARM.zip
+https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Assembly_AVR.zip
 https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Assembly_FASM.zip
 https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Assembly_JWASM.zip
 https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Assembly_MIPS.zip
