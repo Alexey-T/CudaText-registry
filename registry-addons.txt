@@ -1,18 +1,19 @@
 ﻿;lint
 https://sourceforge.net/projects/cudatext/files/addons/linters/linter.C%2B%2B_using_cppcheck.zip Linter for C++, using cppcheck
 https://sourceforge.net/projects/cudatext/files/addons/linters/linter.C%2B%2B_using_cpplint.zip Linter for C++, using cpplint
-https://sourceforge.net/projects/cudatext/files/addons/linters/linter.CSS_using_csslint.zip Linter for CSS, using csslint, requires Node.js
-https://sourceforge.net/projects/cudatext/files/addons/linters/linter.CoffeeScript_using_coffee.zip Linter for CoffeeScript, using coffee, requires Node.js
-https://sourceforge.net/projects/cudatext/files/addons/linters/linter.CoffeeScript_using_coffeelint.zip Linter for CoffeeScript, using coffeelint, requires Node.js
+https://sourceforge.net/projects/cudatext/files/addons/linters/linter.CSS_using_csslint.zip Linter for CSS, using csslint (requires Node.js)
+https://sourceforge.net/projects/cudatext/files/addons/linters/linter.CSS_using_csstree.zip Linter for CSS, using csstree (requires Node.js)
+https://sourceforge.net/projects/cudatext/files/addons/linters/linter.CoffeeScript_using_coffee.zip Linter for CoffeeScript, using coffee (requires Node.js)
+https://sourceforge.net/projects/cudatext/files/addons/linters/linter.CoffeeScript_using_coffeelint.zip Linter for CoffeeScript, using coffeelint (requires Node.js)
 https://sourceforge.net/projects/cudatext/files/addons/linters/linter.Go_using_golint.zip Linter for Go, using golint
 https://sourceforge.net/projects/cudatext/files/addons/linters/linter.Go_using_gotype.zip Linter for Go, using gotype
 https://sourceforge.net/projects/cudatext/files/addons/linters/linter.Go_using_go-vet.zip Linter for Go, using "go vet"
 https://sourceforge.net/projects/cudatext/files/addons/linters/linter.Haml_using_ruby-haml.zip Linter for Haml, using Ruby-haml
 https://sourceforge.net/projects/cudatext/files/addons/linters/linter.HTML_using_htmltidy.zip Linter for HTML, using HTML Tidy
 https://sourceforge.net/projects/cudatext/files/addons/linters/linter.Java_using_javac.zip Linter for Java, using javac
-https://sourceforge.net/projects/cudatext/files/addons/linters/linter.JavaScript_using_eslint.zip Linter for JavaScript/ReactJS, using ESLint, requires Node.js
+https://sourceforge.net/projects/cudatext/files/addons/linters/linter.JavaScript_using_eslint.zip Linter for JavaScript/ReactJS, using ESLint (requires Node.js)
 https://sourceforge.net/projects/cudatext/files/addons/linters/linter.JavaScript_using_jsl.zip Linter for JavaScript, using JSL
-https://sourceforge.net/projects/cudatext/files/addons/linters/linter.JavaScript_using_jshint.zip Linter for JavaScript, using JSHint, requires Node.js
+https://sourceforge.net/projects/cudatext/files/addons/linters/linter.JavaScript_using_jshint.zip Linter for JavaScript, using JSHint (requires Node.js)
 https://sourceforge.net/projects/cudatext/files/addons/linters/linter.JSON_using_python-json.zip Linter for JSON, using python-json
 https://sourceforge.net/projects/cudatext/files/addons/linters/linter.Lua_using_luac.zip Linter for Lua, using luac
 https://sourceforge.net/projects/cudatext/files/addons/linters/linter.Modelica_using_moparser.zip Linter for Modelica, using MoParser
@@ -41,7 +42,7 @@ https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Complete_F
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Config_Icons.zip Allows to choose icon-set for toolbar
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.CSS_AutoPrefixer.zip Inserts vendor prefixes into CSS code (requires Node.js)
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.CSS_CanIUse.zip For CSS, shows info about selected word from CanIUse.com site
-https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.CSS_Comb.zip Sorts CSS properties in specific order (CSScomb engine)
+https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.CSS_Comb.zip Sorts CSS properties in specific order (requires Node.js)
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.CSS_Format.zip Formats/indents CSS code
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.CSS_Minifier.zip Makes CSS code compact
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.CSS_Prefixer.zip Inserts vendor prefixes into CSS code
