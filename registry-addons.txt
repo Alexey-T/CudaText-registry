@@ -46,6 +46,7 @@ https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.CSS_Comb.z
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.CSS_Format.zip Formats/indents CSS code
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.CSS_Minifier.zip Makes CSS code compact
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.CSS_Prefixer.zip Inserts vendor prefixes into CSS code
+https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.CSS_Table_of_Contents.zip Creates sections and TOC in CSS files
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.CudaLint.zip Linting (syntax-checking) of source code
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.DevDocs.zip Performs search on DevDocs site
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.DocBlock_Comments.zip Helps to type DocBlock comments, for JS/PHP lexers
