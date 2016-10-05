@@ -80,6 +80,7 @@ https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Numbered_B
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Num_To_Words_Propis.zip Converts numbers to words, Rus lang
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Num_To_Words.zip Converts numbers to words
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Online_Search.zip Opens browser with search for selected text
+https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Paste_as_String.zip Pastes from clipboard as "string" for cur lexer
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Project_Manager.zip Allows to manage "projects" in side-panel
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Python_Fix_Imports.zip Corrects import-statements in Python file (see readme)
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Python_Intel.zip Intelligence for Python: auto-completion, goto-definition
