@@ -92,6 +92,7 @@ https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Sort.zip G
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Sort_By_Length.zip Sorts entire text by length of lines
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Spell_Checker.zip Spell checker, shows underlines for wrong words
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.SQL_Format.zip Formats SQL code (using sqlparse library)
+https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.SQLTools.zip Swiss army knife for SQL databases
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Sum_Lines.zip Calculates sum/min/max/avg of numbers in lines
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Switch_Header.zip Switches file pairs: c<>h, cpp<>h, cc<>h, asm<>inc
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Tabs_List.zip Shows in side-panel list of tabs
