@@ -63,6 +63,7 @@ https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.HTML_Beaut
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.HTML_Class_Complete.zip Auto-completes CSS class names, in HTML code
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.HTML_Image_Tag.zip Inserts IMG tag with info about selected image file
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.HTML_Lines_To_List.zip Converts lines to HTML list: <ul>, <ol>, <table>
+https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.HTML_Ops.zip Commands to add tags to selection
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.HTML_Preview.zip Previews HTML text in browser
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.HTML_Tidy.zip Validates HTML documents using Tidy tool
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.HTML_Validator.zip Validates HTML documents using online W3C checkers
