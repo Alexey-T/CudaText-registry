@@ -78,6 +78,7 @@ https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.JS_Multili
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.JS_Sort_Imports.zip Sorts import-lines in JavaScript
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Lorem_Ipsum.zip Inserts "Lorem Ipsum" text
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Markdown_Preview.zip Previews Markdown text as HTML in browser
+https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Markdown_Table_Format.zip Formats tables in Markdown docs
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Numbered_Bookmarks.zip Allows to set/goto numbered bookmarks (1..9)
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Num_To_Words_Propis.zip Converts numbers to words, Rus lang
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Num_To_Words.zip Converts numbers to words
