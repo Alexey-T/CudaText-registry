@@ -98,6 +98,7 @@ https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.SQLTools.z
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Sum_Lines.zip Calculates sum/min/max/avg of numbers in lines
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Switch_Header.zip Switches file pairs: c<>h, cpp<>h, cc<>h, asm<>inc
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Tabs_List.zip Shows in side-panel list of tabs
+https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Tern.zip Code-intelligence for JavaScript, based on Tern.js
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Text_Statistics.zip Calcs for text: count of lines, words, letters
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Textile_Preview.zip Previews Textile files as HTML in browser
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Web_Font.zip Inserts into CSS code fonts from webfont.ru
