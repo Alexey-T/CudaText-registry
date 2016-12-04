@@ -17,6 +17,7 @@ https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Assembly_AVR
 https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Assembly_FASM.zip
 https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Assembly_JWASM.zip
 https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Assembly_MIPS.zip
+https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Assembly_SHARC_DSP.zip
 https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Assembly_SPARC.zip
 https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Assembly_Z80_SjASM.zip
 https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Asymptote.zip
