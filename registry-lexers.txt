@@ -172,3 +172,4 @@ https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.WSH_script.z
 https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.XSLT.zip
 https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Yacc.zip
 https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.YAML.zip
+https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.ZenScript.zip
