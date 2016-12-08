@@ -55,6 +55,7 @@ https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Encode.zip
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Explorer_Integration.zip Integrates CudaText with Windows Explorer
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Extract_Emails.zip Finds emails in current file
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Extract_Strings.zip Shows dialog to enter regex, regex will find list of strings
+https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Filter_Lines.zip Finds all lines, containing some string/regex
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.FTP.zip FTP client: download, upload, create/delete files/dirs
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Hex_Dump.zip Shows text in hex-dump format
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Hilite_All_Occurrences.zip Highlights all occurrences of selected word
