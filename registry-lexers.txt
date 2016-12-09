@@ -124,6 +124,7 @@ https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.PHP_.zip
 https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.PICL.zip
 https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Pike.zip
 https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.PL_SQL.zip
+https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.PlantUML.zip
 https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.PostScript.zip
 https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Prolog.zip
 https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Puppet.zip
