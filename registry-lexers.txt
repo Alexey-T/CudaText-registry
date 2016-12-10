@@ -69,6 +69,7 @@ https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Harbour.zip
 https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Haxe.zip
 https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.HJSON.zip
 https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.HTML_Diafan.zip
+https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.HTML_Django_DTL.zip
 https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.HTML_Embedded_JS.zip
 https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.HTML_Handlebars.zip
 https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.HTML_Laravel_Blade.zip
