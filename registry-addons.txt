@@ -71,6 +71,7 @@ https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.HTML_Valid
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Increment.zip Increases/decreases value under caret (HTML, CSS)
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Ini_Sort.zip For ini file, sorts all sections
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Insert_Numbers.zip Allows to insert increasing numbers into text
+https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Insert_Pics.zip Inserts picture-files into text (using helper file)
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Insert_Unicode_Char.zip Inserts Unicode char by its hex code
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Install_From_Github.zip Allows to install plugin from Github URL
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.JS_Format.zip Formats JavaScript or JSON code
