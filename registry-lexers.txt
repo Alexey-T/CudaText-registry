@@ -94,6 +94,7 @@ https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Kivy.zip
 https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.KiXtart.zip
 https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.LaTeX.zip
 https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Lisp.zip
+https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.LiveCode.zip
 https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Logfiles.zip
 https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Lola-2.zip
 https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.MacroScript_(Macro_Sheduler).zip
