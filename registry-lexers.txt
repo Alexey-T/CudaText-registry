@@ -151,6 +151,7 @@ https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.SQL_White.zi
 https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Squirrel.zip
 https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Standard_ML.zip
 https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Stata.zip
+https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Strace.zip
 https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Stylus.zip
 https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Swift.zip
 https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Tcl.zip
