@@ -32,6 +32,7 @@ https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Bitsquid_SJS
 https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Bohemia_SQF.zip
 https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Boo.zip
 https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Brainfuck.zip
+https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Caffe_Prototxt.zip
 https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Caml.zip
 https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Clarion.zip
 https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Clavier.zip
