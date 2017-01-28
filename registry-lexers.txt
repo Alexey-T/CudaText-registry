@@ -63,6 +63,7 @@ https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Gherkin.zip
 https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.GLSL.zip
 https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Gold_Parser.zip
 https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Graphviz_DOT.zip
+https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.GraphQL.zip
 https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Great_Cow_Basic.zip
 https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Groovy.zip
 https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Haml.zip
