@@ -29,6 +29,7 @@ https://sourceforge.net/projects/cudatext/files/addons/linters/linter.Rust_using
 https://sourceforge.net/projects/cudatext/files/addons/linters/linter.XML_using_xmllint-libxml2.zip Linter for XML, using xmllint-libxml2
 https://sourceforge.net/projects/cudatext/files/addons/linters/linter.YAML_using_pyyaml.zip Linter for YAML, using pyyaml (only Linux/OSX yet)
 ;plugins
+https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Auto_Copy_On_Select.zip Auto-copies block to clipboard, on selection
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.ASCII_Art.zip Allows to insert text formatted via ASCII-art fonts
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.AStyle_Format.zip Formats code for C, C++, C#, Java, using AStyle library
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Base_Encoder.zip Allows to encode/decode text in Base64, Base32, Base16, Quoted-Printable, Unicode-Escape
