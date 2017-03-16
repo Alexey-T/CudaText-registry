@@ -133,11 +133,11 @@ https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.PlantUML.zip
 https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.PostScript.zip
 https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Prolog.zip
 https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Puppet.zip
+https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Racket.zip
 https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Ragel.zip
 https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Razor.zip
 https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Regular_expressions.zip
 https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.reStructuredText.zip
-https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Racket.zip
 https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Rexx.zip
 https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.R_Markdown.zip
 https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.RPG_IV.zip
