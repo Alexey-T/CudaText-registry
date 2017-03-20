@@ -103,6 +103,7 @@ https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Tabs_List.
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Tern.zip Code-intelligence for JavaScript, based on Tern.js
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Text_Statistics.zip Calcs for text: count of lines, words, letters
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Textile_Preview.zip Previews Textile files as HTML in browser
+https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Uroboro_SQL_Format.zip Formats SQL code (using uroboroSQL library)
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Web_Font.zip Inserts into CSS code fonts from webfont.ru
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.XML_Format.zip Formats XML code (uses xmlpp library)
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.XML_Tidy.zip Formats XML code (using xml.dom library)
