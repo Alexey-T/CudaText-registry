@@ -135,3 +135,4 @@ https://sourceforge.net/projects/cudatext/files/addons/translations/translation.
 https://sourceforge.net/projects/cudatext/files/addons/translations/translation.zh_CN.zip
 https://sourceforge.net/projects/cudatext/files/addons/translations/translation.zh_TW.zip
 https://sourceforge.net/projects/cudatext/files/addons/themes/theme.gruvbox.zip
+https://sourceforge.net/projects/cudatext/files/addons/sidebaricons/sidebaricons.Entypo.zip
