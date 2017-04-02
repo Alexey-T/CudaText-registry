@@ -39,7 +39,7 @@ https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Case_Conve
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.CBlock.zip For selected lines, adds indent and surrounds with { } brackets
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Color_Picker.zip Shows color-picker dialog, inserts color #rrggbb
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Complete_From_Text.zip Handles Ctrl+Space, gives list of words from current file
-https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Config_Icons.zip Allows to choose icon-set for toolbar
+https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Config_Toolbar.zip Configures main toolbar: icon-set and buttons
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Convert_base2_to_hex.zip Converts buffer: list of base-2 nums, to hex nums
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.CSS_AutoPrefixer.zip Inserts vendor prefixes into CSS code (requires Node.js)
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.CSS_CanIUse.zip For CSS, shows info about selected word from CanIUse.com site
