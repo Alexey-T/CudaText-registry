@@ -94,6 +94,7 @@ https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Jinja2.zip
 https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Julia.zip
 https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Kivy.zip
 https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.KiXtart.zip
+https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Kotlin.zip
 https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.LaTeX.zip
 https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Lisp.zip
 https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.LiveCode.zip
