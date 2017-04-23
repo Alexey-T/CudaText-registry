@@ -1,0 +1,487 @@
+﻿{
+  {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Auto_Copy_to_Clipboard.zip",
+    "desc": "Auto-copies block to clipboard, on selection",
+    "module": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.ASCII_Art.zip",
+    "desc": "Allows to insert text formatted via ASCII-art fonts",
+    "module": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.AStyle_Format.zip",
+    "desc": "Formats code for C, C++, C#, Java, using AStyle library",
+    "module": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Base_Encoder.zip",
+    "desc": "Allows to encode/decode text in Base64, Base32, Base16, Quoted-Printable, Unicode-Escape",
+    "module": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Brackets_Hilite.zip",
+    "desc": "Highlights pair brackets for caret position, when caret moves",
+    "module": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Carets_Numbering.zip",
+    "desc": "Inserts increasing numbers at all multi-carets positions",
+    "module": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Case_Converter.zip",
+    "desc": "Converts ids between several cases (snake_case, camelCase, PascalCase etc)",
+    "module": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.CBlock.zip",
+    "desc": "For selected lines, adds indent and surrounds with { } brackets",
+    "module": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Color_Picker.zip",
+    "desc": "Shows color-picker dialog, inserts color #rrggbb",
+    "module": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Complete_From_Text.zip",
+    "desc": "Handles Ctrl+Space, gives list of words from current file",
+    "module": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Config_Toolbar.zip",
+    "desc": "Configures main toolbar: icon-set and buttons",
+    "module": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Convert_base2_to_hex.zip",
+    "desc": "Converts buffer: list of base-2 nums, to hex nums",
+    "module": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.CSS_AutoPrefixer.zip",
+    "desc": "Inserts vendor prefixes into CSS code (requires Node.js)",
+    "module": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.CSS_CanIUse.zip",
+    "desc": "For CSS, shows info about selected word from CanIUse.com site",
+    "module": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.CSS_Comb.zip",
+    "desc": "Sorts CSS properties in specific order (requires Node.js)",
+    "module": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.CSS_Format.zip",
+    "desc": "Formats/indents CSS code",
+    "module": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.CSS_Minifier.zip",
+    "desc": "Makes CSS code compact",
+    "module": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.CSS_Prefixer.zip",
+    "desc": "Inserts vendor prefixes into CSS code",
+    "module": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.CSS_Table_of_Contents.zip",
+    "desc": "Creates sections and TOC in CSS files",
+    "module": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.CudaLint.zip",
+    "desc": "Linting (syntax-checking) of source code",
+    "module": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.DevDocs.zip",
+    "desc": "Performs search on DevDocs site",
+    "module": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.DocBlock_Comments.zip",
+    "desc": "Helps to type DocBlock comments, for JS/PHP lexers",
+    "module": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Emmet_Lite.zip",
+    "desc": "Emmet engine, see www.emmet.io",
+    "module": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Encode.zip",
+    "desc": "Converts text using many "
+    codings ", "
+    transformations "",
+    "module": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Explorer_Integration.zip",
+    "desc": "Integrates CudaText with Windows Explorer",
+    "module": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Extract_Emails.zip",
+    "desc": "Finds emails in current file",
+    "module": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Extract_Strings.zip",
+    "desc": "Shows dialog to enter regex, regex will find list of strings",
+    "module": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Filter_Lines.zip",
+    "desc": "Finds all lines, containing some string/regex",
+    "module": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.FTP.zip",
+    "desc": "FTP client: download, upload, create/delete files/dirs",
+    "module": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Hex_Dump.zip",
+    "desc": "Shows text in hex-dump format",
+    "module": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Hilite_All_Occurrences.zip",
+    "desc": "Highlights all occurrences of selected word",
+    "module": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Hilite_Occurrences_New.zip",
+    "desc": "Highlights all occurrences of selected/current word",
+    "module": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.HTML_Beautify.zip",
+    "desc": "Formats/indents HTML code, uses engine from HTMLBeautify",
+    "module": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.HTML_Class_Complete.zip",
+    "desc": "Auto-completes CSS class names, in HTML code",
+    "module": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.HTML_Image_Tag.zip",
+    "desc": "Inserts IMG tag with info about selected image file",
+    "module": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.HTML_Lines_To_List.zip",
+    "desc": "Converts lines to HTML list: <ul>, <ol>, <table>",
+    "module": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.HTML_Ops.zip",
+    "desc": "Commands to add tags to selection",
+    "module": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.HTML_Preview.zip",
+    "desc": "Previews HTML text in browser",
+    "module": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.HTML_Tidy.zip",
+    "desc": "Validates HTML documents using Tidy tool",
+    "module": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.HTML_Validator.zip",
+    "desc": "Validates HTML documents using online W3C checkers",
+    "module": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Increment.zip",
+    "desc": "Increases/decreases value under caret (HTML, CSS)",
+    "module": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Ini_Sort.zip",
+    "desc": "For ini file, sorts all sections",
+    "module": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Insert_Numbers.zip",
+    "desc": "Allows to insert increasing numbers into text",
+    "module": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Insert_Pics.zip",
+    "desc": "Inserts picture-files into text (using helper file)",
+    "module": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Insert_Unicode_Char.zip",
+    "desc": "Inserts Unicode char by its hex code",
+    "module": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Install_From_Github.zip",
+    "desc": "Allows to install plugin from Github URL",
+    "module": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.JS_Format.zip",
+    "desc": "Formats JavaScript or JSON code",
+    "module": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.JS_Minifier.zip",
+    "desc": "Makes JavaScript code compact",
+    "module": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.JS_Multiline_Array.zip",
+    "desc": "Converts selection to JavaScript array",
+    "module": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.JS_Sort_Imports.zip",
+    "desc": "Sorts import-lines in JavaScript",
+    "module": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Lorem_Ipsum.zip",
+    "desc": "Inserts "
+    Lorem Ipsum " text",
+    "module": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Markdown_Preview.zip",
+    "desc": "Previews Markdown text as HTML in browser",
+    "module": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Markdown_Table_Format.zip",
+    "desc": "Formats tables in Markdown docs",
+    "module": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Numbered_Bookmarks.zip",
+    "desc": "Allows to set/goto numbered bookmarks (1..9)",
+    "module": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Num_To_Words_Propis.zip",
+    "desc": "Converts numbers to words, Rus lang",
+    "module": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Num_To_Words.zip",
+    "desc": "Converts numbers to words",
+    "module": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Online_Search.zip",
+    "desc": "Opens browser with search for selected text",
+    "module": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Paste_as_String.zip",
+    "desc": "Pastes from clipboard as "
+    string " for cur lexer",
+    "module": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Project_Manager.zip",
+    "desc": "Allows to manage "
+    projects " in side-panel",
+    "module": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Python_Fix_Imports.zip",
+    "desc": "Corrects import-statements in Python file (see readme)",
+    "module": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Python_Intel.zip",
+    "desc": "Intelligence for Python: auto-completion, goto-definition",
+    "module": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.reStructuredText_Preview.zip",
+    "desc": "Previews reStructuredText file as HTML in browser",
+    "module": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Ruby_Format.zip",
+    "desc": "Formats Ruby source code",
+    "module": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Snippets.zip",
+    "desc": "Support for snippets in CudaText, see wiki",
+    "module": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Sort.zip",
+    "desc": "Gives dialog and commands to sort text",
+    "module": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Sort_By_Length.zip",
+    "desc": "Sorts entire text by length of lines",
+    "module": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Spell_Checker.zip",
+    "desc": "Spell checker, shows underlines for wrong words",
+    "module": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.SQL_Format.zip",
+    "desc": "Formats SQL code (using sqlparse library)",
+    "module": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.SQLTools.zip",
+    "desc": "Swiss army knife for SQL databases",
+    "module": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Sum_Lines.zip",
+    "desc": "Calculates sum/min/max/avg of numbers in lines",
+    "module": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Switch_Header.zip",
+    "desc": "Switches file pairs: c<>h, cpp<>h, cc<>h, asm<>inc",
+    "module": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Tabs_List.zip",
+    "desc": "Shows in side-panel list of tabs",
+    "module": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Tern.zip",
+    "desc": "Code-intelligence for JavaScript, based on Tern.js",
+    "module": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Text_Statistics.zip",
+    "desc": "Calcs for text: count of lines, words, letters",
+    "module": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Textile_Preview.zip",
+    "desc": "Previews Textile files as HTML in browser",
+    "module": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Uroboro_SQL_Format.zip",
+    "desc": "Formats SQL code (using uroboroSQL library)",
+    "module": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Web_Font.zip",
+    "desc": "Inserts into CSS code fonts from webfont.ru",
+    "module": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.XML_Format.zip",
+    "desc": "Formats XML code (uses xmlpp library)",
+    "module": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.XML_Tidy.zip",
+    "desc": "Formats XML code (using xml.dom library)",
+    "module": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.YAML_Format.zip",
+    "desc": "Formats YAML code (using pyyaml library)",
+    "module": "",
+    "v": ""
+  }
+}

@@ -1,0 +1,178 @@
+{
+  {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/linters/linter.C%2B%2B_using_cppcheck.zip",
+    "desc": "Linter for C++, using cppcheck",
+    "module": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/linters/linter.C%2B%2B_using_cpplint.zip",
+    "desc": "Linter for C++, using cpplint",
+    "module": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/linters/linter.CSS_using_csslint.zip",
+    "desc": "Linter for CSS, using csslint (requires Node.js)",
+    "module": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/linters/linter.CSS_using_csstree.zip",
+    "desc": "Linter for CSS, using csstree (requires Node.js)",
+    "module": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/linters/linter.CoffeeScript_using_coffee.zip",
+    "desc": "Linter for CoffeeScript, using coffee (requires Node.js)",
+    "module": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/linters/linter.CoffeeScript_using_coffeelint.zip",
+    "desc": "Linter for CoffeeScript, using coffeelint (requires Node.js)",
+    "module": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/linters/linter.Go_using_golint.zip",
+    "desc": "Linter for Go, using golint",
+    "module": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/linters/linter.Go_using_gotype.zip",
+    "desc": "Linter for Go, using gotype",
+    "module": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/linters/linter.Go_using_go-vet.zip",
+    "desc": "Linter for Go, using "
+    go vet "",
+    "module": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/linters/linter.Haml_using_ruby-haml.zip",
+    "desc": "Linter for Haml, using Ruby-haml",
+    "module": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/linters/linter.HTML_using_htmltidy.zip",
+    "desc": "Linter for HTML, using HTML Tidy",
+    "module": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/linters/linter.Java_using_javac.zip",
+    "desc": "Linter for Java, using javac",
+    "module": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/linters/linter.JavaScript_using_eslint.zip",
+    "desc": "Linter for JavaScript/ReactJS, using ESLint (requires Node.js)",
+    "module": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/linters/linter.JavaScript_using_jsl.zip",
+    "desc": "Linter for JavaScript, using JSL",
+    "module": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/linters/linter.JavaScript_using_jshint.zip",
+    "desc": "Linter for JavaScript, using JSHint (requires Node.js)",
+    "module": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/linters/linter.JSON_using_python-json.zip",
+    "desc": "Linter for JSON, using python-json",
+    "module": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/linters/linter.Lua_using_luac.zip",
+    "desc": "Linter for Lua, using luac",
+    "module": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/linters/linter.Modelica_using_moparser.zip",
+    "desc": "Linter for Modelica, using MoParser",
+    "module": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/linters/linter.Python_using_pylint.zip",
+    "desc": "Linter for Python, using PyLint",
+    "module": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/linters/linter.Python_using_pep8.zip",
+    "desc": "Linter for Python, using PEP8",
+    "module": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/linters/linter.PHP_using_phpl.zip",
+    "desc": "Linter for PHP, using "
+    php - l "",
+    "module": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/linters/linter.PHP_using_phplint.zip",
+    "desc": "Linter for PHP, using phplint",
+    "module": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/linters/linter.PHP_using_phpcs.zip",
+    "desc": "Linter for PHP, using PHP_CodeSniffer",
+    "module": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/linters/linter.PHP_using_phpmd.zip",
+    "desc": "Linter for PHP, using PHPMD",
+    "module": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/linters/linter.Ruby_using_rubocop.zip",
+    "desc": "Linter for Ruby, using rubocop",
+    "module": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/linters/linter.Ruby_using_ruby.zip",
+    "desc": "Linter for Ruby, using ruby",
+    "module": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/linters/linter.Rust_using_rustc.zip",
+    "desc": "Linter for Rust, using rustc",
+    "module": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/linters/linter.XML_using_xmllint-libxml2.zip",
+    "desc": "Linter for XML, using xmllint-libxml2",
+    "module": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/linters/linter.YAML_using_pyyaml.zip",
+    "desc": "Linter for YAML, using pyyaml (only Linux/OSX yet)",
+    "module": "",
+    "v": ""
+  }
+}
