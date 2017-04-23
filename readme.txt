@@ -1,1 +1,1 @@
-List of addons for CudaText, as URLs
+List of addons for CudaText

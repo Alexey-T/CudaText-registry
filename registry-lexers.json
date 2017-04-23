@@ -1,0 +1,917 @@
+﻿{
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.ABAP.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Abaqus_Keywords.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.ABC_Notation.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.ActionScript.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Acu_Cobol.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Ada.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Adobe_Flash.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Apache_config.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Apache_Hive.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Apache_Pig.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.AppleScript.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Arduino.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.ASAP2.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Assembly_ARM.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Assembly_AVR.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Assembly_FASM.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Assembly_JWASM.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Assembly_MIPS.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Assembly_SHARC_DSP.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Assembly_SPARC.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Assembly_Z80_SjASM.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Asymptote.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.AutoHotkey.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.AutoIt.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Automake.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.AviSynth.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.AWK.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Bash_script.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.BibTeX.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Bitsquid_SJSON.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Bohemia_SQF.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Boo.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Brainfuck.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Caffe_Prototxt.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Caml.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Clarion.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Clavier.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Clipper.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Clojure.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.CMake.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Cobol.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.CodeVisionAVR.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.CoffeeScript.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.ColdFusion.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.CRF.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.CUDA_C++.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Dart.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Dockerfile.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.D.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Eiffel.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Elm.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Elixir.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Erlang.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Euphoria.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Factor.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Forth.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Fortran.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.FoxPro.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.F%23.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.GAMS.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Gherkin.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.GLSL.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Gold_Parser.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Graphviz_DOT.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.GraphQL.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Great_Cow_Basic.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Groovy.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Haml.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Harbour.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Haxe.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.HJSON.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.HTML_Diafan.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.HTML_Django_DTL.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.HTML_Embedded_JS.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.HTML_Handlebars.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.HTML_Laravel_Blade.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.HTML_Mustache.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.HTML_Siteleaf_Liquid.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.HTML_Smarty.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.HTML_.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.IDL_files.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.IDL_language.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Informix_4GL.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Inno_Setup.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Intel_HEX.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Jade.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Jasmine_JVM_Assembler.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.JavaScript_Babel.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Java_Velocity.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Java.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.JCL.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Jinja2.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Julia.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Kivy.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.KiXtart.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Kotlin.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.LaTeX.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Lisp.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.LiveCode.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Logfiles.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Lola-2.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.MacroScript_(Macro_Sheduler).zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.MATLAB.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.MediaWiki.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Metafont.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.MIB_files_(SNMP_protocol).zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Modelica.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Modula_2.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.MSVS_Solution.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.MySQL_SQL.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.MySQL_Stored_Procedures.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Nemerle.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.NFO_files.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Nginx.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Nim.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.nnCron.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.NSIS.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.NSL_Assembler.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Oberon.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Objective-C.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.OneC_(1C).zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.OpenCL.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.OpenEdge_ABL.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.OpenSCAD.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Parser3.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Pawn.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.PAX_Pascal.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.PHP_.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.PICL.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Pike.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.PL_SQL.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.PlantUML.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.PostScript.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Prolog.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Puppet.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Racket.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Ragel.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Razor.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Regular_expressions.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.reStructuredText.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Rexx.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.R_Markdown.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.RPG_IV.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.RTF.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Rust.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.R.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Sass.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Scala.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Scheme.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Slim.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Smalltalk.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.SQL_Blue.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.SQL_White.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Squirrel.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Standard_ML.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Stata.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Strace.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Stylus.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Swift.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Tcl.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Text_Russian_detector.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Text_with_indentation.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Textile.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.TOML.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Tree.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.T-SQL.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Twig.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.TypeScript.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Vala.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.VBScript.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Verilog_HDL.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.VHDL.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.VimL.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Virgil.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Visual_Basic.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Visual_dBase.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.WinBuilder_script.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Windows_Resource_Script.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.WSH_script.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.XSLT.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Yacc.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.YAML.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.ZenScript_(MineTweaker).zip",
+    "desc": "",
+    "v": ""
+  }
+}
