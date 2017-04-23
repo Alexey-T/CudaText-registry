@@ -1,4 +1,4 @@
-{
+[
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/linters/linter.C%2B%2B_using_cppcheck.zip",
     "desc": "Linter for C++, using cppcheck",
@@ -49,8 +49,7 @@
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/linters/linter.Go_using_go-vet.zip",
-    "desc": "Linter for Go, using "
-    go vet "",
+    "desc": "Linter for Go, using 'go vet'",
     "module": "",
     "v": ""
   },
@@ -122,8 +121,7 @@
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/linters/linter.PHP_using_phpl.zip",
-    "desc": "Linter for PHP, using "
-    php - l "",
+    "desc": "Linter for PHP, using 'php - l'",
     "module": "",
     "v": ""
   },
@@ -175,4 +173,4 @@
     "module": "",
     "v": ""
   }
-}
+]

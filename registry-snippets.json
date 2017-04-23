@@ -1,4 +1,4 @@
-{
+[
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/snippets/snippets.AutoIt.zip",
     "desc": "Snippets for AutoIt",
@@ -59,4 +59,4 @@
     "desc": "Snippets for Python",
     "v": ""
   }
-}
+]

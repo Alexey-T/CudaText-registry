@@ -1,4 +1,4 @@
-﻿{
+﻿[
   {
     "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.ABAP.zip",
     "desc": "",
@@ -914,4 +914,4 @@
     "desc": "",
     "v": ""
   }
-}
+]

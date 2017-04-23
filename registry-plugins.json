@@ -1,4 +1,4 @@
-﻿{
+﻿[
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Auto_Copy_to_Clipboard.zip",
     "desc": "Auto-copies block to clipboard, on selection",
@@ -139,9 +139,7 @@
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Encode.zip",
-    "desc": "Converts text using many "
-    codings ", "
-    transformations "",
+    "desc": "Converts text using many 'codings transformations'",
     "module": "",
     "v": ""
   },
@@ -303,8 +301,7 @@
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Lorem_Ipsum.zip",
-    "desc": "Inserts "
-    Lorem Ipsum " text",
+    "desc": "Inserts 'Lorem Ipsum' text",
     "module": "",
     "v": ""
   },
@@ -346,15 +343,13 @@
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Paste_as_String.zip",
-    "desc": "Pastes from clipboard as "
-    string " for cur lexer",
+    "desc": "Pastes from clipboard as 'string' for cur lexer",
     "module": "",
     "v": ""
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Project_Manager.zip",
-    "desc": "Allows to manage "
-    projects " in side-panel",
+    "desc": "Allows to manage 'projects' in side-panel",
     "module": "",
     "v": ""
   },
@@ -484,4 +479,4 @@
     "module": "",
     "v": ""
   }
-}
+]
