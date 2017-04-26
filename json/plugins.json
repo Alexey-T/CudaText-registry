@@ -30,6 +30,12 @@
     "v": "2016.07.14"
   },
   {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Calc_Expression.zip",
+    "desc": "Calculates math expression in text",
+    "module": "cuda_calc_expr",
+    "v": "2017.04.26"
+  },
+  {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Carets_Numbering.zip",
     "desc": "Inserts increasing numbers at all multi-carets positions",
     "module": "cuda_carets_num",

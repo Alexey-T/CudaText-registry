@@ -34,6 +34,7 @@ https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.ASCII_Art.
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.AStyle_Format.zip Formats code for C, C++, C#, Java, using AStyle library
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Base_Encoder.zip Allows to encode/decode text in Base64, Base32, Base16, Quoted-Printable, Unicode-Escape
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Brackets_Hilite.zip Highlights pair brackets for caret position, when caret moves
+https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Calc_Expression.zip Calcs math expression in text
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Carets_Numbering.zip Inserts increasing numbers at all multi-carets positions
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Case_Converter.zip Converts ids between several cases (snake_case, camelCase, PascalCase etc)
 https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.CBlock.zip For selected lines, adds indent and surrounds with { } brackets
