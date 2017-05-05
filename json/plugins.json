@@ -177,7 +177,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.FTP.zip",
     "desc": "FTP client: download, upload, create/delete files/dirs",
     "module": "cuda_ftp",
-    "v": "2017.03.28"
+    "v": "2017.05.05"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Hex_Dump.zip",
