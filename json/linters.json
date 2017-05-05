@@ -1,9 +1,9 @@
 [
   {
     "module": "cuda_lint_autoit",
-    "url": "https://sourceforge.net/projects/cudatext/files/addons/linters/linter.AutoIt_using_AutoIt.zip",
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/linters/linter.AutoIt_using_au3check.zip",
     "v": "2017.05.05",
-    "desc": "Linter for AutoIt, using AutoIt"
+    "desc": "Linter for AutoIt, using au3check.exe"
   },
   {
     "module": "cuda_lint_cppcheck",
