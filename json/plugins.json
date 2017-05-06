@@ -6,6 +6,12 @@
     "v": "2017.03.09"
   },
   {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.AutoIt_Helper.zip",
+    "desc": "For AutoIt lexer, does auto-completion + function hints",
+    "module": "cuda_autoit_helper",
+    "v": "2017.05.06"
+  },
+  {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.ASCII_Art.zip",
     "desc": "Allows to insert text formatted via ASCII-art fonts",
     "module": "cuda_ascii_art",
