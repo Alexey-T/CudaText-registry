@@ -180,6 +180,12 @@
     "v": "2016.12.19"
   },
   {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Fountain_Helper.zip",
+    "desc": "Commands+events for Fountain lexer",
+    "module": "cuda_fountain_helper",
+    "v": "2017.05.16"
+  },
+  {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.FTP.zip",
     "desc": "FTP client: download, upload, create/delete files/dirs",
     "module": "cuda_ftp",
