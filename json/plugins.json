@@ -360,6 +360,12 @@
     "v": "2016.06.14"
   },
   {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Pandoc_Helper.zip",
+    "desc": "Calls Pandoc tool to convert file to many formats",
+    "module": "cuda_pandoc",
+    "v": "2017.05.20"
+  },
+  {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Paste_as_String.zip",
     "desc": "Pastes from clipboard as 'string' for cur lexer",
     "module": "cuda_paste_as_string",
