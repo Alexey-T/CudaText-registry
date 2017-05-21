@@ -465,7 +465,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Text_Statistics.zip",
     "desc": "Calcs for text: count of lines, words, letters",
     "module": "cuda_text_stat",
-    "v": "2015.12.14"
+    "v": "2017.05.21"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Textile_Preview.zip",
