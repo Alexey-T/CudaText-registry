@@ -361,9 +361,9 @@
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Pandoc_Helper.zip",
-    "desc": "Calls Pandoc tool to convert file to many formats",
+    "desc": "Uses Pandoc tool to convert file to many formats",
     "module": "cuda_pandoc",
-    "v": "2017.05.20"
+    "v": "2017.05.22"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Paste_as_String.zip",
