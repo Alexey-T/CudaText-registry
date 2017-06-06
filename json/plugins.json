@@ -132,6 +132,12 @@
     "v": "2016.07.07"
   },
   {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Lua_Format.zip",
+    "desc": "Formats Lua code",
+    "module": "cuda_lua_format",
+    "v": "2017.06.06"
+  },
+  {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.DevDocs.zip",
     "desc": "Performs search on DevDocs site",
     "module": "cuda_devdocs",
