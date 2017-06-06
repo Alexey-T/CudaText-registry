@@ -120,6 +120,12 @@
     "desc": "Linter for Modelica, using MoParser"
   },
   {
+    "module": "cuda_lint_nginx",
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/linters/linter.Nginx_using_nginx-lint.zip",
+    "v": "2017.06.06",
+    "desc": "Linter for Nginx, using nginx-lint"
+  },
+  {
     "module": "cuda_lint_pylint",
     "url": "https://sourceforge.net/projects/cudatext/files/addons/linters/linter.Python_using_pylint.zip",
     "v": "2016.07.05",
