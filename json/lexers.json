@@ -135,11 +135,6 @@
     "v": ""
   },
   {
-    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Bash_script.zip",
-    "desc": "",
-    "v": ""
-  },
-  {
     "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.BibTeX.zip",
     "desc": "",
     "v": ""
@@ -810,11 +805,6 @@
     "v": ""
   },
   {
-    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Tcl.zip",
-    "desc": "",
-    "v": ""
-  },
-  {
     "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Text_Russian_detector.zip",
     "desc": "",
     "v": ""
@@ -856,11 +846,6 @@
   },
   {
     "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Vala.zip",
-    "desc": "",
-    "v": ""
-  },
-  {
-    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.VBScript.zip",
     "desc": "",
     "v": ""
   },
@@ -916,11 +901,6 @@
   },
   {
     "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Yacc.zip",
-    "desc": "",
-    "v": ""
-  },
-  {
-    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.YAML.zip",
     "desc": "",
     "v": ""
   },
