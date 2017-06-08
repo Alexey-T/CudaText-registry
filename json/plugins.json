@@ -457,9 +457,9 @@
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Tabs_List.zip",
-    "desc": "Shows in side-panel list of tabs",
+    "desc": "Shows list of tabs, in the side panel",
     "module": "cuda_tabs_list",
-    "v": "2017.03.24"
+    "v": "2017.06.08"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Tern.zip",
