@@ -231,19 +231,13 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.HTML_Ops.zip",
     "desc": "Various commands to work with HTML/CSS",
     "module": "cuda_html_ops",
-    "v": "2017.06.18.2"
+    "v": "2017.06.18.4"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.HTML_Tidy.zip",
     "desc": "Validates HTML documents using Tidy tool",
     "module": "cuda_html_tidy",
     "v": "2015.10.05"
-  },
-  {
-    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.HTML_Validator.zip",
-    "desc": "Validates HTML documents using online W3C checkers",
-    "module": "cuda_html_validator",
-    "v": "2015.10.08"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Increment.zip",
