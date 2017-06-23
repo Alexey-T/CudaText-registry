@@ -246,12 +246,6 @@
     "v": "2015.10.13"
   },
   {
-    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Ini_Sort.zip",
-    "desc": "For ini file, sorts all sections",
-    "module": "cuda_ini_sort",
-    "v": "2016.04.10"
-  },
-  {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Insert_Numbers.zip",
     "desc": "Allows to insert increasing numbers into text",
     "module": "cuda_insert_numbers",
@@ -387,7 +381,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Sort.zip",
     "desc": "Gives dialog and commands to sort text",
     "module": "cuda_sort",
-    "v": "2016.12.26"
+    "v": "2017.06.23"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Sort_By_Length.zip",
