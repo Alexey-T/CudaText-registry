@@ -354,12 +354,6 @@
     "v": "2016.10.06"
   },
   {
-    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Project_Manager.zip",
-    "desc": "Allows to manage 'projects' in side-panel",
-    "module": "cuda_project_man",
-    "v": "2016.11.02"
-  },
-  {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Python_Fix_Imports.zip",
     "desc": "Corrects import-statements in Python file (see readme)",
     "module": "cuda_python_fix_imports",
@@ -430,12 +424,6 @@
     "desc": "Switches file pairs: c<>h, cpp<>h, cc<>h, asm<>inc",
     "module": "cuda_switch_header",
     "v": "2015.10.06"
-  },
-  {
-    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Tabs_List.zip",
-    "desc": "Shows list of tabs, in the side panel",
-    "module": "cuda_tabs_list",
-    "v": "2017.06.08"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Tern.zip",
