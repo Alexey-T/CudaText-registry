@@ -231,19 +231,13 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.HTML_Ops.zip",
     "desc": "Various commands to work with HTML/CSS",
     "module": "cuda_html_ops",
-    "v": "2017.06.18.6"
+    "v": "2017.06.24"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.HTML_Tidy.zip",
     "desc": "Validates HTML documents using Tidy tool",
     "module": "cuda_html_tidy",
     "v": "2015.10.05"
-  },
-  {
-    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Increment.zip",
-    "desc": "Increases/decreases value under caret (HTML, CSS)",
-    "module": "cuda_increment",
-    "v": "2015.10.13"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Insert_Numbers.zip",
