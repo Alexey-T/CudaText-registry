@@ -367,9 +367,9 @@
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Snippets.zip",
-    "desc": "Support for snippets in CudaText, see wiki",
+    "desc": "Snippets in CudaText, see CudaText wiki",
     "module": "cuda_snippets",
-    "v": "2016.10.04"
+    "v": "2017.07.18"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Sort.zip",
