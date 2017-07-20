@@ -75,7 +75,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Config_Toolbar.zip",
     "desc": "Configures main toolbar: icon-set and buttons",
     "module": "cuda_config_toolbar",
-    "v": "2017.04.29"
+    "v": "2017.07.20"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Convert_base2_to_hex.zip",
