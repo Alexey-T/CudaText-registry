@@ -66,6 +66,12 @@
     "v": "2015.10.03"
   },
   {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Column_Marks.zip",
+    "desc": "Commands to work with 'margin' vertical lines",
+    "module": "cuda_column_marks",
+    "v": "2017.07.25"
+  },
+  {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Complete_From_Text.zip",
     "desc": "Handles Ctrl+Space, gives list of words from current file",
     "module": "cuda_complete_from_text",
@@ -387,7 +393,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Spell_Checker.zip",
     "desc": "Spell checker, shows underlines for wrong words",
     "module": "cuda_spell_checker",
-    "v": "2017.01.10"
+    "v": "2017.07.24"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.SQL_Format.zip",
