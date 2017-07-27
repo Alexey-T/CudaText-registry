@@ -411,7 +411,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Sum_Lines.zip",
     "desc": "Calculates sum/min/max/avg of numbers in lines",
     "module": "cuda_sum_lines",
-    "v": "2017.07.27"
+    "v": "2017.07.27.2"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Switch_Header.zip",
