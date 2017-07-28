@@ -69,7 +69,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Column_Marks.zip",
     "desc": "Commands to work with 'margin' vertical lines",
     "module": "cuda_column_marks",
-    "v": "2017.07.25"
+    "v": "2017.07.28"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Complete_From_Text.zip",
