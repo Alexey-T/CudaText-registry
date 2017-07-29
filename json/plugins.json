@@ -420,6 +420,12 @@
     "v": "2015.10.06"
   },
   {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Tab_Icons.zip",
+    "desc": "Shows file-type icons on tab headers",
+    "module": "cuda_tab_icons",
+    "v": "2017.07.27"
+  },
+  {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Tern.zip",
     "desc": "Code-intelligence for JavaScript, based on Tern.js",
     "module": "cuda_tern",
