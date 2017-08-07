@@ -207,7 +207,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Hash_Generator.zip",
     "desc": "Dialog which allows to calc hash-sums of files/strings",
     "module": "cuda_hash_gen",
-    "v": "2017.08.05"
+    "v": "2017.08.07"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Hex_Dump.zip",
