@@ -318,6 +318,12 @@
     "v": "2016.11.18"
   },
   {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.NTFS_Streams.zip",
+    "desc": "Works with Windows NTFS streams",
+    "module": "cuda_ntfs_streams",
+    "v": "2017.08.17"
+  },
+  {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Numbered_Bookmarks.zip",
     "desc": "Allows to set/goto numbered bookmarks (1..9)",
     "module": "cuda_num_bookmarks",
