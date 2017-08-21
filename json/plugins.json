@@ -321,7 +321,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.NTFS_Streams.zip",
     "desc": "Works with Windows NTFS streams",
     "module": "cuda_ntfs_streams",
-    "v": "2017.08.17"
+    "v": "2017.08.21"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Numbered_Bookmarks.zip",
