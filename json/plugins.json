@@ -405,7 +405,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Spell_Checker.zip",
     "desc": "Spell checker, shows underlines for wrong words",
     "module": "cuda_spell_checker",
-    "v": "2017.07.24"
+    "v": "2017.08.28"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.SQL_Format.zip",
