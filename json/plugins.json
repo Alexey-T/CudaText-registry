@@ -258,6 +258,12 @@
     "v": "2015.10.05"
   },
   {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Insert_Emoji.zip",
+    "desc": "Dialog to show emoji list, insert emoji name",
+    "module": "cuda_insert_emoji",
+    "v": "2017.09.03"
+  },
+  {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Insert_Numbers.zip",
     "desc": "Allows to insert increasing numbers into text",
     "module": "cuda_insert_numbers",
