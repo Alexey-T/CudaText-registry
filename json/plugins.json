@@ -207,7 +207,13 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.FTP.zip",
     "desc": "FTP client: download, upload, create/delete files/dirs",
     "module": "cuda_ftp",
-    "v": "2017.09.01"
+    "v": "2017.09.09"
+  },
+  {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.SFTP_Support_Windows_x64.zip",
+    "desc": "Supports SFTP in FTP plugin, only for Windows 64-bit",
+    "module": "cuda_ftp_libs",
+    "v": "2017.09.09"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Hash_Generator.zip",
