@@ -210,7 +210,7 @@
     "v": "2017.09.09.2"
   },
   {
-    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/SFTP_Support_for_Windows.zip",
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.SFTP_Support_for_Windows.zip",
     "desc": "Supports SFTP in FTP plugin, for Windows (x32/x64)",
     "module": "cuda_ftp_libs",
     "v": "2017.09.09.2"
