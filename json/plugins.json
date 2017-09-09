@@ -207,7 +207,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.FTP.zip",
     "desc": "FTP client: download, upload, create/delete files/dirs",
     "module": "cuda_ftp",
-    "v": "2017.09.09.2"
+    "v": "2017.09.09.4"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.SFTP_Support_for_Windows.zip",
