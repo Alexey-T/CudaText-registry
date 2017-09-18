@@ -276,18 +276,6 @@
     "v": "2017.08.11"
   },
   {
-    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Insert_Unicode_Char.zip",
-    "desc": "Inserts Unicode char by its hex code",
-    "module": "cuda_insert_char",
-    "v": "2015.10.07"
-  },
-  {
-    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Install_From_Github.zip",
-    "desc": "Allows to install plugin from Github URL",
-    "module": "cuda_install_from_github",
-    "v": "2016.10.22"
-  },
-  {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.JS_Format.zip",
     "desc": "Formats JavaScript or JSON code",
     "module": "cuda_js_format",
