@@ -468,6 +468,12 @@
     "v": "2017.03.20"
   },
   {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Vim_Mode.zip",
+    "desc": "Allows to use Vim key bindings",
+    "module": "cuda_vim_mode",
+    "v": "2017.10.04"
+  },
+  {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Web_Font.zip",
     "desc": "Inserts into CSS code fonts from webfont.ru",
     "module": "cuda_webfont",
