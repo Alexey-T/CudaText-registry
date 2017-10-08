@@ -471,7 +471,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Vim_Mode.zip",
     "desc": "Allows to use Vim key bindings",
     "module": "cuda_vim_mode",
-    "v": "2017.10.08"
+    "v": "2017.10.08.2"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Web_Font.zip",
