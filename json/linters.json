@@ -114,6 +114,12 @@
     "desc": "Linter for Lua, using luac"
   },
   {
+    "module": "cuda_lint_markdownlint",
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/linters/linter.Markdown_using_markdownlint.zip",
+    "v": "2017.10.09",
+    "desc": "Linter for Markdown, using markdownlint"
+  },
+  {
     "module": "cuda_lint_moparser",
     "url": "https://sourceforge.net/projects/cudatext/files/addons/linters/linter.Modelica_using_moparser.zip",
     "v": "2016.07.10",
