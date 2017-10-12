@@ -48,6 +48,12 @@
     "desc": "Linter for CoffeeScript, using coffeelint (requires Node.js)"
   },
   {
+    "module": "cuda_lint_innosetup",
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/linters/linter.Inno_Setup_using_iscc.zip",
+    "v": "2017.10.12",
+    "desc": "Linter for Inno Setup, using iscc.exe"
+  },
+  {
     "module": "cuda_lint_golint",
     "url": "https://sourceforge.net/projects/cudatext/files/addons/linters/linter.Go_using_golint.zip",
     "v": "2016.07.05",
