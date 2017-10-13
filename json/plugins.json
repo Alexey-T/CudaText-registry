@@ -195,7 +195,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Focus_Mode.zip",
     "desc": "Shades all lines except current paragraph",
     "module": "cuda_focus_mode",
-    "v": "2017.09.01"
+    "v": "2017.10.14"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Fountain_Helper.zip",
