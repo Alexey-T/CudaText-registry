@@ -165,7 +165,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Encode.zip",
     "desc": "Converts text using many 'codings transformations'",
     "module": "cuda_encode",
-    "v": "2016.06.07"
+    "v": "2017.11.21"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Explorer_Integration.zip",
