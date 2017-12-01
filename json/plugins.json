@@ -234,12 +234,6 @@
     "v": "2015.10.05"
   },
   {
-    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Hilite_All_Occurrences.zip",
-    "desc": "Highlights all occurrences of selected word",
-    "module": "cuda_hilite_all",
-    "v": "2016.03.06"
-  },
-  {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Hilite_Occurrences_New.zip",
     "desc": "Highlights all occurrences of selected/current word",
     "module": "cuda_hilite_occurrences",
