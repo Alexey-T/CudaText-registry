@@ -439,9 +439,9 @@
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Tab_Icons.zip",
-    "desc": "Shows file-type icons on tab headers",
+    "desc": "Shows file-type icons on tabs",
     "module": "cuda_tab_icons",
-    "v": "2017.07.27"
+    "v": "2017.12.02"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Tern.zip",
