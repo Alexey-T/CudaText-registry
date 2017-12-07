@@ -490,6 +490,11 @@
     "v": ""
   },
   {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.LESS.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
     "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Lisp.zip",
     "desc": "",
     "v": ""
@@ -756,6 +761,11 @@
   },
   {
     "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Scheme.zip",
+    "desc": "",
+    "v": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.SCSS.zip",
     "desc": "",
     "v": ""
   },
