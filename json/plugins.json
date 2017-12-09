@@ -333,7 +333,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Numbered_Bookmarks.zip",
     "desc": "Allows to set/goto numbered bookmarks (1..9)",
     "module": "cuda_num_bookmarks",
-    "v": "2016.02.16"
+    "v": "2017.12.09"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Num_To_Words_Propis.zip",
