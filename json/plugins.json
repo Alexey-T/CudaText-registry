@@ -30,6 +30,12 @@
     "v": "2015.09.28"
   },
   {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Binary_Sum.zip",
+    "desc": "Decomposes a number into sum of 2^N",
+    "module": "cuda_binary_sum",
+    "v": "2017.12.19"
+  },
+  {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Brackets_Hilite.zip",
     "desc": "Highlights pair brackets for caret position, when caret moves",
     "module": "cuda_brackets_hilite",
