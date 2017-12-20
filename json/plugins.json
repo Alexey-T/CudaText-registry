@@ -30,9 +30,9 @@
     "v": "2015.09.28"
   },
   {
-    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Binary_Sum.zip",
-    "desc": "Decomposes a number into sum of 2^N",
-    "module": "cuda_binary_sum",
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Micro_Utils.zip",
+    "desc": "Small commands to work with numbers etc.",
+    "module": "cuda_micro_utils",
     "v": "2017.12.20"
   },
   {
@@ -88,12 +88,6 @@
     "desc": "Configures main toolbar: icon-set and buttons",
     "module": "cuda_config_toolbar",
     "v": "2017.12.18"
-  },
-  {
-    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Convert_base2_to_hex.zip",
-    "desc": "Converts buffer: list of base-2 nums, to hex nums",
-    "module": "cuda_convert_base2_hex",
-    "v": "2017.03.27"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.CSS_AutoPrefixer.zip",
