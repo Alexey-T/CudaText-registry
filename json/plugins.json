@@ -33,7 +33,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Binary_Sum.zip",
     "desc": "Decomposes a number into sum of 2^N",
     "module": "cuda_binary_sum",
-    "v": "2017.12.19"
+    "v": "2017.12.20"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Brackets_Hilite.zip",
