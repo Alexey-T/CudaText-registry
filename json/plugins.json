@@ -31,9 +31,9 @@
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Micro_Utils.zip",
-    "desc": "Small commands to work with numbers etc.",
+    "desc": "Rarely needed commands for numbers/text etc.",
     "module": "cuda_micro_utils",
-    "v": "2017.12.20"
+    "v": "2018.01.09"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Brackets_Hilite.zip",
@@ -400,12 +400,6 @@
     "desc": "Gives dialog and commands to sort text",
     "module": "cuda_sort",
     "v": "2017.06.23"
-  },
-  {
-    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Sort_By_Length.zip",
-    "desc": "Sorts entire text by length of lines",
-    "module": "cuda_sort_by_len",
-    "v": "2015.10.07"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Spell_Checker.zip",
