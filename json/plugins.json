@@ -24,12 +24,6 @@
     "v": "2015.10.17"
   },
   {
-    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Base_Encoder.zip",
-    "desc": "Allows to encode/decode text in Base64, Base32, Base16, Quoted-Printable, Unicode-Escape",
-    "module": "cuda_base_encoder",
-    "v": "2015.09.28"
-  },
-  {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Micro_Utils.zip",
     "desc": "Rarely needed commands for numbers/text etc.",
     "module": "cuda_micro_utils",
@@ -171,7 +165,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Encode.zip",
     "desc": "Converts text using many 'codings transformations'",
     "module": "cuda_encode",
-    "v": "2017.11.21.2"
+    "v": "2018.01.20"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Explorer_Integration.zip",
