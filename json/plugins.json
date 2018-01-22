@@ -264,6 +264,12 @@
     "v": "2015.10.05"
   },
   {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.HTML_Tooltips.zip",
+    "desc": "Shows floating tooltips for HTML colors (#rrggbb)",
+    "module": "cuda_html_tooltips",
+    "v": "2018.01.22"
+  },
+  {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Insert_Emoji.zip",
     "desc": "Dialog to show emoji list, insert emoji name",
     "module": "cuda_insert_emoji",
