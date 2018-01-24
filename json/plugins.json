@@ -267,7 +267,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.HTML_Tooltips.zip",
     "desc": "Shows tooltips for HTML colors, picture filenames, etc",
     "module": "cuda_html_tooltips",
-    "v": "2018.01.24"
+    "v": "2018.01.24.2"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Insert_Emoji.zip",
