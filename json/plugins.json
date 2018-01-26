@@ -357,7 +357,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Online_Search.zip",
     "desc": "Opens browser with search for selected text",
     "module": "cuda_online_search",
-    "v": "2016.06.14"
+    "v": "2018.01.26"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Pandoc_Helper.zip",
