@@ -198,6 +198,12 @@
     "v": "2017.10.14"
   },
   {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Font_Awesome.zip",
+    "desc": "Shows FontAwesome icons in sidebar, inserts their codes",
+    "module": "cuda_fontawesome",
+    "v": "2018.01.28"
+  },
+  {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Fountain_Helper.zip",
     "desc": "Commands for Fountain lexer",
     "module": "cuda_fountain_helper",
