@@ -138,6 +138,12 @@
     "v": "2017.06.06"
   },
   {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Dash_Help.zip",
+    "desc": "Shows help from Dash for selected text or current word",
+    "module": "cuda_dash_help",
+    "v": "2018.02.03"
+  },
+  {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Detect_Indent.zip",
     "desc": "Detects space/tab indentation, on opening files",
     "module": "cuda_detect_indent",
