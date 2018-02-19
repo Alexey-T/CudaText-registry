@@ -33,7 +33,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Brackets_Hilite.zip",
     "desc": "Highlights pair brackets for caret position, when caret moves",
     "module": "cuda_brackets_hilite",
-    "v": "2016.07.14"
+    "v": "2018.02.19"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Calc_Expression.zip",
