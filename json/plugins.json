@@ -66,6 +66,12 @@
     "v": "2015.10.03"
   },
   {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Color_Text.zip",
+    "desc": "Colorizes fragments in any text",
+    "module": "cuda_color_text",
+    "v": "2018.02.19"
+  },
+  {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Column_Marks.zip",
     "desc": "Commands to work with 'margin' vertical lines",
     "module": "cuda_column_marks",
