@@ -140,7 +140,7 @@
   {
     "module": "cuda_lint_pylint",
     "url": "https://sourceforge.net/projects/cudatext/files/addons/linters/linter.Python_using_pylint.zip",
-    "v": "2016.07.05",
+    "v": "2018.02.24",
     "desc": "Linter for Python, using PyLint"
   },
   {
