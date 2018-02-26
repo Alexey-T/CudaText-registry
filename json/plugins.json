@@ -429,7 +429,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Sort.zip",
     "desc": "Gives dialog and commands to sort text",
     "module": "cuda_sort",
-    "v": "2017.06.23"
+    "v": "2018.02.26"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Spell_Checker.zip",
