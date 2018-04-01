@@ -45,7 +45,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Carets_Numbering.zip",
     "desc": "Inserts increasing numbers at all multi-carets positions",
     "module": "cuda_carets_num",
-    "v": "2015.10.05"
+    "v": "2018.04.02"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Case_Converter.zip",
