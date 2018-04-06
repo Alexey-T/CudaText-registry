@@ -186,16 +186,10 @@
     "v": "2016.09.05"
   },
   {
-    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Extract_Emails.zip",
-    "desc": "Finds emails in current file",
-    "module": "cuda_emails",
-    "v": "2015.10.26"
-  },
-  {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Extract_Strings.zip",
-    "desc": "Shows dialog to enter regex, regex will find list of strings",
+    "desc": "Dialog to enter reg.ex., and find list of strings",
     "module": "cuda_extract_strings",
-    "v": "2015.12.21"
+    "v": "2018.04.06"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Filter_Lines.zip",
