@@ -189,13 +189,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Extract_Strings.zip",
     "desc": "Dialog to enter reg.ex., and find list of strings",
     "module": "cuda_extract_strings",
-    "v": "2018.04.06.4"
-  },
-  {
-    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Filter_Lines.zip",
-    "desc": "Finds all lines, containing some string/regex",
-    "module": "cuda_filter_lines",
-    "v": "2016.12.19"
+    "v": "2018.04.07"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Focus_Mode.zip",
