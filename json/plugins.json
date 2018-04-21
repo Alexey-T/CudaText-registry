@@ -249,7 +249,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Hilite_Occurrences.zip",
     "desc": "Highlights all occurrences of selected/current word",
     "module": "cuda_hilite_occurrences",
-    "v": "2018.03.04.3"
+    "v": "2018.04.21"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.HTML_Beautify.zip",
