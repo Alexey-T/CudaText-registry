@@ -330,6 +330,12 @@
     "v": "2016.04.03"
   },
   {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Markdown_Code_Tree.zip",
+    "desc": "Builds Code Tree for Markdown lexer",
+    "module": "cuda_markdown_code_tree",
+    "v": "2018.05.10"
+  },
+  {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Markdown_Preview.zip",
     "desc": "Previews Markdown text as HTML in browser",
     "module": "cuda_markdown_preview",
