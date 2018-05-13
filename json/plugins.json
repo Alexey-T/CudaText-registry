@@ -348,6 +348,12 @@
     "v": "2016.11.18"
   },
   {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.MediaWiki_Code_Tree.zip",
+    "desc": "Builds Code Tree for MediaWiki lexer",
+    "module": "cuda_mediawiki_code_tree",
+    "v": "2018.05.13"
+  },
+  {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.NTFS_Streams.zip",
     "desc": "Works with Windows NTFS streams",
     "module": "cuda_ntfs_streams",
