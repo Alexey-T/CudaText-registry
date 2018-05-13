@@ -330,12 +330,6 @@
     "v": "2016.04.03"
   },
   {
-    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Markdown_Code_Tree.zip",
-    "desc": "Builds Code Tree for Markdown lexer",
-    "module": "cuda_markdown_code_tree",
-    "v": "2018.05.11"
-  },
-  {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Markdown_Preview.zip",
     "desc": "Previews Markdown text as HTML in browser",
     "module": "cuda_markdown_preview",
@@ -346,12 +340,6 @@
     "desc": "Formats tables in Markdown docs",
     "module": "cuda_markdown_table_format",
     "v": "2016.11.18"
-  },
-  {
-    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.MediaWiki_Code_Tree.zip",
-    "desc": "Builds Code Tree for MediaWiki lexer",
-    "module": "cuda_mediawiki_code_tree",
-    "v": "2018.05.13"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.NTFS_Streams.zip",
@@ -514,12 +502,6 @@
     "desc": "Inserts into CSS code fonts from webfont.ru",
     "module": "cuda_webfont",
     "v": "2015.10.06"
-  },
-  {
-    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.WikidPad_Code_Tree.zip",
-    "desc": "Builds Code Tree for WikidPad lexer",
-    "module": "cuda_wikidpad_code_tree",
-    "v": "2018.05.13"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.XML_Format.zip",
