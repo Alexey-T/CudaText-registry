@@ -486,6 +486,12 @@
     "v": "2016.09.20"
   },
   {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.CudaTree.zip",
+    "desc": "Builds Code Tree for lexers, using TreeHelpers",
+    "module": "cuda_tree",
+    "v": "2018.05.13"
+  },
+  {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Uroboro_SQL_Format.zip",
     "desc": "Formats SQL code (using uroboroSQL library)",
     "module": "cuda_uroboro_sql_format",
