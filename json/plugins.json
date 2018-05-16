@@ -498,6 +498,12 @@
     "v": "2018.05.13"
   },
   {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/treehelpers/treehelper.PHP.zip",
+    "desc": "TreeHelper for PHP, using pyPhpTree",
+    "module": "cuda_tree_php",
+    "v": "2018.05.16"
+  },
+  {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/treehelpers/treehelper.MediaWiki.zip",
     "desc": "TreeHelper for MediaWiki",
     "module": "cuda_tree_mediawiki",
