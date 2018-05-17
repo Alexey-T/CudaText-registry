@@ -489,31 +489,31 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.CudaTree.zip",
     "desc": "Builds Code Tree for lexers, using TreeHelpers",
     "module": "cuda_tree",
-    "v": "2018.05.14"
+    "v": "2018.05.17"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/treehelpers/treehelper.Markdown.zip",
     "desc": "TreeHelper for Markdown",
     "module": "cuda_tree_markdown",
-    "v": "2018.05.13"
+    "v": "2018.05.17"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/treehelpers/treehelper.PHP.zip",
     "desc": "TreeHelper for PHP, using pyPhpTree",
     "module": "cuda_tree_php",
-    "v": "2018.05.17"
+    "v": "2018.05.17.2"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/treehelpers/treehelper.MediaWiki.zip",
     "desc": "TreeHelper for MediaWiki",
     "module": "cuda_tree_mediawiki",
-    "v": "2018.05.13"
+    "v": "2018.05.17"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/treehelpers/treehelper.WikidPad.zip",
     "desc": "TreeHelper for WikidPad",
     "module": "cuda_tree_wikidpad",
-    "v": "2018.05.13"
+    "v": "2018.05.17"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Uroboro_SQL_Format.zip",
