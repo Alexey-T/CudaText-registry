@@ -408,6 +408,12 @@
     "v": "2016.04.06"
   },
   {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Romanize.zip",
+    "desc": "Converts numbers to/from Roman notation",
+    "module": "cuda_romanize",
+    "v": "2018.05.17"
+  },
+  {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Ruby_Format.zip",
     "desc": "Formats Ruby source code",
     "module": "cuda_ruby_format",
