@@ -42,12 +42,6 @@
     "v": "2017.04.26"
   },
   {
-    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Carets_Numbering.zip",
-    "desc": "Inserts numbers at multi-caret positions",
-    "module": "cuda_carets_num",
-    "v": "2018.05.17"
-  },
-  {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Case_Converter.zip",
     "desc": "Converts ids between several cases (snake_case, camelCase, PascalCase etc)",
     "module": "cuda_case_converter",
@@ -288,12 +282,6 @@
     "v": "2017.09.04"
   },
   {
-    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Insert_Numbers.zip",
-    "desc": "Allows to insert increasing numbers into text",
-    "module": "cuda_insert_numbers",
-    "v": "2016.06.12"
-  },
-  {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Insert_Pics.zip",
     "desc": "Inserts picture-files into text (using helper file)",
     "module": "cuda_insert_pics",
@@ -354,6 +342,12 @@
     "v": "2017.12.09"
   },
   {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Number_Utils.zip",
+    "desc": "Commands for numbers: insert numbers, convert to Romans, etc",
+    "module": "cuda_number_utils",
+    "v": "2018.05.19"
+  },
+  {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Num_To_Words_Propis.zip",
     "desc": "Converts numbers to words, Rus lang",
     "module": "cuda_propis",
@@ -406,12 +400,6 @@
     "desc": "Previews reStructuredText file as HTML in browser",
     "module": "cuda_rest_preview",
     "v": "2016.04.06"
-  },
-  {
-    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Romanize.zip",
-    "desc": "Converts numbers to/from Roman notation",
-    "module": "cuda_romanize",
-    "v": "2018.05.17"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Ruby_Format.zip",
