@@ -343,9 +343,9 @@
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Number_Utils.zip",
-    "desc": "Commands for numbers: insert numbers, convert to Romans, etc",
+    "desc": "Cmds for numbers: insert row of numbers, convert to textual/Romans, etc",
     "module": "cuda_number_utils",
-    "v": "2018.05.19.3"
+    "v": "2018.05.21"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Online_Search.zip",
