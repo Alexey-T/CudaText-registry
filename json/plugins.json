@@ -177,7 +177,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Explorer_Integration.zip",
     "desc": "Integrates CudaText with Windows Explorer",
     "module": "cuda_explorer_integration",
-    "v": "2016.09.05"
+    "v": "2018.05.30"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Extract_Strings.zip",
