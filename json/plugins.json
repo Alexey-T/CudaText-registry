@@ -6,6 +6,12 @@
     "v": "2018.06.03"
   },
   {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Auto_Save.zip",
+    "desc": "Auto-saves modified named files, by timer and/or on close",
+    "module": "cuda_auto_save",
+    "v": "2018.06.09"
+  },
+  {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.AutoIt_Helper.zip",
     "desc": "For AutoIt lexer, gives code intelligence commands",
     "module": "cuda_autoit_helper",
