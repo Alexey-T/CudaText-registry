@@ -132,6 +132,12 @@
     "v": "2016.10.06"
   },
   {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.CSV_Hilite.zip",
+    "desc": "Hilites columns in CSV files with different colors",
+    "module": "cuda_csv_hilite",
+    "v": "2018.06.11"
+  },
+  {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.CudaLint.zip",
     "desc": "Linting (syntax-checking) of source code",
     "module": "cuda_lint",
