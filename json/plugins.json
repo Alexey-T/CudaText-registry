@@ -258,6 +258,12 @@
     "v": "2018.04.21"
   },
   {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Hilite_Vars.zip",
+    "desc": "Highlights 'variables' inside string literals",
+    "module": "cuda_hilite_vars",
+    "v": "2018.07.02"
+  },
+  {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.HTML_Beautify.zip",
     "desc": "Formats/indents HTML code, uses engine from HTMLBeautify",
     "module": "cuda_html_beautify",
