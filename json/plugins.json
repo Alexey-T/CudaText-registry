@@ -456,6 +456,12 @@
     "v": "2015.10.06"
   },
   {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Sync_Scroll.zip",
+    "desc": "Sync vertical and/or horiz scrolling of editors in groups 1, 2",
+    "module": "cuda_sync_scroll",
+    "v": "2018.07.04"
+  },
+  {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Tab_Icons.zip",
     "desc": "Shows file-type icons on tabs",
     "module": "cuda_tab_icons",
