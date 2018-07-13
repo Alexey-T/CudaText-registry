@@ -273,7 +273,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.HTML_Class_Complete.zip",
     "desc": "Auto-completes CSS class names, in HTML code",
     "module": "cuda_html_class_comp",
-    "v": "2016.01.15"
+    "v": "2018.07.13"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.HTML_Ops.zip",
