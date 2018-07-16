@@ -270,9 +270,9 @@
     "v": "2016.02.08"
   },
   {
-    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.HTML_Class_Complete.zip",
-    "desc": "Auto-completes CSS class names, in HTML code",
-    "module": "cuda_html_class_comp",
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.HTML_Completion.zip",
+    "desc": "Auto-completion in HTML/PHP for tags contents",
+    "module": "cuda_html_completion",
     "v": "2018.07.16"
   },
   {
