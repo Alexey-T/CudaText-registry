@@ -271,7 +271,7 @@
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.HTML_Completion.zip",
-    "desc": "Auto-completion in HTML/PHP for tags contents",
+    "desc": "Auto-completion in HTML/PHP for cases: <img src=>, class=, id=",
     "module": "cuda_html_completion",
     "v": "2018.07.16"
   },
