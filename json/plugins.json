@@ -477,7 +477,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Tern.zip",
     "desc": "Code-intelligence for JavaScript, based on Tern.js",
     "module": "cuda_tern",
-    "v": "2016.11.22"
+    "v": "2018.08.10"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Text_Statistics.zip",
