@@ -504,6 +504,12 @@
     "v": "2018.05.19"
   },
   {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/treehelpers/treehelper.Pascal.zip",
+    "desc": "TreeHelper for Pascal, using PyPascalTokenizer",
+    "module": "cuda_tree_pascal",
+    "v": "2018.08.10"
+  },
+  {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/treehelpers/treehelper.PHP.zip",
     "desc": "TreeHelper for PHP, using pyPhpTree",
     "module": "cuda_tree_php",
