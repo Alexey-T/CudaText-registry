@@ -1,0 +1,156 @@
+T_LEXER='lexer'
+T_LINTER='linter'
+T_TREE='treehelper'
+T_INTEL='intel'
+T_SNIP='snippets'
+T_OTHER='other'
+CLASSES=(
+    T_LEXER,
+    T_LINTER,
+    T_TREE,
+    T_INTEL,
+    T_SNIP,
+    T_OTHER,
+    )
+    
+PLUGINS_CLASSES={T_OTHER,T_INTEL,'plugin'}
+
+CLASSES_MSGS={
+    T_LEXER: 'Lexers:',
+    T_LINTER: 'Linters:',
+    T_TREE: 'Code Tree helpers:',
+    T_INTEL: 'Code intelligence plugins:',
+    T_SNIP: 'Snippets:',
+    T_OTHER: 'Others:',
+    }
+
+PLUGINS={
+    'Python':{
+        T_LINTER:(
+            'linter.Python_using_pylint',
+            'linter.Python_using_pep8',
+            ),
+        T_INTEL:(
+            'plugin.Python_Intel',
+            ),
+        T_SNIP:(
+            'snippets.Python',
+            ),
+        T_OTHER:(
+            'plugin.Python_Fix_Imports',
+            ),
+        },
+    'Lua':{
+        T_LINTER:( 
+            'linter.Lua_using_luac', 
+            ),
+        T_SNIP:( 
+            'snippets.Lua',
+            ),
+        T_OTHER:(
+            'plugin.Lua_Format',
+            ),
+        },
+    'Pascal':{
+        T_SNIP:(
+            'snippets.Pascal',
+            ),
+        T_TREE:(
+            'treehelper.Pascal',
+            ),
+        },
+    'HTML/CSS':{
+        T_LINTER:(
+            'linter.CSS_using_csslint',
+            'linter.CSS_using_csstree',
+            'linter.HTML_using_htmltidy',
+            ),
+        T_INTEL:(
+            'plugin.HTML_Tidy',
+            'plugin.HTML_Completion',
+            ),
+        T_OTHER:(
+            'plugin.HTML_Beautify',
+            'plugin.HTML_Ops',
+            'plugin.HTML_Tooltips',
+            'plugin.CSS_AutoPrefixer',
+            'plugin.CSS_CanIUse',
+            'plugin.CSS_Comb',
+            'plugin.CSS_Format',
+            'plugin.CSS_Minifier',
+            'plugin.CSS_Prefixer',
+            'plugin.CSS_Table_of_Contents',
+            ),
+        T_SNIP:(
+            'snippets.CSS_Grid',
+            'snippets.CSS_Reset',
+            'snippets.Atom-Sass',
+            'snippets.FakeImg',
+            'snippets.HTML_Handlebars',
+            'snippets.Sublime-SCSS',
+            ),
+        T_LEXER:(
+            'lexer.LESS',
+            'lexer.Sass',
+            'lexer.SCSS',
+            'lexer.Stylus',
+            'lexer.HTML_Diafan',
+            'lexer.HTML_Django_DTL',
+            'lexer.HTML_Embedded_JS',
+            'lexer.HTML_Handlebars',
+            'lexer.HTML_Laravel_Blade',
+            'lexer.HTML_Liquid',
+            'lexer.HTML_Mustache',
+            'lexer.HTML_Smarty',
+            ),
+        },
+    'JavaScript':{
+        T_SNIP:(
+            'snippets.Atom-JavaScript',
+            'snippets.Atom-JavaScript-ES6',
+            ),
+        T_LINTER:(
+            'linter.JavaScript_using_eslint',
+            'linter.JavaScript_using_jshint',
+            'linter.JavaScript_using_jsl',
+            ),
+        T_LEXER:(
+            'lexer.JavaScript_Babel',
+            'lexer.TypeScript',
+            'lexer.CoffeeScript',
+            ),
+        T_OTHER:(
+            'plugin.JS_Format',
+            'plugin.JS_Minifier',
+            'plugin.JS_Multiline_Array',
+            'plugin.JS_Sort_Imports',        
+            ),
+        T_INTEL:(
+            'plugin.Tern',
+            ),
+        },
+    'PHP':{
+        T_LINTER:(
+            'linter.PHP_using_phpcs',
+            'linter.PHP_using_phpl',
+            'linter.PHP_using_phplint',
+            'linter.PHP_using_phpmd',            
+            ),
+        T_SNIP:(
+            'snippets.PHP',
+            ),
+        },
+    'XML':{
+        T_LINTER:(
+            'linter.XML_using_xmllint-libxml2',
+            ),
+        T_OTHER:(
+            'plugin.XML_Format',
+            'plugin.XML_Tidy',        
+            ),
+        T_LEXER:(
+            'lexer.XSLT',
+            ),
+        }
+    }
+    
