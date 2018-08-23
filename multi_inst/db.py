@@ -3,7 +3,7 @@ T_LINTER='[linter]'
 T_TREE='[tree helper]'
 T_INTEL='[intel plugin]'
 T_SNIP='[snippets]'
-T_OTHER='[other plugin]'
+T_OTHER='[plugin]'
 
 CLASSES=(
     T_LEXER,
