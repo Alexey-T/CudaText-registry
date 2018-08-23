@@ -4,6 +4,7 @@ T_TREE='treehelper'
 T_INTEL='intel'
 T_SNIP='snippets'
 T_OTHER='other'
+
 CLASSES=(
     T_LEXER,
     T_LINTER,
@@ -13,7 +14,14 @@ CLASSES=(
     T_OTHER,
     )
     
-PLUGINS_CLASSES={T_OTHER,T_INTEL,'plugin'}
+TYPE_TO_KIND = {
+    T_LEXER: 'lexer',
+    T_LINTER: 'linter',
+    T_TREE: 'treehelper',
+    T_INTEL: 'plugin',
+    T_SNIP: 'snippets',
+    T_OTHER: 'plugin',
+    }
 
 CLASSES_MSGS={
     T_LEXER: 'Lexers:',
