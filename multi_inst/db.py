@@ -1,9 +1,9 @@
-T_LEXER='lex'
-T_LINTER='lint'
-T_TREE='th'
-T_INTEL='intl'
-T_SNIP='snp'
-T_OTHER='oth'
+T_LEXER='[lexer]'
+T_LINTER='[linter]'
+T_TREE='[tree helper]'
+T_INTEL='[intel plugin]'
+T_SNIP='[snippets]'
+T_OTHER='[other plugin]'
 
 CLASSES=(
     T_LEXER,
