@@ -1,9 +1,9 @@
-T_LEXER='lexer'
-T_LINTER='linter'
-T_TREE='treehelper'
-T_INTEL='intel'
-T_SNIP='snippets'
-T_OTHER='other'
+T_LEXER='lex'
+T_LINTER='lint'
+T_TREE='th'
+T_INTEL='intl'
+T_SNIP='snp'
+T_OTHER='oth'
 
 CLASSES=(
     T_LEXER,
