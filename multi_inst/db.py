@@ -27,9 +27,9 @@ CLASSES_MSGS={
     T_LEXER: 'Lexers:',
     T_LINTER: 'Linters:',
     T_TREE: 'Code Tree helpers:',
-    T_INTEL: 'Code intelligence plugins:',
+    T_INTEL: 'Code Intelligence plugins:',
     T_SNIP: 'Snippets:',
-    T_OTHER: 'Others:',
+    T_OTHER: 'Other plugins:',
     }
 
 PLUGINS={
