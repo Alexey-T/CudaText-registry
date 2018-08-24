@@ -384,6 +384,12 @@
     "v": "2017.05.22"
   },
   {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Pascal_C++_Format.zip",
+    "desc": "Formats Pascal and C++ source code",
+    "module": "cuda_pascal_cpp_format",
+    "v": "2018.08.24"
+  },
+  {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Paste_as_String.zip",
     "desc": "Pastes from clipboard as 'string' for cur lexer",
     "module": "cuda_paste_as_string",
