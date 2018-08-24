@@ -66,6 +66,9 @@ PLUGINS={
         T_TREE:(
             'Pascal',
             ),
+        T_OTHER:(
+            'Pascal_C++_Format',
+            ),
         },
     'HTML/CSS':{
         T_LINTER:(
