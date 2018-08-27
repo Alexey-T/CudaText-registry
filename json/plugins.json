@@ -405,7 +405,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Python_Intel.zip",
     "desc": "Intelligence for Python: auto-completion, goto-definition",
     "module": "cuda_python_intel",
-    "v": "2018.08.18"
+    "v": "2018.08.27"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.reStructuredText_Preview.zip",
