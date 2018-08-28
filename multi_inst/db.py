@@ -48,6 +48,8 @@ PLUGINS={
             ),
         T_OTHER:(
             'Python_Fix_Imports',
+            'Configure_PEP8',
+            'DevDocs',
             ),
         },
     'Lua':{
@@ -93,6 +95,11 @@ PLUGINS={
             'CSS_Minifier',
             'CSS_Prefixer',
             'CSS_Table_of_Contents',
+            'Color_Picker',
+            'DevDocs',
+            'Emmet_Lite',
+            'Font_Awesome',
+            'Web_Font',
             ),
         T_SNIP:(
             'CSS_Grid',
@@ -137,6 +144,7 @@ PLUGINS={
             'JS_Minifier',
             'JS_Multiline_Array',
             'JS_Sort_Imports',        
+            'DocBlock_Comments',
             ),
         T_INTEL:(
             'Tern',
@@ -151,6 +159,10 @@ PLUGINS={
             ),
         T_SNIP:(
             'PHP',
+            ),
+        T_OTHER:(
+            'DevDocs',
+            'DocBlock_Comments',
             ),
         },
     'XML':{
