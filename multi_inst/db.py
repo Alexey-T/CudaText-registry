@@ -165,6 +165,21 @@ PLUGINS={
             'DocBlock_Comments',
             ),
         },
+    'SQL':{
+        T_LEXER:(
+            'MySQL_SQL',
+            'MySQL_Stored_Procedures',
+            'PL_SQL',
+            'SQL_Blue',
+            'SQL_White',
+            'T-SQL',
+            ),
+        T_OTHER:(
+            'SQL_Format',
+            'SQLTools',
+            'Uroboro_SQL_Format',
+            ),
+        },
     'XML':{
         T_LINTER:(
             'XML_using_xmllint-libxml2',
