@@ -6,6 +6,12 @@
     "v": "2018.06.03"
   },
   {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Auto_Replace.zip",
+    "desc": "Auto-changes case of typed identifiers/keywords, via snippets",
+    "module": "cuda_auto_replace",
+    "v": "2018.08.29"
+  },
+  {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Auto_Save.zip",
     "desc": "Auto-saves modified named files, by timer and/or on close",
     "module": "cuda_auto_save",
