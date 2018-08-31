@@ -176,7 +176,7 @@ PLUGINS={
             ),
         T_OTHER:(
             'SQL_Format',
-            'SQLTools',
+            'SQL_Tools',
             'Uroboro_SQL_Format',
             ),
         },
