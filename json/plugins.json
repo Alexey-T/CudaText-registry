@@ -336,6 +336,12 @@
     "v": "2016.06.09"
   },
   {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.JS_Tern.zip",
+    "desc": "Code-intelligence for JavaScript, based on Tern.js",
+    "module": "cuda_tern",
+    "v": "2018.08.31"
+  },
+  {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Lorem_Ipsum.zip",
     "desc": "Inserts 'Lorem Ipsum' text",
     "module": "cuda_lorem",
@@ -490,12 +496,6 @@
     "desc": "Adds panel which emulates OS Terminal",
     "module": "cuda_terminal",
     "v": "2018.04.06"
-  },
-  {
-    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Tern.zip",
-    "desc": "Code-intelligence for JavaScript, based on Tern.js",
-    "module": "cuda_tern",
-    "v": "2018.08.10"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Text_Statistics.zip",
