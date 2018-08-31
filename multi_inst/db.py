@@ -147,7 +147,7 @@ PLUGINS={
             'DocBlock_Comments',
             ),
         T_INTEL:(
-            'Tern',
+            'JS_Tern',
             ),
         },
     'PHP':{
