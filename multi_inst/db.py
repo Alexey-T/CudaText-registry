@@ -144,6 +144,7 @@ PLUGINS={
             'JS_Minifier',
             'JS_Multiline_Array',
             'JS_Sort_Imports',        
+            'DevDocs',
             'DocBlock_Comments',
             ),
         T_INTEL:(
