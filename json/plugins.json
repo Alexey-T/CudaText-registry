@@ -267,7 +267,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Hilite_Vars.zip",
     "desc": "Highlights 'variables' inside string literals (Bash, etc)",
     "module": "cuda_hilite_vars",
-    "v": "2018.07.03.2"
+    "v": "2018.09.20"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.HTML_Beautify.zip",
