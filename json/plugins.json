@@ -45,7 +45,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Brackets_Hilite.zip",
     "desc": "Highlights pair brackets, gives cmd 'Go to pair bracket'",
     "module": "cuda_brackets_hilite",
-    "v": "2018.08.01"
+    "v": "2018.09.26"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Calc_Expression.zip",
