@@ -130,14 +130,16 @@ PLUGINS={
             'Atom-JavaScript-ES6',
             ),
         T_LINTER:(
+            'CoffeeScript_using_coffee',
+            'CoffeeScript_using_coffeelint',
             'JavaScript_using_eslint',
             'JavaScript_using_jshint',
             'JavaScript_using_jsl',
             ),
         T_LEXER:(
+            'CoffeeScript',
             'JavaScript_Babel',
             'TypeScript',
-            'CoffeeScript',
             ),
         T_OTHER:(
             'JS_Format',
