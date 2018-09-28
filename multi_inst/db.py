@@ -192,6 +192,19 @@ PLUGINS={
         T_LEXER:(
             'XSLT',
             ),
-        }
+        },
+    'Go':{
+        T_LEXER:(
+            'Go',
+            ),
+        T_LINTER:(
+            'Go_using_golint',
+            'Go_using_gotype',
+            'Go_using_go-vet',
+            ),
+        T_SNIP:(
+            'Atom-Go',
+            ),
+        },
     }
     
