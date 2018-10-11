@@ -414,10 +414,10 @@
     "v": "2016.05.22"
   },
   {
-    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Python_Intel.zip",
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Python_IntelliSense.zip",
     "desc": "Intelligence for Python: auto-completion, goto-definition",
     "module": "cuda_python_intel",
-    "v": "2018.08.27"
+    "v": "2018.10.11"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.reStructuredText_Preview.zip",
