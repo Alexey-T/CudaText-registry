@@ -41,7 +41,7 @@ PLUGINS={
             'Python_using_pep8',
             ),
         T_INTEL:(
-            'Python_Intel',
+            'Python_IntelliSense',
             ),
         T_SNIP:(
             'Python',
