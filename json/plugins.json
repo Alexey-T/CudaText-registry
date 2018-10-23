@@ -495,7 +495,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Terminal.zip",
     "desc": "Adds panel which emulates OS Terminal",
     "module": "cuda_terminal",
-    "v": "2018.04.06"
+    "v": "2018.10.24"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Testing_of_Code_Tree_API.zip",
