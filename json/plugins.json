@@ -1,5 +1,11 @@
 [
   {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Auto_Center_Line.zip",
+    "desc": "Keeps current line in the center of editor window",
+    "module": "cuda_auto_center_line",
+    "v": "2018.10.25"
+  },
+  {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Auto_Copy_to_Clipboard.zip",
     "desc": "Auto-copies block to clipboard, on selection",
     "module": "cuda_auto_copy",
