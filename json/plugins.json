@@ -540,6 +540,12 @@
     "v": "2018.08.10"
   },
   {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/treehelpers/treehelper.HTML_XML.zip",
+    "desc": "TreeHelper for HTML/XML",
+    "module": "cuda_tree_xml",
+    "v": "2018.10.25"
+  },
+  {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/treehelpers/treehelper.Markdown.zip",
     "desc": "TreeHelper for Markdown",
     "module": "cuda_tree_markdown",
