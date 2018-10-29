@@ -172,9 +172,7 @@ PLUGINS={
         T_LEXER:(
             'MySQL_SQL',
             'MySQL_Stored_Procedures',
-            'PL_SQL',
-            'SQL_Blue',
-            'SQL_White',
+            'PL-SQL',
             'T-SQL',
             ),
         T_OTHER:(
