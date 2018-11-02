@@ -576,6 +576,12 @@
     "v": "2018.05.17"
   },
   {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Uncrustify_Format.zip",
+    "desc": "Formats code of C-like langs, using Uncrustify program",
+    "module": "cuda_uncrustify_format",
+    "v": "2018.11.02"
+  },
+  {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Uroboro_SQL_Format.zip",
     "desc": "Formats SQL code (using uroboroSQL library)",
     "module": "cuda_uroboro_sql_format",
