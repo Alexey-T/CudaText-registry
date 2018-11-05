@@ -471,7 +471,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.SQL_Tools.zip",
     "desc": "Swiss army knife for SQL databases",
     "module": "cuda_sqltools",
-    "v": "2018.11.06"
+    "v": "2018.11.06.2"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Sum_Lines.zip",
