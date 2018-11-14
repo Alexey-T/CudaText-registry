@@ -237,7 +237,7 @@ PLUGINS={
             ),
         },
     'C/C++':{
-        T_LINT:(
+        T_LINTER:(
             'C++_using_cppcheck',
             'C++_using_cpplint',
             'C++_using_gcc',
