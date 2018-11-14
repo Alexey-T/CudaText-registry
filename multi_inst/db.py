@@ -84,6 +84,9 @@ PLUGINS={
             'HTML_Tidy',
             'HTML_Completion',
             ),
+        T_TREE:(
+            'HTML_XML',
+            ),
         T_OTHER:(
             'HTML_Beautify',
             'HTML_Ops',
@@ -159,6 +162,9 @@ PLUGINS={
             'PHP_using_phpl',
             'PHP_using_phplint',
             'PHP_using_phpmd',            
+            ),
+        T_TREE:(
+            'PHP',
             ),
         T_SNIP:(
             'PHP',
