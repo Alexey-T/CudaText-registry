@@ -212,7 +212,11 @@ PLUGINS={
             'Atom-Go',
             ),
         },
-    'Markdown':{
+    'Markdown/reST':{
+        T_LEXER:(
+            'reStructuredText',
+            'R_Markdown',
+            ),
         T_LINTER:(
             'Markdown_using_markdownlint',
             ),
@@ -225,6 +229,7 @@ PLUGINS={
         T_OTHER:(
             'Markdown_Preview',
             'Markdown_Table_Format',
+            'reStructuredText_Preview',
             ),
         },
     }
