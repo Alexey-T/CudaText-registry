@@ -213,11 +213,12 @@ PLUGINS={
             'Atom-Go',
             ),
         },
-    'Markdown/reST/Wiki':{
+    'Markdown/reST/Textile/Wiki':{
         T_LEXER:(
             'MediaWiki',
             'reStructuredText',
             'R_Markdown',
+            'Textile',
             'WikidPad',
             ),
         T_LINTER:(
@@ -235,6 +236,7 @@ PLUGINS={
             'Markdown_Preview',
             'Markdown_Table_Format',
             'reStructuredText_Preview',
+            'Textile_Preview',
             ),
         },
     'C/C++':{
