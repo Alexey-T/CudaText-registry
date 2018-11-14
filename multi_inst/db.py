@@ -15,7 +15,7 @@ CLASSES=(
     T_SNIP,
     T_OTHER,
     )
-    
+
 TYPE_TO_KIND = {
     T_LEXER: 'lexer',
     T_LINTER: 'linter',
@@ -53,10 +53,10 @@ PLUGINS={
             ),
         },
     'Lua':{
-        T_LINTER:( 
-            'Lua_using_luac', 
+        T_LINTER:(
+            'Lua_using_luac',
             ),
-        T_SNIP:( 
+        T_SNIP:(
             'Lua',
             ),
         T_OTHER:(
@@ -148,7 +148,7 @@ PLUGINS={
             'JS_Format',
             'JS_Minifier',
             'JS_Multiline_Array',
-            'JS_Sort_Imports',        
+            'JS_Sort_Imports',
             'DevDocs',
             'DocBlock_Comments',
             ),
@@ -161,7 +161,7 @@ PLUGINS={
             'PHP_using_phpcs',
             'PHP_using_phpl',
             'PHP_using_phplint',
-            'PHP_using_phpmd',            
+            'PHP_using_phpmd',
             ),
         T_TREE:(
             'PHP',
@@ -193,7 +193,7 @@ PLUGINS={
             ),
         T_OTHER:(
             'XML_Format',
-            'XML_Tidy',        
+            'XML_Tidy',
             ),
         T_LEXER:(
             'XSLT',
@@ -236,5 +236,21 @@ PLUGINS={
             'reStructuredText_Preview',
             ),
         },
+    'C/C++':{
+        T_LINT:(
+            'C++_using_cppcheck',
+            'C++_using_cpplint',
+            'C++_using_gcc',
+            ),
+        T_SNIP:(
+            'Atom-C',
+            'C_C++',
+            ),
+        T_OTHER:(
+            'AStyle_Format',
+            'Pascal_C++_Format',
+            'Uncrustify_Format',
+            ),
+        },
     }
-    
+
