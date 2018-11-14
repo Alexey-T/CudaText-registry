@@ -216,6 +216,9 @@ PLUGINS={
         T_LINTER:(
             'Markdown_using_markdownlint',
             ),
+        T_TREE:(
+            'Markdown',
+            ),
         T_SNIP:(
             'Markdown',
             ),
