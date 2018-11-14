@@ -212,5 +212,17 @@ PLUGINS={
             'Atom-Go',
             ),
         },
+    'Markdown':{
+        T_LINTER:(
+            'Markdown_using_markdownlint',
+            ),
+        T_SNIP:(
+            'Markdown',
+            ),
+        T_OTHER:(
+            'Markdown_Preview',
+            'Markdown_Table_Format',
+            ),
+        },
     }
     
