@@ -151,6 +151,7 @@ PLUGINS={
             'JS_Sort_Imports',
             'DevDocs',
             'DocBlock_Comments',
+            'Paste_as_String',
             ),
         T_INTEL:(
             'JS_Tern',
@@ -248,7 +249,9 @@ PLUGINS={
             ),
         T_OTHER:(
             'AStyle_Format',
+            'CBlock',
             'Pascal_C++_Format',
+            'Paste_as_String',
             'Uncrustify_Format',
             ),
         },
