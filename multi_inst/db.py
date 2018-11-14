@@ -212,16 +212,20 @@ PLUGINS={
             'Atom-Go',
             ),
         },
-    'Markdown/reST':{
+    'Markdown/reST/Wiki':{
         T_LEXER:(
+            'MediaWiki',
             'reStructuredText',
             'R_Markdown',
+            'WikidPad',
             ),
         T_LINTER:(
             'Markdown_using_markdownlint',
             ),
         T_TREE:(
             'Markdown',
+            'MediaWiki',
+            'WikidPad',
             ),
         T_SNIP:(
             'Markdown',
