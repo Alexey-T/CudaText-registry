@@ -284,6 +284,7 @@ PLUGINS={
             'Spell_Checker',
             'Sync_Editing',
             'Tab_Icons',
+            'Terminal',
             'Text_Statistics',
             ),
         },
