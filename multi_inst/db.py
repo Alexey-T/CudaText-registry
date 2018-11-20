@@ -282,6 +282,7 @@ PLUGINS={
             'Snippets',
             'Sort',
             'Spell_Checker',
+            'Sync_Scroll',
             'Sync_Editing',
             'Tab_Icons',
             'Terminal',
