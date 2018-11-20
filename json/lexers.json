@@ -1043,5 +1043,10 @@
     "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.ZenScript_(MineTweaker).zip",
     "desc": "",
     "v": "2016.12.08"
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Zephir.zip",
+    "desc": "",
+    "v": "2018.11.20"
   }
 ]
