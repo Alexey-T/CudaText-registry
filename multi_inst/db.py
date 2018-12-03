@@ -266,6 +266,7 @@ PLUGINS={
             'Config_Toolbar',
             'CudaExt',
             'Detect_Indent',
+            'Draw_Lines',
             'Encode',
             'External_Tools',
             'Favorites',
@@ -287,6 +288,7 @@ PLUGINS={
             'Tab_Icons',
             'Terminal',
             'Text_Statistics',
+            'Vim_Mode',
             ),
         },
     }
