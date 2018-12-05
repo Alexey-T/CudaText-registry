@@ -815,6 +815,11 @@
     "v": "2015.09.20"
   },
   {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.RON.zip",
+    "desc": "",
+    "v": "2018.12.05"
+  },
+  {
     "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.RPG_IV.zip",
     "desc": "",
     "v": "2014.11.18"
@@ -827,7 +832,7 @@
   {
     "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Rust.zip",
     "desc": "",
-    "v": "2016.09.19"
+    "v": "2018.12.05"
   },
   {
     "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.R.zip",
