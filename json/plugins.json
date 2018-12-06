@@ -7,9 +7,9 @@
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Auto_Copy_to_Clipboard.zip",
-    "desc": "Auto-copies block to clipboard, on selection",
+    "desc": "Auto-copies selected block to clipboard",
     "module": "cuda_auto_copy",
-    "v": "2018.06.03"
+    "v": "2018.12.06"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Auto_Replace.zip",
