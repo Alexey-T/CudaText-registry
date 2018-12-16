@@ -254,6 +254,7 @@ PLUGINS={
             'CBlock',
             'Pascal_C++_Format',
             'Paste_as_String',
+            'Switch_Header',
             'Uncrustify_Format',
             ),
         },
