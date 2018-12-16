@@ -481,9 +481,9 @@
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Switch_Header.zip",
-    "desc": "Switches file pairs: c<>h, cpp<>h, cc<>h, asm<>inc",
+    "desc": "Switches file pairs: .c<->.h, .cpp<->.h, .asm<->.inc etc",
     "module": "cuda_switch_header",
-    "v": "2015.10.06"
+    "v": "2018.12.16"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Sync_Editing.zip",
