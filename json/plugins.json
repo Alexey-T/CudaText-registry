@@ -27,7 +27,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.AutoIt_Helper.zip",
     "desc": "For AutoIt lexer, gives code intelligence commands",
     "module": "cuda_autoit_helper",
-    "v": "2018.02.02"
+    "v": "2019.01.08"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.ASCII_Art.zip",
