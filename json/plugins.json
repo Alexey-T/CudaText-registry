@@ -141,7 +141,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.CSS_Table_of_Contents.zip",
     "desc": "Creates sections and TOC in CSS files",
     "module": "cuda_css_toc",
-    "v": "2016.10.06"
+    "v": "2019.01.11"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.CSV_Hilite.zip",
