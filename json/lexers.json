@@ -35,11 +35,6 @@
     "v": "2017.06.07"
   },
   {
-    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Apache_config.zip",
-    "desc": "",
-    "v": "2014.12.10"
-  },
-  {
     "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Apache_Hive.zip",
     "desc": "",
     "v": "2016.09.27"
@@ -803,11 +798,6 @@
     "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Regular_expressions.zip",
     "desc": "",
     "v": "2014.11.18"
-  },
-  {
-    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.reStructuredText.zip",
-    "desc": "",
-    "v": "2016.04.05"
   },
   {
     "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Rexx.zip",
