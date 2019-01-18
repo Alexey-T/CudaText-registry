@@ -35,6 +35,11 @@
     "v": "2017.06.07"
   },
   {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Apache_config.zip",
+    "desc": "",
+    "v": "2017.08.26"
+  },
+  {
     "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Apache_Hive.zip",
     "desc": "",
     "v": "2016.09.27"
@@ -728,6 +733,11 @@
     "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.PAX_Pascal.zip",
     "desc": "",
     "v": "2014.11.18"
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Perl.zip",
+    "desc": "",
+    "v": "2018.10.17"
   },
   {
     "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.PICL.zip",
