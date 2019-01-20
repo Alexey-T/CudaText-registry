@@ -185,6 +185,11 @@
     "v": "2014.12.17"
   },
   {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.C#.zip",
+    "desc": "",
+    "v": "2019.01.20"
+  },
+  {
     "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Caffe_Prototxt.zip",
     "desc": "",
     "v": "2017.01.21"
@@ -258,6 +263,11 @@
     "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Dart.zip",
     "desc": "",
     "v": "2018.12.25"
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Delphi_resources.zip",
+    "desc": "",
+    "v": "2016.04.06"
   },
   {
     "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Dockerfile.zip",
@@ -403,6 +413,11 @@
     "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Harbour.zip",
     "desc": "",
     "v": "2014.11.18"
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Haskell.zip",
+    "desc": "",
+    "v": "2017.04.17"
   },
   {
     "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Haxe.zip",
@@ -963,6 +978,11 @@
     "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Textile.zip",
     "desc": "",
     "v": "2016.09.20"
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Tcl.zip",
+    "desc": "",
+    "v": "2017.04.22"
   },
   {
     "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.TOML.zip",
