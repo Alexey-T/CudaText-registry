@@ -601,9 +601,9 @@
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Web_Font.zip",
-    "desc": "Inserts into CSS code fonts from webfont.ru",
+    "desc": "Inserts into CSS code fonts from FontStorage.com",
     "module": "cuda_webfont",
-    "v": "2015.10.06"
+    "v": "2019.01.23"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.XML_Format.zip",
