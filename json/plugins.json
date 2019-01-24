@@ -25,7 +25,7 @@
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.AutoIt_Helper.zip",
-    "desc": "For AutoIt lexer, gives code intelligence commands",
+    "desc": "Code IntelliSense for AutoIt lexer",
     "module": "cuda_autoit_helper",
     "v": "2019.01.18"
   },
@@ -349,7 +349,7 @@
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.JS_Tern.zip",
-    "desc": "Code-intelligence for JavaScript, based on Tern.js",
+    "desc": "Code IntelliSense for JavaScript, based on Tern.js",
     "module": "cuda_tern",
     "v": "2018.08.31"
   },
@@ -427,9 +427,9 @@
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Python_IntelliSense.zip",
-    "desc": "Code Intelligence for Python: auto-completion, goto-definition",
+    "desc": "Code IntelliSense for Python, based on Jedi library",
     "module": "cuda_python_intel",
-    "v": "2018.12.16"
+    "v": "2019.01.24"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.reStructuredText_Preview.zip",
