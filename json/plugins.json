@@ -543,7 +543,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.CudaTree.zip",
     "desc": "Builds Code Tree for lexers, using TreeHelpers",
     "module": "cuda_tree",
-    "v": "2018.08.10"
+    "v": "2019.01.24"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/treehelpers/treehelper.HTML_XML.zip",
