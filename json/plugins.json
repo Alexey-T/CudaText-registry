@@ -573,7 +573,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/treehelpers/treehelper.MediaWiki.zip",
     "desc": "TreeHelper for MediaWiki",
     "module": "cuda_tree_mediawiki",
-    "v": "2019.01.25"
+    "v": "2018.05.17"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/treehelpers/treehelper.WikidPad.zip",
