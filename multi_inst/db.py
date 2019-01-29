@@ -227,6 +227,8 @@ PLUGINS={
         T_TREE:(
             'Markdown',
             'MediaWiki',
+            'reStructuredText',
+            'Textile',
             'WikidPad',
             ),
         T_SNIP:(
