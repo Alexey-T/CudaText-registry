@@ -558,6 +558,12 @@
     "v": "2018.05.19"
   },
   {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/treehelpers/treehelper.MediaWiki.zip",
+    "desc": "TreeHelper for MediaWiki",
+    "module": "cuda_tree_mediawiki",
+    "v": "2018.05.17"
+  },
+  {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/treehelpers/treehelper.Pascal.zip",
     "desc": "TreeHelper for Pascal, using PyPascalTokenizer",
     "module": "cuda_tree_pascal",
@@ -568,12 +574,6 @@
     "desc": "TreeHelper for PHP, using pyPhpTree",
     "module": "cuda_tree_php",
     "v": "2018.05.17.2"
-  },
-  {
-    "url": "https://sourceforge.net/projects/cudatext/files/addons/treehelpers/treehelper.MediaWiki.zip",
-    "desc": "TreeHelper for MediaWiki",
-    "module": "cuda_tree_mediawiki",
-    "v": "2018.05.17"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/treehelpers/treehelper.WikidPad.zip",
