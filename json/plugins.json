@@ -576,6 +576,18 @@
     "v": "2018.05.17.2"
   },
   {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/treehelpers/treehelper.reStructuredText.zip",
+    "desc": "TreeHelper for reStructuredText",
+    "module": "cuda_tree_rest",
+    "v": "2019.01.29"
+  },
+  {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/treehelpers/treehelper.Textile.zip",
+    "desc": "TreeHelper for Textile",
+    "module": "cuda_tree_textile",
+    "v": "2019.01.29"
+  },
+  {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/treehelpers/treehelper.WikidPad.zip",
     "desc": "TreeHelper for WikidPad",
     "module": "cuda_tree_wikidpad",
