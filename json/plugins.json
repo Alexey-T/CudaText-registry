@@ -99,7 +99,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Config_Toolbar.zip",
     "desc": "Configures toolbar: buttons, icon set",
     "module": "cuda_config_toolbar",
-    "v": "2018.10.10.4"
+    "v": "2019.01.30"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.CSS_AutoPrefixer.zip",
