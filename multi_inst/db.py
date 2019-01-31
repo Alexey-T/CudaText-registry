@@ -285,7 +285,6 @@ PLUGINS={
             'Open_URL',
             'Session_Manager',
             'Snippets',
-            'Sort',
             'Spell_Checker',
             'Sync_Scroll',
             'Sync_Editing',
