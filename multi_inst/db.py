@@ -265,6 +265,7 @@ PLUGINS={
             'Brackets_Hilite',
             'Color_Picker',
             'Color_Text',
+            'Colored_Indent',
             'Complete_From_Text',
             'Config_Toolbar',
             'CudaExt',
