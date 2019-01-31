@@ -84,6 +84,12 @@
     "v": "2018.08.22"
   },
   {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Colored_Indent.zip",
+    "desc": "Colorizes indentation levels",
+    "module": "cuda_colored_indent",
+    "v": "2019.01.31"
+  },
+  {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Column_Marks.zip",
     "desc": "Commands to work with 'margin' vertical lines",
     "module": "cuda_column_marks",
