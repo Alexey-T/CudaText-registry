@@ -235,6 +235,7 @@ PLUGINS={
             'Markdown',
             ),
         T_OTHER:(
+            'Markdown_Editing',
             'Markdown_Preview',
             'Markdown_Table_Format',
             'reStructuredText_Preview',
