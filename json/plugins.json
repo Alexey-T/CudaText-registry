@@ -369,7 +369,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Markdown_Editing.zip",
     "desc": "Various helpers for editing of Markdown documents",
     "module": "cuda_markdown_editing",
-    "v": "2019.02.03.2"
+    "v": "2019.02.05"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Markdown_Preview.zip",
