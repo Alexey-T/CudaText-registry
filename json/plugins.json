@@ -186,6 +186,12 @@
     "v": "2015.10.06"
   },
   {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Differ.zip",
+    "desc": "Compares 2 files and shows them side-by-side",
+    "module": "cuda_differ",
+    "v": "2019.02.06"
+  },
+  {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.DocBlock_Comments.zip",
     "desc": "Helps to type DocBlock comments, for JavaScript/CoffeScript/PHP",
     "module": "cuda_docblock",
