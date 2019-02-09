@@ -102,7 +102,7 @@ PLUGINS={
             'DevDocs',
             'Emmet_Lite',
             'Font_Awesome',
-            'Web_Font',
+            'FontStorage',
             ),
         T_SNIP:(
             'CSS_Grid',

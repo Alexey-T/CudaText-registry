@@ -246,6 +246,12 @@
     "v": "2018.02.08"
   },
   {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.FontStorage.zip",
+    "desc": "Inserts into CSS code fonts from FontStorage.com",
+    "module": "cuda_webfont",
+    "v": "2019.02.09"
+  },
+  {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Fountain_Helper.zip",
     "desc": "Commands for Fountain lexer",
     "module": "cuda_fountain_helper",
@@ -634,12 +640,6 @@
     "desc": "Allows to use Vim key bindings",
     "module": "cuda_vim_mode",
     "v": "2019.01.09.2"
-  },
-  {
-    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Web_Font.zip",
-    "desc": "Inserts into CSS code fonts from FontStorage.com",
-    "module": "cuda_webfont",
-    "v": "2019.01.23"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.XML_Format.zip",
