@@ -286,6 +286,7 @@ PLUGINS={
             'Online_Search',
             'Open_URL',
             'Session_Manager',
+            'Snippet_Panel',
             'Snippets',
             'Spell_Checker',
             'Sync_Scroll',
