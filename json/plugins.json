@@ -48,10 +48,10 @@
     "v": "2018.01.09"
   },
   {
-    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Brackets_Hilite.zip",
-    "desc": "Highlights pair brackets, gives cmd 'Go to pair bracket'",
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Bracket_Helper.zip",
+    "desc": "Highlights pair brackets, gives command 'Go to pair bracket'",
     "module": "cuda_brackets_hilite",
-    "v": "2019.01.18"
+    "v": "2019.02.10"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Calc_Expression.zip",
@@ -150,10 +150,10 @@
     "v": "2019.01.11"
   },
   {
-    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.CSV_Hilite.zip",
-    "desc": "Hilites columns in CSV files with different colors",
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.CSV_Helper.zip",
+    "desc": "Highlightes columns in CSV files with different colors",
     "module": "cuda_csv_hilite",
-    "v": "2018.06.12"
+    "v": "2019.02.10"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.CudaLint.zip",
@@ -288,16 +288,16 @@
     "v": "2015.10.05"
   },
   {
-    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Hilite_Occurrences.zip",
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Highlight_Occurrences.zip",
     "desc": "Highlights all occurrences of selected/current word",
     "module": "cuda_hilite_occurrences",
-    "v": "2018.04.21"
+    "v": "2019.02.10"
   },
   {
-    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Hilite_Vars.zip",
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Highlight_Variables.zip",
     "desc": "Highlights 'variables' inside string literals (Bash, etc)",
     "module": "cuda_hilite_vars",
-    "v": "2018.09.20"
+    "v": "2019.02.10"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.HTML_Beautify.zip",

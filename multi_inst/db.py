@@ -263,12 +263,13 @@ PLUGINS={
         },
     '(General purpose)':{
         T_OTHER:(
-            'Brackets_Hilite',
+            'Bracket_Helper',
             'Color_Picker',
             'Color_Text',
             'Colored_Indent',
             'Complete_From_Text',
             'Config_Toolbar',
+            'CSV_Helper',
             'CudaExt',
             'Detect_Indent',
             'Draw_Lines',
@@ -278,7 +279,7 @@ PLUGINS={
             'FindInFiles-v3',
             'FTP',
             'Hash_Generator',
-            'Hilite_Occurrences',
+            'Highlight_Occurrences',
             'Macros',
             'Numbered_Bookmarks',
             'Number_Utils',
