@@ -585,25 +585,25 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/treehelpers/treehelper.HTML_XML.zip",
     "desc": "TreeHelper for HTML/XML",
     "module": "cuda_tree_xml",
-    "v": "2018.11.04"
+    "v": "2019.02.10"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/treehelpers/treehelper.Markdown.zip",
     "desc": "TreeHelper for Markdown",
     "module": "cuda_tree_markdown",
-    "v": "2018.05.19"
+    "v": "2019.02.10"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/treehelpers/treehelper.MediaWiki.zip",
     "desc": "TreeHelper for MediaWiki",
     "module": "cuda_tree_mediawiki",
-    "v": "2018.05.17"
+    "v": "2019.02.10"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/treehelpers/treehelper.Pascal.zip",
     "desc": "TreeHelper for Pascal, using PyPascalTokenizer",
     "module": "cuda_tree_pascal",
-    "v": "2018.10.17"
+    "v": "2019.02.10"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/treehelpers/treehelper.PHP.zip",
@@ -627,7 +627,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/treehelpers/treehelper.WikidPad.zip",
     "desc": "TreeHelper for WikidPad",
     "module": "cuda_tree_wikidpad",
-    "v": "2018.05.17"
+    "v": "2019.02.10"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Uncrustify_Format.zip",
