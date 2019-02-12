@@ -585,7 +585,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/treehelpers/treehelper.HTML_XML.zip",
     "desc": "TreeHelper for HTML/XML",
     "module": "cuda_tree_xml",
-    "v": "2019.02.10"
+    "v": "2019.02.12"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/treehelpers/treehelper.Markdown.zip",
