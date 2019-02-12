@@ -609,7 +609,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/treehelpers/treehelper.PHP.zip",
     "desc": "TreeHelper for PHP, using pyPhpTree",
     "module": "cuda_tree_php",
-    "v": "2018.05.17.2"
+    "v": "2019.02.12"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/treehelpers/treehelper.reStructuredText.zip",
