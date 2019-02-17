@@ -480,12 +480,6 @@
     "v": "2018.12.27"
   },
   {
-    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Snippet_Panel.zip",
-    "desc": "Panel in sidebar, similar to Clips panel in SynWrite editor",
-    "module": "cuda_snippet_panel",
-    "v": "2019.02.10"
-  },
-  {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Sort.zip",
     "desc": "Gives dialog and commands to sort text",
     "module": "cuda_sort",
@@ -574,12 +568,6 @@
     "desc": "Previews Textile files as HTML in browser",
     "module": "cuda_textile_preview",
     "v": "2016.09.20"
-  },
-  {
-    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.CudaTree.zip",
-    "desc": "Builds Code Tree for lexers, using TreeHelpers",
-    "module": "cuda_tree",
-    "v": "2019.02.08"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/treehelpers/treehelper.HTML_XML.zip",
