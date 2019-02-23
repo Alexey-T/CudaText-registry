@@ -78,6 +78,12 @@
     "desc": "Linter for Haml, using Ruby-haml"
   },
   {
+    "module": "cuda_lint_haskell_ghc",
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/linters/linter.Haskell_using_ghc.zip",
+    "v": "2019.02.23",
+    "desc": "Linter for Haskell, using GHC"
+  },
+  {
     "module": "cuda_lint_htmltidy",
     "url": "https://sourceforge.net/projects/cudatext/files/addons/linters/linter.HTML_using_htmltidy.zip",
     "v": "2016.07.04",
