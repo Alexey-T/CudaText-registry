@@ -482,12 +482,6 @@
     "v": "2018.12.27"
   },
   {
-    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Sort.zip",
-    "desc": "Gives dialog and commands to sort text",
-    "module": "cuda_sort",
-    "v": "2019.01.28"
-  },
-  {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Spell_Checker.zip",
     "desc": "Spell checker, with Hunspell dictionaries",
     "module": "cuda_spell_checker",
