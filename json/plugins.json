@@ -51,7 +51,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Bracket_Helper.zip",
     "desc": "Highlights pair brackets, gives command 'Go to pair bracket'",
     "module": "cuda_brackets_hilite",
-    "v": "2019.02.10"
+    "v": "2019.02.27"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Calc_Expression.zip",
@@ -293,7 +293,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Highlight_Occurrences.zip",
     "desc": "Highlights all occurrences of selected/current word",
     "module": "cuda_hilite_occurrences",
-    "v": "2019.02.10"
+    "v": "2019.02.27"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Highlight_Variables.zip",
