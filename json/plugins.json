@@ -117,7 +117,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.CSS_CanIUse.zip",
     "desc": "For CSS, shows info about selected word from CanIUse.com site",
     "module": "cuda_css_caniuse",
-    "v": "2015.10.06"
+    "v": "2019.03.04"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.CSS_Comb.zip",
