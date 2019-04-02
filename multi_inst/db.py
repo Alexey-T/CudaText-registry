@@ -273,6 +273,7 @@ PLUGINS={
             'CudaExt',
             'Detect_Indent',
             'Draw_Lines',
+            'EditorConfig_Support',
             'Encode',
             'External_Tools',
             'Favorites',
