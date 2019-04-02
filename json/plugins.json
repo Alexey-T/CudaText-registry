@@ -211,6 +211,12 @@
     "v": "2018.11.23"
   },
   {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.EditorConfig_Support.zip",
+    "desc": "Supports EditorConfig system",
+    "module": "cuda_editorconfig",
+    "v": "2019.04.02"
+  },
+  {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Emmet_Lite.zip",
     "desc": "Emmet engine, see www.emmet.io",
     "module": "cuda_emmet_lite",
