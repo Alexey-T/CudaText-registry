@@ -214,7 +214,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.EditorConfig_Support.zip",
     "desc": "Supports EditorConfig system",
     "module": "cuda_editorconfig",
-    "v": "2019.04.02"
+    "v": "2019.04.03"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Emmet_Lite.zip",
