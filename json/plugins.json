@@ -476,6 +476,12 @@
     "v": "2019.01.24"
   },
   {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Remove_Greek_Accents.zip",
+    "desc": "Replaces accented Greek letters to non-accented ones",
+    "module": "cuda_remove_greek_accents",
+    "v": "2019.04.09"
+  },
+  {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.reStructuredText_Preview.zip",
     "desc": "Previews reStructuredText file as HTML in browser",
     "module": "cuda_rest_preview",
