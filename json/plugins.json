@@ -593,7 +593,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/treehelpers/treehelper.Markdown.zip",
     "desc": "TreeHelper for Markdown",
     "module": "cuda_tree_markdown",
-    "v": "2019.02.10"
+    "v": "2019.04.15"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/treehelpers/treehelper.MediaWiki.zip",
