@@ -281,6 +281,7 @@ PLUGINS={
             'FTP',
             'Hash_Generator',
             'Highlight_Occurrences',
+            'IP_Address_Helper',
             'Macros',
             'Numbered_Bookmarks',
             'Number_Utils',
