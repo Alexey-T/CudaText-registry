@@ -356,6 +356,12 @@
     "v": "2018.07.18"
   },
   {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.IP_Address_Helper.zip",
+    "desc": "On hovering IP address, shows its country in the statusbar",
+    "module": "cuda_id_address_helper",
+    "v": "2019.04.21"
+  },
+  {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.JS_Format.zip",
     "desc": "Formats JavaScript or JSON code",
     "module": "cuda_js_format",
