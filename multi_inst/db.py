@@ -272,6 +272,7 @@ PLUGINS={
             'CSV_Helper',
             'CudaExt',
             'Detect_Indent',
+            'Differ',
             'Draw_Lines',
             'EditorConfig_Support',
             'Encode',
