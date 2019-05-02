@@ -14,7 +14,7 @@
   {
     "module": "cuda_lint_cpplint",
     "url": "https://sourceforge.net/projects/cudatext/files/addons/linters/linter.C%2B%2B_using_cpplint.zip",
-    "v": "2016.07.05",
+    "v": "2019.05.03",
     "desc": "Linter for C++, using cpplint"
   },
   {
