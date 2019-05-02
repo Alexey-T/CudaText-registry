@@ -206,7 +206,7 @@
   {
     "module": "cuda_lint_pyyaml",
     "url": "https://sourceforge.net/projects/cudatext/files/addons/linters/linter.YAML_using_pyyaml.zip",
-    "v": "2016.07.05",
+    "v": "2019.05.03",
     "desc": "Linter for YAML, using pyyaml (only Linux/macOS yet)"
   }
 ]
