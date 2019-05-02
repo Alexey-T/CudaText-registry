@@ -127,9 +127,9 @@
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.CSS_Format.zip",
-    "desc": "Formats/indents CSS code",
+    "desc": "Formats CSS/SCSS/SASS/LESS code",
     "module": "cuda_css_format",
-    "v": "2015.10.17"
+    "v": "2019.05.02"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.CSS_Inspector.zip",
