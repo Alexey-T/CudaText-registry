@@ -151,9 +151,9 @@
   },
   {
     "module": "cuda_lint_pep8",
-    "url": "https://sourceforge.net/projects/cudatext/files/addons/linters/linter.Python_using_pep8.zip",
-    "v": "2016.07.05",
-    "desc": "Linter for Python, using PEP8"
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/linters/linter.Python_using_pycodestyle.zip",
+    "v": "2019.05.03",
+    "desc": "Linter for Python, using PyCodeStyle library"
   },
   {
     "module": "cuda_lint_php",
