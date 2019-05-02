@@ -669,8 +669,8 @@
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.YAML_Format.zip",
-    "desc": "Formats YAML code (using pyyaml library)",
+    "desc": "Formats YAML code",
     "module": "cuda_yaml_format",
-    "v": "2015.12.20"
+    "v": "2019.05.03"
   }
 ]
