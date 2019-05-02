@@ -38,7 +38,7 @@ PLUGINS={
     'Python':{
         T_LINTER:(
             'Python_using_pylint',
-            'Python_using_pep8',
+            'Python_using_pycodestyle',
             ),
         T_INTEL:(
             'Python_IntelliSense',
