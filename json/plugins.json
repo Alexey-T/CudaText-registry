@@ -129,7 +129,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.CSS_Format.zip",
     "desc": "Formats CSS/SCSS/SASS/LESS code",
     "module": "cuda_css_format",
-    "v": "2019.05.02"
+    "v": "2019.05.04"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.CSS_Inspector.zip",
@@ -365,7 +365,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.JS_Format.zip",
     "desc": "Formats JavaScript or JSON, can do JSON Stringify",
     "module": "cuda_js_format",
-    "v": "2019.05.02"
+    "v": "2019.05.04"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.JS_Minifier.zip",
