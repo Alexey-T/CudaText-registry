@@ -47,9 +47,9 @@ PLUGINS={
             'Python',
             ),
         T_OTHER:(
-            'Python_Fix_Imports',
-            'Configure_PEP8',
+            'Configure_PyCodeStyle',
             'DevDocs',
+            'Python_Fix_Imports',
             ),
         },
     'Lua':{
