@@ -500,6 +500,12 @@
     "v": "2015.10.17"
   },
   {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Show_Unicode_Name.zip",
+    "desc": "Shows in the statusbar Unicode name of char under caret",
+    "module": "cuda_show_unicode_name",
+    "v": "2019.05.21"
+  },
+  {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Snippets.zip",
     "desc": "Snippets in CudaText, see CudaText wiki",
     "module": "cuda_snippets",

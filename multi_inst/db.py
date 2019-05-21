@@ -289,6 +289,7 @@ PLUGINS={
             'Online_Search',
             'Open_URL',
             'Session_Manager',
+            'Show_Unicode_Name',
             'Snippet_Panel',
             'Snippets',
             'Spell_Checker',
