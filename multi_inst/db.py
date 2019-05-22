@@ -261,6 +261,21 @@ PLUGINS={
             'Uncrustify_Format',
             ),
         },
+    'Ruby':{
+        T_LEXER:(
+            'HTML_Ruby-ERB',
+            ),
+        T_LINTER:(
+            'Ruby_using_rubocop',
+            'Ruby_using_ruby',
+            ),
+        T_SNIP:(
+            'Atom-Ruby',
+            ),
+        T_OTHER:(
+            'Ruby_Format',
+            ),
+        },
     '(General purpose)':{
         T_OTHER:(
             'Bracket_Helper',
