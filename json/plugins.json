@@ -326,6 +326,12 @@
     "v": "2018.07.18"
   },
   {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.HTML_Live_Preview.zip",
+    "desc": "Live preview of HTML files in browser (Windows only)",
+    "module": "cuda_html_live_preview",
+    "v": "2019.05.23"
+  },
+  {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.HTML_Ops.zip",
     "desc": "Various commands to work with HTML/CSS",
     "module": "cuda_html_ops",
