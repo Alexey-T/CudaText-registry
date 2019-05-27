@@ -299,7 +299,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Hex_Dump.zip",
     "desc": "Shows text in hex-dump format",
     "module": "cuda_hex_dump",
-    "v": "2015.10.05"
+    "v": "2019.05.27"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Highlight_Occurrences.zip",
