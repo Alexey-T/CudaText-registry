@@ -75,7 +75,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Color_Picker.zip",
     "desc": "Shows color-picker dialog, inserts color #rrggbb",
     "module": "cuda_color_picker",
-    "v": "2019.06.01.1"
+    "v": "2019.06.01.2"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Color_Text.zip",
