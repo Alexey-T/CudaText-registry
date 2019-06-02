@@ -150,6 +150,12 @@
     "v": "2015.10.17"
   },
   {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.CSS_Property_Info.zip",
+    "desc": "Shows info about selected CSS property in statusbar",
+    "module": "cuda_css_property_info",
+    "v": "2019.06.02"
+  },
+  {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.CSS_Table_of_Contents.zip",
     "desc": "Creates sections and TOC in CSS files",
     "module": "cuda_css_toc",

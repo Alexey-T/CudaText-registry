@@ -97,6 +97,7 @@ PLUGINS={
             'CSS_Format',
             'CSS_Minifier',
             'CSS_Prefixer',
+            'CSS_Property_Info',
             'CSS_Table_of_Contents',
             'Color_Picker',
             'DevDocs',
