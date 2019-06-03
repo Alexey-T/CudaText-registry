@@ -180,6 +180,12 @@
     "desc": "Linter for PHP, using PHPMD"
   },
   {
+    "module": "cuda_lint_powershell",
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/linters/linter.PowerShell_using_PSScriptAnalyzer.zip",
+    "v": "2019.06.03",
+    "desc": "Linter for PowerShell"
+  },
+  {
     "module": "cuda_lint_rubocop",
     "url": "https://sourceforge.net/projects/cudatext/files/addons/linters/linter.Ruby_using_rubocop.zip",
     "v": "2016.07.05",
