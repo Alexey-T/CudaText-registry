@@ -341,7 +341,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.HTML_Live_Preview.zip",
     "desc": "Live preview of HTML files in browser (requires Python+Flask)",
     "module": "cuda_html_live_preview",
-    "v": "2019.05.27.2"
+    "v": "2019.06.07"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.HTML_Ops.zip",
