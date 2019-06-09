@@ -125,6 +125,11 @@
     "v": "2016.12.04"
   },
   {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Assembly_Z80_RGBDS.zip",
+    "desc": "",
+    "v": "2019.06.09"
+  },
+  {
     "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Assembly_Z80_SjASM.zip",
     "desc": "",
     "v": "2016.10.01"
