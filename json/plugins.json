@@ -280,7 +280,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Fountain_Helper.zip",
     "desc": "Commands for Fountain lexer",
     "module": "cuda_fountain_helper",
-    "v": "2017.06.05"
+    "v": "2019.06.14"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.FTP.zip",
