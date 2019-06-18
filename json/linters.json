@@ -144,6 +144,18 @@
     "desc": "Linter for Nginx, using nginx-lint"
   },
   {
+    "module": "cuda_lint_perl",
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/linters/linter.Perl_using_perl.zip",
+    "v": "2019.06.17",
+    "desc": "Linter for Perl, using 'perl -c'"
+  },
+  {
+    "module": "cuda_lint_mypy",
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/linters/linter.Python_using_mypy.zip",
+    "v": "2019.06.17",
+    "desc": "Linter for Python, using MyPy"
+  },
+  {
     "module": "cuda_lint_pylint",
     "url": "https://sourceforge.net/projects/cudatext/files/addons/linters/linter.Python_using_pylint.zip",
     "v": "2018.02.25",
