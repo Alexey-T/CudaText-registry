@@ -42,6 +42,12 @@
     "desc": "Linter for CoffeeScript, using coffee (requires Node.js)"
   },
   {
+    "module": "cuda_lint_coffee_jshint",
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/linters/linter.CoffeeScript_using_coffee-jshint.zip",
+    "v": "2019.06.20",
+    "desc": "Linter for CoffeeScript, using coffee-jshint (requires Node.js)"
+  },
+  {
     "module": "cuda_lint_coffeelint",
     "url": "https://sourceforge.net/projects/cudatext/files/addons/linters/linter.CoffeeScript_using_coffeelint.zip",
     "v": "2016.07.05",
@@ -148,6 +154,18 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/linters/linter.Perl_using_perl.zip",
     "v": "2019.06.17",
     "desc": "Linter for Perl, using 'perl -c'"
+  },
+  {
+    "module": "cuda_lint_puppet",
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/linters/linter.Puppet_using_puppet.zip",
+    "v": "2019.06.20",
+    "desc": "Linter for Puppet, using 'puppet'"
+  },
+  {
+    "module": "cuda_lint_puppet_lint",
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/linters/linter.Puppet_using_puppet-lint.zip",
+    "v": "2019.06.20",
+    "desc": "Linter for Puppet, using 'puppet-lint'"
   },
   {
     "module": "cuda_lint_mypy",
