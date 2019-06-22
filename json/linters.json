@@ -54,6 +54,12 @@
     "desc": "Linter for CoffeeScript, using 'coffeelint' (requires Node.js)"
   },
   {
+    "module": "cuda_lint_erlc",
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/linters/linter.Erlang_using_erlc.zip",
+    "v": "2019.06.22",
+    "desc": "Linter for Erlang, using 'erlc'"
+  },
+  {
     "module": "cuda_lint_innosetup",
     "url": "https://sourceforge.net/projects/cudatext/files/addons/linters/linter.Inno_Setup_using_iscc.zip",
     "v": "2017.10.12",
