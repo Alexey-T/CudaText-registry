@@ -172,7 +172,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.CudaLint.zip",
     "desc": "Linting framework: syntax-checking of source code",
     "module": "cuda_lint",
-    "v": "2019.06.23"
+    "v": "2019.06.23.1"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Lua_Format.zip",
