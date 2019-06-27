@@ -54,6 +54,12 @@
     "desc": "Linter for CoffeeScript, using 'coffeelint' (requires Node.js)"
   },
   {
+    "module": "cuda_lint_dockerfilelint",
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/linters/linter.Dockerfile_using_dockerfilelint.zip",
+    "v": "2019.06.27",
+    "desc": "Linter for Dockerfile, using 'dockerfilelint'"
+  },
+  {
     "module": "cuda_lint_erlc",
     "url": "https://sourceforge.net/projects/cudatext/files/addons/linters/linter.Erlang_using_erlc.zip",
     "v": "2019.06.22",
