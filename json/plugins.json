@@ -383,13 +383,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.JS_Format.zip",
     "desc": "Formats JavaScript or JSON, can do JSON Stringify",
     "module": "cuda_js_format",
-    "v": "2019.07.05"
-  },
-  {
-    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.JS_Minifier.zip",
-    "desc": "Makes JavaScript code compact",
-    "module": "cuda_js_minifier",
-    "v": "2015.10.17"
+    "v": "2019.07.05.1"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.JS_Multiline_Array.zip",
