@@ -148,7 +148,6 @@ PLUGINS={
             ),
         T_OTHER:(
             'JS_Format',
-            'JS_Minifier',
             'JS_Multiline_Array',
             'JS_Sort_Imports',
             'DevDocs',
