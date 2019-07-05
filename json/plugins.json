@@ -494,6 +494,12 @@
     "v": "2019.06.22"
   },
   {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Python_ReIndent.zip",
+    "desc": "Changes indent in Python files to 4 spaces",
+    "module": "cuda_python_reindent",
+    "v": "2019.07.05"
+  },
+  {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Remove_Greek_Accents.zip",
     "desc": "Replaces accented Greek letters to non-accented ones",
     "module": "cuda_remove_greek_accents",
