@@ -137,6 +137,7 @@ PLUGINS={
             ),
         T_LINTER:(
             'CoffeeScript_using_coffee',
+            'CoffeeScript_using_coffee-jshint',
             'CoffeeScript_using_coffeelint',
             'JavaScript_using_eslint',
             'JavaScript_using_jshint',
@@ -144,6 +145,8 @@ PLUGINS={
             ),
         T_LEXER:(
             'CoffeeScript',
+            'JavaScript_(ES6)',
+            'JavaScript_(ES6)L',
             'JavaScript_Babel',
             'TypeScript',
             ),
