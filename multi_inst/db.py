@@ -50,6 +50,7 @@ PLUGINS={
             'Configure_PyCodeStyle',
             'DevDocs',
             'Python_Fix_Imports',
+            'Python_ReIndent',
             ),
         },
     'Lua':{
