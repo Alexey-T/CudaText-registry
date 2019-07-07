@@ -1,5 +1,11 @@
 [
   {
+    "module": "cuda_fmt_js",
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/formatters/formatter.JavaScript_JSON.zip",
+    "v": "2019.07.07",
+    "desc": "Formatters for JavaScript and JSON"
+  },
+  {
     "module": "cuda_lint_autoit",
     "url": "https://sourceforge.net/projects/cudatext/files/addons/linters/linter.AutoIt_using_au3check.zip",
     "v": "2017.08.30",
