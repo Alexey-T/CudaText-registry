@@ -87,7 +87,6 @@ PLUGINS={
             'HTML_XML',
             ),
         T_OTHER:(
-            'HTML_Beautify',
             'HTML_Live_Preview',
             'HTML_Ops',
             'HTML_Tooltips',
