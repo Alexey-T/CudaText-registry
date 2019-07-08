@@ -482,12 +482,6 @@
     "v": "2016.10.06"
   },
   {
-    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Python_Fix_Imports.zip",
-    "desc": "Corrects import-statements in Python file (see readme)",
-    "module": "cuda_python_fix_imports",
-    "v": "2016.05.22"
-  },
-  {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Python_IntelliSense.zip",
     "desc": "Code IntelliSense for Python, based on Jedi library",
     "module": "cuda_python_intel",

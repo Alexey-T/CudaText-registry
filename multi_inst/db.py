@@ -49,7 +49,6 @@ PLUGINS={
         T_OTHER:(
             'Configure_PyCodeStyle',
             'DevDocs',
-            'Python_Fix_Imports',
             ),
         },
     'Lua':{

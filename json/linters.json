@@ -6,6 +6,12 @@
     "desc": "Formatters for JavaScript and JSON"
   },
   {
+    "module": "cuda_fmt_python_fiximports",
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/formatters/formatter.Python_Fix_Imports.zip",
+    "v": "2019.07.08",
+    "desc": "Formatter for Python: Fix Imports"
+  },
+  {
     "module": "cuda_fmt_python_reindent",
     "url": "https://sourceforge.net/projects/cudatext/files/addons/formatters/formatter.Python_ReIndent.zip",
     "v": "2019.07.08",
