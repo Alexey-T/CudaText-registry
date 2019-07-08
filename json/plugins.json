@@ -332,12 +332,6 @@
     "v": "2019.02.10"
   },
   {
-    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.HTML_Beautify.zip",
-    "desc": "Formats/indents HTML code, uses engine from HTMLBeautify",
-    "module": "cuda_html_beautify",
-    "v": "2016.02.08"
-  },
-  {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.HTML_Completion.zip",
     "desc": "Auto-completion in HTML/PHP for cases: <img src=''>, class='', id=''",
     "module": "cuda_html_completion",
