@@ -288,6 +288,7 @@ PLUGINS={
             'Config_Toolbar',
             'CSV_Helper',
             'CudaExt',
+            'CudaFormatter',
             'Detect_Indent',
             'Differ',
             'Draw_Lines',
