@@ -386,12 +386,6 @@
     "v": "2019.04.27"
   },
   {
-    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.JS_Format.zip",
-    "desc": "Formats JavaScript or JSON, can do JSON Stringify",
-    "module": "cuda_js_format",
-    "v": "2019.07.05.2"
-  },
-  {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.JS_Multiline_Array.zip",
     "desc": "Converts selection to JavaScript array",
     "module": "cuda_js_multiline_array",
@@ -498,12 +492,6 @@
     "desc": "Code IntelliSense for Python, based on Jedi library",
     "module": "cuda_python_intel",
     "v": "2019.06.22"
-  },
-  {
-    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Python_ReIndent.zip",
-    "desc": "Changes indent in Python files to 4 spaces",
-    "module": "cuda_python_reindent",
-    "v": "2019.07.05"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Remove_Greek_Accents.zip",
