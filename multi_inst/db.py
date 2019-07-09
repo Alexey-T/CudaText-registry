@@ -2,6 +2,7 @@ global T_LEXER,T_LINTER,T_TREE,T_INTEL,T_SNIP,T_OTHER,CLASSES,TYPE_TO_KIND,CLASS
 
 T_LEXER='[lexer]'
 T_LINTER='[linter]'
+T_FMT='[formatter]'
 T_TREE='[tree helper]'
 T_INTEL='[intel plugin]'
 T_SNIP='[snippets]'
@@ -10,6 +11,7 @@ T_OTHER='[plugin]'
 CLASSES=(
     T_LEXER,
     T_LINTER,
+    T_FMT,
     T_TREE,
     T_INTEL,
     T_SNIP,
@@ -19,6 +21,7 @@ CLASSES=(
 TYPE_TO_KIND = {
     T_LEXER: 'lexer',
     T_LINTER: 'linter',
+    T_FMT: 'formatter',
     T_TREE: 'treehelper',
     T_INTEL: 'plugin',
     T_SNIP: 'snippets',
@@ -28,6 +31,7 @@ TYPE_TO_KIND = {
 CLASSES_MSGS={
     T_LEXER: 'Lexers:',
     T_LINTER: 'Linters:',
+    T_FMT: 'Formatters:',
     T_TREE: 'Code Tree helpers:',
     T_INTEL: 'Code Intelligence plugins:',
     T_SNIP: 'Snippets:',
@@ -39,6 +43,10 @@ PLUGINS={
         T_LINTER:(
             'Python_using_pylint',
             'Python_using_pycodestyle',
+            ),
+        T_FMT:(
+            'Python_Fix_Imports',
+            'Python_ReIndent',
             ),
         T_INTEL:(
             'Python_IntelliSense',
@@ -78,6 +86,9 @@ PLUGINS={
             'CSS_using_csslint',
             'CSS_using_csstree',
             'HTML_using_htmltidy',
+            ),
+        T_FMT:(
+            'HTML_Beautify',
             ),
         T_INTEL:(
             'HTML_Tidy',
@@ -139,6 +150,9 @@ PLUGINS={
             'JavaScript_using_eslint',
             'JavaScript_using_jshint',
             'JavaScript_using_jsl',
+            ),
+        T_FMT:(
+            'JavaScript_JSON',
             ),
         T_LEXER:(
             'CoffeeScript',
@@ -319,4 +333,3 @@ PLUGINS={
             ),
         },
     }
-
