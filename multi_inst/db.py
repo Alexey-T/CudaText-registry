@@ -41,6 +41,7 @@ CLASSES_MSGS={
 REQS={
     T_LINTER: 'CudaLint',
     T_FMT: 'CudaFormatter',
+    T_SNIP: 'Snippets',
 }
 
 PLUGINS={
