@@ -662,12 +662,6 @@
     "v": "2019.04.11"
   },
   {
-    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.XML_Tidy.zip",
-    "desc": "Formats XML code (using xml.dom library)",
-    "module": "cuda_xml_tidy",
-    "v": "2015.10.07"
-  },
-  {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.YAML_Format.zip",
     "desc": "Formats YAML code",
     "module": "cuda_yaml_format",

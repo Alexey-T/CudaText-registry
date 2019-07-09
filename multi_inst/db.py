@@ -216,9 +216,6 @@ PLUGINS={
         T_FMT:(
             'XML_Pretty_Print',
             ),
-        T_OTHER:(
-            'XML_Tidy',
-            ),
         T_LEXER:(
             'XSLT',
             ),
