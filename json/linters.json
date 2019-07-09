@@ -24,6 +24,12 @@
     "desc": "Formatter for Python: ReIndent"
   },
   {
+    "module": "cuda_fmt_xml_pp",
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/formatters/formatter.XML_Pretty_Print.zip",
+    "v": "2019.07.09",
+    "desc": "Formatter for XML: Pretty Print"
+  },
+  {
     "module": "cuda_lint_autoit",
     "url": "https://sourceforge.net/projects/cudatext/files/addons/linters/linter.AutoIt_using_au3check.zip",
     "v": "2017.08.30",

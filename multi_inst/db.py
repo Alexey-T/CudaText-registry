@@ -213,8 +213,10 @@ PLUGINS={
         T_LINTER:(
             'XML_using_xmllint-libxml2',
             ),
+        T_FMT:(
+            'XML_Pretty_Print',
+            ),
         T_OTHER:(
-            'XML_Format',
             'XML_Tidy',
             ),
         T_LEXER:(
