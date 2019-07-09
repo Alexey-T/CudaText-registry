@@ -1,4 +1,4 @@
-global T_LEXER,T_LINTER,T_FMT,T_TREE,T_INTEL,T_SNIP,T_OTHER,CLASSES,TYPE_TO_KIND,CLASSES_MSGS,PLUGINS
+global T_LEXER,T_LINTER,T_FMT,T_TREE,T_INTEL,T_SNIP,T_OTHER,CLASSES,TYPE_TO_KIND,CLASSES_MSGS,REQS,PLUGINS
 
 T_LEXER='[lexer]'
 T_LINTER='[linter]'
@@ -37,6 +37,11 @@ CLASSES_MSGS={
     T_SNIP: 'Snippets:',
     T_OTHER: 'Other plugins:',
     }
+
+REQS={
+    T_LINTER: 'CudaLint',
+    T_FMT: 'CudaFormatter',
+}
 
 PLUGINS={
     'Python':{
