@@ -172,7 +172,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.CudaFormatter.zip",
     "desc": "Code formatting framework",
     "module": "cuda_fmt",
-    "v": "2019.07.09"
+    "v": "2019.07.10"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.CudaLint.zip",
