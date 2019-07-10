@@ -654,11 +654,5 @@
     "desc": "Allows to use Vim key bindings",
     "module": "cuda_vim_mode",
     "v": "2019.04.11"
-  },
-  {
-    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.YAML_Format.zip",
-    "desc": "Formats YAML code",
-    "module": "cuda_yaml_format",
-    "v": "2019.05.03"
   }
 ]
