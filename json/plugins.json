@@ -494,12 +494,6 @@
     "v": "2016.04.06"
   },
   {
-    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Ruby_Format.zip",
-    "desc": "Formats Ruby source code",
-    "module": "cuda_ruby_format",
-    "v": "2015.10.17"
-  },
-  {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Show_Unicode_Name.zip",
     "desc": "Shows in the statusbar Unicode name of char under caret",
     "module": "cuda_show_unicode_name",

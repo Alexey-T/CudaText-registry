@@ -289,11 +289,11 @@ PLUGINS={
             'Ruby_using_rubocop',
             'Ruby_using_ruby',
             ),
+        T_FMT:(
+            'Ruby',
+            ),
         T_SNIP:(
             'Atom-Ruby',
-            ),
-        T_OTHER:(
-            'Ruby_Format',
             ),
         },
     '(General purpose)':{

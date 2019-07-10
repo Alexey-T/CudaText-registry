@@ -24,6 +24,12 @@
     "desc": "Formatter for Python: ReIndent"
   },
   {
+    "module": "cuda_fmt_ruby",
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/formatters/formatter.Ruby.zip",
+    "v": "2019.07.10",
+    "desc": "Formatter for Ruby"
+  },
+  {
     "module": "cuda_fmt_xml_pp",
     "url": "https://sourceforge.net/projects/cudatext/files/addons/formatters/formatter.XML_Pretty_Print.zip",
     "v": "2019.07.09.1",
