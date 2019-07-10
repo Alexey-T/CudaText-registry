@@ -36,12 +36,6 @@
     "v": "2015.09.27"
   },
   {
-    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.AStyle_Format.zip",
-    "desc": "Formats code for C, C++, C#, Java, using AStyle library",
-    "module": "cuda_astyle_format",
-    "v": "2018.10.02"
-  },
-  {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Micro_Utils.zip",
     "desc": "Rarely needed commands for numbers/text etc.",
     "module": "cuda_micro_utils",

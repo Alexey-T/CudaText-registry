@@ -272,8 +272,10 @@ PLUGINS={
             'Atom-C',
             'C_C++',
             ),
+        T_FMT:(
+            'AStyle',
+            ),
         T_OTHER:(
-            'AStyle_Format',
             'CBlock',
             'Pascal_C++_Format',
             'Paste_as_String',
