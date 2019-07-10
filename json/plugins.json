@@ -632,12 +632,6 @@
     "v": "2017.03.20"
   },
   {
-    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.VBScript_Format.zip",
-    "desc": "Formats VBScript code",
-    "module": "cuda_vbscript_format",
-    "v": "2019.05.02"
-  },
-  {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Vim_Mode.zip",
     "desc": "Allows to use Vim key bindings",
     "module": "cuda_vim_mode",
