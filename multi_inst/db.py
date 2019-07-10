@@ -77,14 +77,14 @@ PLUGINS={
             ),
         },
     'Pascal':{
+        T_FMT:(
+            'Embarcadero',
+            ),
         T_SNIP:(
             'Pascal',
             ),
         T_TREE:(
             'Pascal',
-            ),
-        T_OTHER:(
-            'Pascal_C++_Format',
             ),
         },
     'HTML/CSS':{

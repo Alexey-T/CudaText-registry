@@ -6,6 +6,12 @@
     "desc": "Formatter for C, C++, C#, Java, using AStyle library"
   },
   {
+    "module": "cuda_fmt_embarcadero",
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/formatters/formatter.Embarcadero.zip",
+    "v": "2019.07.10",
+    "desc": "Formatter for C++, Pascal using Embarcadero Formatter"
+  },
+  {
     "module": "cuda_fmt_html_beautify",
     "url": "https://sourceforge.net/projects/cudatext/files/addons/formatters/formatter.HTML_Beautify.zip",
     "v": "2019.07.09.1",

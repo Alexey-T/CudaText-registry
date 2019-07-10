@@ -446,12 +446,6 @@
     "v": "2017.05.22"
   },
   {
-    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Pascal_C++_Format.zip",
-    "desc": "Formats Pascal and C++ source code",
-    "module": "cuda_pascal_cpp_format",
-    "v": "2018.08.24"
-  },
-  {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Password_Generator.zip",
     "desc": "Generates password of specified length, set of characters",
     "module": "cuda_pass_gen",
