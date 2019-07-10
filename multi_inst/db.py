@@ -69,11 +69,11 @@ PLUGINS={
         T_LINTER:(
             'Lua_using_luac',
             ),
-        T_SNIP:(
+        T_FMT:(
             'Lua',
             ),
-        T_OTHER:(
-            'Lua_Format',
+        T_SNIP:(
+            'Lua',
             ),
         },
     'Pascal':{

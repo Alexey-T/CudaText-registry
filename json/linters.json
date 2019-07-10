@@ -12,6 +12,12 @@
     "desc": "Formatters for JavaScript and JSON"
   },
   {
+    "module": "cuda_fmt_lua",
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/formatters/formatter.Lua.zip",
+    "v": "2019.07.10",
+    "desc": "Formatter for Lua"
+  },
+  {
     "module": "cuda_fmt_python_fiximports",
     "url": "https://sourceforge.net/projects/cudatext/files/addons/formatters/formatter.Python_Fix_Imports.zip",
     "v": "2019.07.08",

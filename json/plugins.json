@@ -181,12 +181,6 @@
     "v": "2019.06.23.1"
   },
   {
-    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Lua_Format.zip",
-    "desc": "Formats Lua code",
-    "module": "cuda_lua_format",
-    "v": "2017.06.06"
-  },
-  {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Dash_Help.zip",
     "desc": "Shows help from Dash for selected text or current word",
     "module": "cuda_dash_help",
