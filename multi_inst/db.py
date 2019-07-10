@@ -268,19 +268,19 @@ PLUGINS={
             'C++_using_cpplint',
             'C++_using_gcc',
             ),
+        T_FMT:(
+            'AStyle',
+            'Uncrustify',
+            ),
         T_SNIP:(
             'Atom-C',
             'C_C++',
-            ),
-        T_FMT:(
-            'AStyle',
             ),
         T_OTHER:(
             'CBlock',
             'Pascal_C++_Format',
             'Paste_as_String',
             'Switch_Header',
-            'Uncrustify_Format',
             ),
         },
     'Ruby':{
@@ -308,7 +308,6 @@ PLUGINS={
             'Config_Toolbar',
             'CSV_Helper',
             'CudaExt',
-            'CudaFormatter',
             'Detect_Indent',
             'Differ',
             'Draw_Lines',

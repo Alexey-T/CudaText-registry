@@ -42,6 +42,12 @@
     "desc": "Formatter for Ruby"
   },
   {
+    "module": "cuda_fmt_uncrustify",
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/formatters/formatter.Uncrustify.zip",
+    "v": "2019.07.10",
+    "desc": "Formatter using Uncrustify"
+  },
+  {
     "module": "cuda_fmt_vbscript",
     "url": "https://sourceforge.net/projects/cudatext/files/addons/formatters/formatter.VBScript.zip",
     "v": "2019.07.10",
