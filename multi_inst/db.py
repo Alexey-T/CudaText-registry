@@ -204,7 +204,7 @@ PLUGINS={
             'T-SQL',
             ),
         T_FMT:(
-            'SQL',
+            'SQL_Parse',
             ),
         T_OTHER:(
             'SQL_Tools',
