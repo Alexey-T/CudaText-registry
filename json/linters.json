@@ -56,7 +56,7 @@
   {
     "module": "cuda_fmt_sql_parse",
     "url": "https://sourceforge.net/projects/cudatext/files/addons/formatters/formatter.SQL_Parse.zip",
-    "v": "2019.07.11",
+    "v": "2019.07.11.1",
     "desc": "Formatter for SQL, using sqlparse"
   },
   {
