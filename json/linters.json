@@ -62,7 +62,7 @@
   {
     "module": "cuda_fmt_sql_uroboro",
     "url": "https://sourceforge.net/projects/cudatext/files/addons/formatters/formatter.SQL_Uroboro.zip",
-    "v": "2019.07.11",
+    "v": "2019.07.12",
     "desc": "Formatter for SQL, using uroboroSQL"
   },
   {
