@@ -205,10 +205,10 @@ PLUGINS={
             ),
         T_FMT:(
             'SQL_Parse',
+            'SQL_Uroboro',
             ),
         T_OTHER:(
             'SQL_Tools',
-            'Uroboro_SQL_Format',
             ),
         },
     'XML':{
