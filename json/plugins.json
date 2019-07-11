@@ -488,12 +488,6 @@
     "v": "2018.08.10.2"
   },
   {
-    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.SQL_Format.zip",
-    "desc": "Formats SQL code (using sqlparse library)",
-    "module": "cuda_sql_format",
-    "v": "2015.10.17"
-  },
-  {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.SQL_Tools.zip",
     "desc": "Swiss army knife for SQL databases",
     "module": "cuda_sqltools",

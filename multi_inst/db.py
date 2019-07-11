@@ -203,8 +203,10 @@ PLUGINS={
             'PL-SQL',
             'T-SQL',
             ),
+        T_FMT:(
+            'SQL',
+            ),
         T_OTHER:(
-            'SQL_Format',
             'SQL_Tools',
             'Uroboro_SQL_Format',
             ),
