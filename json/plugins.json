@@ -404,12 +404,6 @@
     "v": "2016.04.16"
   },
   {
-    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Markdown_Table_Format.zip",
-    "desc": "Formats tables in Markdown docs",
-    "module": "cuda_markdown_table_format",
-    "v": "2016.11.18"
-  },
-  {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.NTFS_Streams.zip",
     "desc": "Works with Windows NTFS streams",
     "module": "cuda_ntfs_streams",

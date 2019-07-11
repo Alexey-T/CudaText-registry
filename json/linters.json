@@ -30,6 +30,12 @@
     "desc": "Formatter for Lua"
   },
   {
+    "module": "cuda_fmt_markdown_table",
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/formatters/formatter.Markdown_Tables.zip",
+    "v": "2019.07.11",
+    "desc": "Formatter for Markdown tables"
+  },
+  {
     "module": "cuda_fmt_python_fiximports",
     "url": "https://sourceforge.net/projects/cudatext/files/addons/formatters/formatter.Python_Fix_Imports.zip",
     "v": "2019.07.08",

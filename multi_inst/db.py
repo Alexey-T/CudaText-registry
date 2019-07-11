@@ -244,6 +244,9 @@ PLUGINS={
         T_LINTER:(
             'Markdown_using_markdownlint',
             ),
+        T_FMT:(
+            'Markdown_Tables',
+            ),
         T_TREE:(
             'Markdown',
             'MediaWiki',
@@ -257,7 +260,6 @@ PLUGINS={
         T_OTHER:(
             'Markdown_Editing',
             'Markdown_Preview',
-            'Markdown_Table_Format',
             'reStructuredText_Preview',
             'Textile_Preview',
             ),
