@@ -120,22 +120,10 @@
     "v": "2016.04.07"
   },
   {
-    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.CSS_Format.zip",
-    "desc": "Formats CSS/SCSS/SASS/LESS code",
-    "module": "cuda_css_format",
-    "v": "2019.05.04"
-  },
-  {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.CSS_Inspector.zip",
     "desc": "In HTML files, it shows CSS props of tag under caret",
     "module": "cuda_css_inspector",
     "v": "2019.04.01"
-  },
-  {
-    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.CSS_Minifier.zip",
-    "desc": "Makes CSS code compact",
-    "module": "cuda_css_minifier",
-    "v": "2015.10.17"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.CSS_Prefixer.zip",

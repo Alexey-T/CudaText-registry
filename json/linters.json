@@ -6,6 +6,12 @@
     "desc": "Formatter for C, C++, C#, Java, using AStyle library"
   },
   {
+    "module": "cuda_fmt_css_format",
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/formatters/formatter.CSS_SASS_SCSS_LESS.zip",
+    "v": "2019.07.13",
+    "desc": "Formatters for CSS, SCSS, SASS, LESS"
+  },
+  {
     "module": "cuda_fmt_embarcadero",
     "url": "https://sourceforge.net/projects/cudatext/files/addons/formatters/formatter.Embarcadero.zip",
     "v": "2019.07.10",
