@@ -12,6 +12,12 @@
     "desc": "Formatter CSS AutoPrefixer (requires Node.js)"
   },
   {
+    "module": "cuda_fmt_css_comb",
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/formatters/formatter.CSS_Comb.zip",
+    "v": "2019.07.13",
+    "desc": "Formatter CSS Comb (requires Node.js)"
+  },
+  {
     "module": "cuda_fmt_css_format",
     "url": "https://sourceforge.net/projects/cudatext/files/addons/formatters/formatter.CSS_SASS_SCSS_LESS.zip",
     "v": "2019.07.13",

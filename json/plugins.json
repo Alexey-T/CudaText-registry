@@ -108,12 +108,6 @@
     "v": "2019.03.04"
   },
   {
-    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.CSS_Comb.zip",
-    "desc": "Sorts CSS properties in specific order (requires Node.js)",
-    "module": "cuda_css_comb",
-    "v": "2016.04.07"
-  },
-  {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.CSS_Inspector.zip",
     "desc": "In HTML files, it shows CSS props of tag under caret",
     "module": "cuda_css_inspector",
