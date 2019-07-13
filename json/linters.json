@@ -60,6 +60,12 @@
     "desc": "Formatter for Markdown tables"
   },
   {
+    "module": "cuda_fmt_python_black",
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/formatters/formatter.Python_Black.zip",
+    "v": "2019.07.13",
+    "desc": "Formatter for Python: Black (requires Python 3.6+)"
+  },
+  {
     "module": "cuda_fmt_python_fiximports",
     "url": "https://sourceforge.net/projects/cudatext/files/addons/formatters/formatter.Python_Fix_Imports.zip",
     "v": "2019.07.08",

@@ -51,6 +51,7 @@ PLUGINS={
             'Python_using_pycodestyle',
             ),
         T_FMT:(
+            'Python_Black',
             'Python_Fix_Imports',
             'Python_ReIndent',
             ),
