@@ -94,6 +94,7 @@ PLUGINS={
             'HTML_using_htmltidy',
             ),
         T_FMT:(
+            'CSS_Prefixer',
             'CSS_SASS_SCSS_LESS',
             'HTML_Beautify',
             ),
@@ -111,7 +112,6 @@ PLUGINS={
             'CSS_AutoPrefixer',
             'CSS_CanIUse',
             'CSS_Comb',
-            'CSS_Prefixer',
             'CSS_Property_Info',
             'CSS_Table_of_Contents',
             'Color_Picker',

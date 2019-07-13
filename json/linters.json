@@ -12,6 +12,12 @@
     "desc": "Formatters for CSS, SCSS, SASS, LESS"
   },
   {
+    "module": "cuda_fmt_css_prefixer",
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/formatters/formatter.CSS_Prefixer.zip",
+    "v": "2019.07.13",
+    "desc": "Formatter CSS Prefixer"
+  },
+  {
     "module": "cuda_fmt_embarcadero",
     "url": "https://sourceforge.net/projects/cudatext/files/addons/formatters/formatter.Embarcadero.zip",
     "v": "2019.07.10",

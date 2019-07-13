@@ -126,12 +126,6 @@
     "v": "2019.04.01"
   },
   {
-    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.CSS_Prefixer.zip",
-    "desc": "Inserts vendor prefixes into CSS code",
-    "module": "cuda_css_prefixer",
-    "v": "2015.10.17"
-  },
-  {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.CSS_Property_Info.zip",
     "desc": "Shows info about selected CSS property in statusbar",
     "module": "cuda_css_property_info",
