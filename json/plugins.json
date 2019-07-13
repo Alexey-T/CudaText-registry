@@ -102,12 +102,6 @@
     "v": "2019.01.30"
   },
   {
-    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.CSS_AutoPrefixer.zip",
-    "desc": "Inserts vendor prefixes into CSS code (requires Node.js)",
-    "module": "cuda_css_autoprefixer",
-    "v": "2016.04.07"
-  },
-  {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.CSS_CanIUse.zip",
     "desc": "For CSS, shows info about selected word from CanIUse.com site",
     "module": "cuda_css_caniuse",
