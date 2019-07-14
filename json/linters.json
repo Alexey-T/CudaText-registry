@@ -38,7 +38,7 @@
   {
     "module": "cuda_fmt_html_beautify",
     "url": "https://sourceforge.net/projects/cudatext/files/addons/formatters/formatter.HTML_Beautify.zip",
-    "v": "2019.07.14",
+    "v": "2019.07.14.1",
     "desc": "Formatter for HTML: Beautify"
   },
   {
