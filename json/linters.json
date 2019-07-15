@@ -6,6 +6,12 @@
     "desc": "Formatter for C, C++, C#, Java, using AStyle library"
   },
   {
+    "module": "cuda_fmt_bash",
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/formatters/formatter.Bash_Beautify.zip",
+    "v": "2019.07.15",
+    "desc": "Formatter for Bash script, using Beautysh library"
+  },
+  {
     "module": "cuda_fmt_css_autoprefixer",
     "url": "https://sourceforge.net/projects/cudatext/files/addons/formatters/formatter.CSS_AutoPrefixer.zip",
     "v": "2019.07.13.1",
