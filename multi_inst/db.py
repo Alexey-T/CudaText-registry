@@ -216,6 +216,7 @@ PLUGINS={
             'XML_using_xmllint-libxml2',
             ),
         T_FMT:(
+            'XML_IndentX',
             'XML_Pretty_Print',
             ),
         T_LEXER:(

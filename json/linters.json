@@ -120,6 +120,12 @@
     "desc": "Formatters for XML: Pretty Print, Tidy"
   },
   {
+    "module": "cuda_fmt_xml_indentx",
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/formatters/formatter.XML_IndentX.zip",
+    "v": "2019.07.15",
+    "desc": "Formatter for XML: IndentX"
+  },
+  {
     "module": "cuda_fmt_yaml",
     "url": "https://sourceforge.net/projects/cudatext/files/addons/formatters/formatter.YAML.zip",
     "v": "2019.07.10",
