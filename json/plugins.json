@@ -31,9 +31,9 @@
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.ASCII_Art.zip",
-    "desc": "Allows to insert text formatted via ASCII-art fonts",
+    "desc": "Inserts text formatted via ASCII art, using PyFiglet",
     "module": "cuda_ascii_art",
-    "v": "2015.09.27"
+    "v": "2019.07.16"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Micro_Utils.zip",
