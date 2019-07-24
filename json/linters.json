@@ -48,6 +48,12 @@
     "desc": "Formatter for HTML: Beautify"
   },
   {
+    "module": "cuda_fmt_html_soup",
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/formatters/formatter.HTML_Soup.zip",
+    "v": "2019.07.25",
+    "desc": "Formatter for HTML: Soup"
+  },
+  {
     "module": "cuda_fmt_js",
     "url": "https://sourceforge.net/projects/cudatext/files/addons/formatters/formatter.JavaScript_JSON.zip",
     "v": "2019.07.14",
