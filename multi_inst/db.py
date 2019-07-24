@@ -100,6 +100,7 @@ PLUGINS={
             'CSS_Prefixer',
             'CSS_SASS_SCSS_LESS',
             'HTML_Beautify',
+            'HTML_Soup',
             ),
         T_INTEL:(
             'HTML_Tidy',
