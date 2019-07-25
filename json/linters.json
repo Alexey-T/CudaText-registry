@@ -36,6 +36,12 @@
     "desc": "Formatter CSS Prefixer"
   },
   {
+    "module": "cuda_fmt_coldfusion",
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/formatters/formatter.ColdFusion.zip",
+    "v": "2019.07.25",
+    "desc": "Formatter for ColdFusion"
+  },
+  {
     "module": "cuda_fmt_embarcadero",
     "url": "https://sourceforge.net/projects/cudatext/files/addons/formatters/formatter.Embarcadero.zip",
     "v": "2019.07.14",
