@@ -92,7 +92,7 @@
   {
     "module": "cuda_fmt_python_reindent",
     "url": "https://sourceforge.net/projects/cudatext/files/addons/formatters/formatter.Python_ReIndent.zip",
-    "v": "2019.07.08",
+    "v": "2019.07.28",
     "desc": "Formatter for Python: ReIndent"
   },
   {
