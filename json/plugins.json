@@ -458,6 +458,12 @@
     "v": "2018.08.10.2"
   },
   {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.SPIR_Helper.zip",
+    "desc": "Auto-completion for SPIR lexer",
+    "module": "cuda_spir_helper",
+    "v": "2019.08.26"
+  },
+  {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.SQL_Tools.zip",
     "desc": "Swiss army knife for SQL databases",
     "module": "cuda_sqltools",
