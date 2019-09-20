@@ -940,6 +940,11 @@
     "v": "2017.10.30"
   },
   {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Solidity.zip",
+    "desc": "",
+    "v": "2019.09.20"
+  },
+  {
     "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.SPIR.zip",
     "desc": "",
     "v": "2019.08.20"
