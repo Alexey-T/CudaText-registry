@@ -58,5 +58,10 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/snippets/snippets.PHP.zip",
     "desc": "Snippets for PHP",
     "v": "2015.11.28"
+  },
+  {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/snippets/snippets.PyMOL.zip",
+    "desc": "Snippets for PyMOL",
+    "v": "2019.10.05"
   }
 ]
