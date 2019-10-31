@@ -344,12 +344,6 @@
     "v": "2016.09.23"
   },
   {
-    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.JS_Sort_Imports.zip",
-    "desc": "Sorts import-lines in JavaScript",
-    "module": "cuda_js_sort_imports",
-    "v": "2016.06.09"
-  },
-  {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.JS_Tern.zip",
     "desc": "Code IntelliSense for JavaScript, based on Tern.js",
     "module": "cuda_tern",
