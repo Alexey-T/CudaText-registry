@@ -805,11 +805,6 @@
     "v": "2019.05.14"
   },
   {
-    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Perl_6.zip",
-    "desc": "",
-    "v": "2019.09.12"
-  },
-  {
     "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.PICL.zip",
     "desc": "",
     "v": "2016.09.20"
@@ -878,6 +873,11 @@
     "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Ragel.zip",
     "desc": "",
     "v": "2016.01.01"
+  },
+  {
+    "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Raku.zip",
+    "desc": "",
+    "v": "2019.09.12"
   },
   {
     "url": "https://sourceforge.net/projects/synwrite-addons/files/Lexers/lexer.Razor.zip",
