@@ -281,7 +281,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Highlight_Occurrences.zip",
     "desc": "Highlights all occurrences of selected/current word",
     "module": "cuda_hilite_occurrences",
-    "v": "2019.11.11.1"
+    "v": "2019.11.11.2"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Highlight_Variables.zip",
