@@ -214,7 +214,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.File_Type_Profile.zip",
     "desc": "Creates profiles for files, and applies settings on opening file",
     "module": "cuda_file_type_profile",
-    "v": "2019.06.07"
+    "v": "2019.11.11"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Focus_Mode.zip",
