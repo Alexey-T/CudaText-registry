@@ -81,7 +81,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Colored_Indent.zip",
     "desc": "Colorizes indentation levels",
     "module": "cuda_colored_indent",
-    "v": "2019.11.13"
+    "v": "2019.11.15"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Column_Marks.zip",
@@ -130,7 +130,7 @@
     "desc": "Highlightes columns in CSV files with different colors",
     "module": "cuda_csv_hilite",
     "req": "lexer.CSV",
-    "v": "2019.11.14"
+    "v": "2019.11.15"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.CudaFormatter.zip",
@@ -166,7 +166,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Differ.zip",
     "desc": "Compares 2 files and shows them side-by-side",
     "module": "cuda_differ",
-    "v": "2019.11.14"
+    "v": "2019.11.15"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.DocBlock_Comments.zip",
