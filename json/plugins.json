@@ -93,7 +93,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Complete_From_Text.zip",
     "desc": "Handles Ctrl+Space, gives list of words from current file",
     "module": "cuda_complete_from_text",
-    "v": "2019.11.17"
+    "v": "2019.11.17.1"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Config_Toolbar.zip",
