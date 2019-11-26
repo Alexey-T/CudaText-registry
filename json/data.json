@@ -10,6 +10,11 @@
     "v": "2018.08.15"
   },
   {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugintranslation/plugintranslation.kvichans-de_AT.zip",
+    "desc": "Translation of Kvichans' plugins to de_AT",
+    "v": "2019.11.26"
+  },
+  {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugintranslation/plugintranslation.Preinstalled-de_AT.zip",
     "desc": "Translation of preinstalled plugins to de_AT",
     "v": "2019.10.28"
