@@ -248,23 +248,30 @@
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.FTP.zip",
-    "desc": "FTP client: download, upload, create/delete files/dirs",
+    "desc": "FTP client: download, upload, manage files/folders",
     "module": "cuda_ftp",
-    "v": "2019.02.17"
+    "v": "2019.11.27"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.SFTP_Support_for_Windows_py35.zip",
     "desc": "Supports SFTP in FTP plugin, Windows x32/x64, Python 3.5",
     "module": "cuda_ftp_libs_py35",
     "req": "plugin.FTP",
-    "v": "2017.09.09.2"
+    "v": "2019.11.27"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.SFTP_Support_for_Windows_py36.zip",
     "desc": "Supports SFTP in FTP plugin, Windows x32/x64, Python 3.6",
-    "module": "cuda_ftp_libs",
+    "module": "cuda_ftp_libs_py36",
     "req": "plugin.FTP",
-    "v": "2019.11.25"
+    "v": "2019.11.27"
+  },
+  {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.SFTP_Support_for_Windows_py37.zip",
+    "desc": "Supports SFTP in FTP plugin, Windows x32/x64, Python 3.7",
+    "module": "cuda_ftp_libs_py37",
+    "req": "plugin.FTP",
+    "v": "2019.11.27"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Git_Status.zip",
