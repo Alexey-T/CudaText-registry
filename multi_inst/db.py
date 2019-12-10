@@ -283,7 +283,6 @@ PLUGINS={
             'C_C++',
             ),
         T_OTHER:(
-            'CBlock',
             'Pascal_C++_Format',
             'Paste_as_String',
             'Switch_Header',
