@@ -57,7 +57,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Case_Converter.zip",
     "desc": "Converts ids between several cases (snake_case, camelCase, PascalCase etc)",
     "module": "cuda_case_converter",
-    "v": "2015.10.06"
+    "v": "2020.01.07"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Color_Picker.zip",
