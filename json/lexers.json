@@ -650,6 +650,11 @@
     "v": "2019.01.12"
   },
   {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/lexers/lexer.Makefile.zip",
+    "desc": "",
+    "v": "2020.02.02"
+  },
+  {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/lexers/lexer.MATLAB.zip",
     "desc": "",
     "v": "2017.06.06"
@@ -795,6 +800,11 @@
     "v": "2014.11.18"
   },
   {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/lexers/lexer.Pascal.zip",
+    "desc": "",
+    "v": "2020.02.02"
+  },
+  {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/lexers/lexer.Pawn.zip",
     "desc": "",
     "v": "2015.02.06"
@@ -848,6 +858,11 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/lexers/lexer.Prolog.zip",
     "desc": "",
     "v": "2015.03.26"
+  },
+  {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/lexers/lexer.Properties.zip",
+    "desc": "",
+    "v": "2020.02.02"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/lexers/lexer.Pug.zip",
