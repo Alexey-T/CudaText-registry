@@ -78,6 +78,9 @@ PLUGINS={
             ),
         },
     'Pascal':{
+        T_LEXER:(
+            'Pascal',
+            ),
         T_FMT:(
             'Embarcadero',
             ),
