@@ -42,12 +42,6 @@
     "v": "2018.01.09"
   },
   {
-    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Bracket_Helper.zip",
-    "desc": "Highlights pair brackets, gives command 'Go to pair bracket'",
-    "module": "cuda_brackets_hilite",
-    "v": "2019.10.18"
-  },
-  {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Calc_Expression.zip",
     "desc": "Calculates math expression in text",
     "module": "cuda_calc_expr",

@@ -307,7 +307,6 @@ PLUGINS={
         },
     '(General purpose)':{
         T_OTHER:(
-            'Bracket_Helper',
             'Color_Picker',
             'Color_Text',
             'Colored_Indent',
