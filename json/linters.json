@@ -392,7 +392,7 @@
   {
     "module": "cuda_lint_xmllint",
     "url": "https://sourceforge.net/projects/cudatext/files/addons/linters/linter.XML_using_xmllint-libxml2.zip",
-    "v": "2016.07.05",
+    "v": "2020.02.09",
     "desc": "Linter for XML, using 'xmllint-libxml2'"
   },
   {
