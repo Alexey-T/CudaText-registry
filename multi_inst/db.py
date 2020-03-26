@@ -233,6 +233,7 @@ PLUGINS={
             ),
         T_LINTER:(
             'Go_using_golint',
+            'Go_using_gometalinter',
             'Go_using_gotype',
             'Go_using_go-vet',
             ),
