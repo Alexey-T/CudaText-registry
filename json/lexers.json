@@ -1010,6 +1010,11 @@
     "v": "2020.01.30"
   },
   {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/lexers/lexer.Singularity.zip",
+    "desc": "",
+    "v": "2020.04.16"
+  },
+  {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/lexers/lexer.Slim.zip",
     "desc": "",
     "v": "2015.01.08"
@@ -1023,6 +1028,11 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/lexers/lexer.Solidity.zip",
     "desc": "",
     "v": "2019.09.21"
+  },
+  {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/lexers/lexer.Specman.zip",
+    "desc": "",
+    "v": "2020.04.16"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/lexers/lexer.SPICE.zip",
