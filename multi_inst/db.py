@@ -121,7 +121,6 @@ PLUGINS={
             'CSS_Table_of_Contents',
             'Color_Picker',
             'DevDocs',
-            'Emmet_Lite',
             'Font_Awesome',
             'FontStorage',
             ),
