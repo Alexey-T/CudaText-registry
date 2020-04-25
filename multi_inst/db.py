@@ -173,7 +173,6 @@ PLUGINS={
             ),
         T_OTHER:(
             'JS_Multiline_Array',
-            'JS_Sort_Imports',
             'DevDocs',
             'DocBlock_Comments',
             'Paste_as_String',
@@ -256,7 +255,6 @@ PLUGINS={
             'Markdown_Tables',
             ),
         T_TREE:(
-            'Markdown',
             'MediaWiki',
             'reStructuredText',
             'Textile',
