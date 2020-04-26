@@ -747,7 +747,7 @@
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/lexers/lexer.Nginx.zip",
     "desc": "",
-    "v": "2020.04.26"
+    "v": "2020.04.26.1"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/lexers/lexer.Nim.zip",
@@ -1247,7 +1247,7 @@
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/lexers/lexer.YAML.zip",
     "desc": "",
-    "v": "2020.04.26"
+    "v": "2020.04.26.1"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/lexers/lexer.ZenScript_(MineTweaker).zip",
