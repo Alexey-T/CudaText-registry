@@ -385,7 +385,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Number_Utils.zip",
     "desc": "Cmds for numbers: insert row of numbers, convert to textual/Romans, etc",
     "module": "cuda_number_utils",
-    "v": "2018.05.21"
+    "v": "2020.05.14"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Online_Search.zip",
