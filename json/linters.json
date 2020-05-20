@@ -296,7 +296,7 @@
   {
     "module": "cuda_lint_lua",
     "url": "https://sourceforge.net/projects/cudatext/files/addons/linters/linter.Lua_using_luac.zip",
-    "v": "2016.07.05",
+    "v": "2020.05.20",
     "desc": "Linter for Lua, using 'luac'"
   },
   {
