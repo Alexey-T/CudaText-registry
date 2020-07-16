@@ -450,9 +450,9 @@
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Snippets.zip",
-    "desc": "Snippets in CudaText, see CudaText wiki",
+    "desc": "Snippets engine; it's described in CudaText Wiki",
     "module": "cuda_snippets",
-    "v": "2020.03.23.1"
+    "v": "2020.07.16"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Spell_Checker.zip",
