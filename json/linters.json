@@ -344,8 +344,8 @@
   {
     "module": "cuda_lint_pylint",
     "url": "https://sourceforge.net/projects/cudatext/files/addons/linters/linter.Python_using_pylint.zip",
-    "v": "2018.02.25",
-    "desc": "Linter for Python, using 'PyLint'"
+    "v": "2020.07.17",
+    "desc": "Linter for Python, using PyLint"
   },
   {
     "module": "cuda_lint_pep8",
