@@ -356,7 +356,7 @@
   {
     "module": "cuda_lint_php",
     "url": "https://sourceforge.net/projects/cudatext/files/addons/linters/linter.PHP_using_phpl.zip",
-    "v": "2016.07.05",
+    "v": "2020.07.17",
     "desc": "Linter for PHP, using 'php -l'"
   },
   {
