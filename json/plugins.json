@@ -431,7 +431,7 @@
     "v": "2020.07.03"
   },
   {
-    "url": "https://sourceforge.net/projects/cudatext/files/addons/packages/plugin.pywin32.zip",
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.pywin32.zip",
     "desc": "Libraries for TextToSpeech",
     "module": "pywin32",
     "v": "2020.08.06"
