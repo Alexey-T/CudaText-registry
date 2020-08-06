@@ -431,6 +431,12 @@
     "v": "2020.07.03"
   },
   {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/packages/plugin.pywin32.zip",
+    "desc": "Libraries for TextToSpeech",
+    "module": "pywin32",
+    "v": "2020.08.06"
+  },
+  {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Remove_Greek_Accents.zip",
     "desc": "Replaces accented Greek letters to non-accented ones",
     "module": "cuda_remove_greek_accents",
@@ -542,7 +548,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.TextToSpeech.zip",
     "desc": "Speaks text via Windows Speech API",
     "module": "cuda_texttospeech",
-    "req": "package.pywin32",
+    "req": "plugin.pywin32",
     "v": "2020.08.06"
   },
   {
