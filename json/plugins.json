@@ -434,7 +434,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.pywin32.zip",
     "desc": "Libraries for TextToSpeech",
     "module": "pywin32",
-    "v": "2020.08.06"
+    "v": "2020.08.06.2"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Remove_Greek_Accents.zip",
