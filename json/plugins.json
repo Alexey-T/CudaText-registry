@@ -542,6 +542,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.TextToSpeech.zip",
     "desc": "Speaks text via Windows Speech API",
     "module": "cuda_texttospeech",
+    "req": "package.pywin32",
     "v": "2020.08.06"
   },
   {
