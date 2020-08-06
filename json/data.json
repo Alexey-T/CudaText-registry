@@ -280,6 +280,12 @@
     "v": "2018.07.20"
   },
   {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/packages/package.pywin32.zip",
+    "desc": "",
+    "module": "pywin32",
+    "v": "2020.08.06"
+  },
+  {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/packages/package.Windows_Python35_32bit.zip",
     "desc": "",
     "v": "2019.08.30"

@@ -539,6 +539,12 @@
     "v": "2016.09.20"
   },
   {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.TextToSpeech.zip",
+    "desc": "Speaks text via Windows Speech API",
+    "module": "cuda_texttospeech",
+    "v": "2020.08.06"
+  },
+  {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/treehelpers/treehelper.HTML_XML.zip",
     "desc": "TreeHelper for HTML/XML",
     "module": "cuda_tree_xml",
