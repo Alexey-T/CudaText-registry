@@ -402,6 +402,12 @@
     "desc": "Linter for Rust, using 'rustc'"
   },
   {
+    "module": "cuda_lint_scalastyle",
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/linters/linter.Scala_using_Scalastyle.zip",
+    "v": "2020.09.12",
+    "desc": "Linter for Scale, using Scalastyle"
+  },
+  {
     "module": "cuda_lint_xmllint",
     "url": "https://sourceforge.net/projects/cudatext/files/addons/linters/linter.XML_using_xmllint-libxml2.zip",
     "v": "2020.02.09",
