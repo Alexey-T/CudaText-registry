@@ -322,7 +322,7 @@
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/lexers/lexer.Erlang.zip",
     "desc": "",
-    "v": "2017.04.17"
+    "v": "2020.09.25"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/lexers/lexer.etlua_Template.zip",
@@ -368,6 +368,11 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/lexers/lexer.FoxPro.zip",
     "desc": "",
     "v": "2014.12.06"
+  },
+  {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/lexers/lexer.FreeBASIC.zip",
+    "desc": "",
+    "v": "2020.09.16"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/lexers/lexer.F%23.zip",
@@ -572,7 +577,7 @@
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/lexers/lexer.Java.zip",
     "desc": "",
-    "v": "2020.08.19"
+    "v": "2020.09.19"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/lexers/lexer.JCL.zip",
@@ -622,7 +627,7 @@
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/lexers/lexer.LaTeX.zip",
     "desc": "",
-    "v": "2017.01.22"
+    "v": "2020.08.19"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/lexers/lexer.LESS.zip",
@@ -1127,7 +1132,7 @@
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/lexers/lexer.Tcl.zip",
     "desc": "",
-    "v": "2017.04.22"
+    "v": "2020.09.18"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/lexers/lexer.ToDo.zip",
@@ -1162,7 +1167,7 @@
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/lexers/lexer.TypeScript.zip",
     "desc": "",
-    "v": "2020.08.27"
+    "v": "2020.09.25"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/lexers/lexer.V.zip",
@@ -1217,7 +1222,7 @@
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/lexers/lexer.Windows_Resource_Script.zip",
     "desc": "",
-    "v": "2016.07.06"
+    "v": "2020.09.15"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/lexers/lexer.WSH_script.zip",
@@ -1233,11 +1238,6 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/lexers/lexer.Yacc.zip",
     "desc": "",
     "v": "2016.06.19"
-  },
-  {
-    "url": "https://sourceforge.net/projects/cudatext/files/addons/lexers/lexer.YAML.zip",
-    "desc": "",
-    "v": "2020.08.05"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/lexers/lexer.ZenScript_(MineTweaker).zip",
