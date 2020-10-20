@@ -154,7 +154,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Differ.zip",
     "desc": "Compares 2 files and shows them side-by-side",
     "module": "cuda_differ",
-    "v": "2020.08.14"
+    "v": "2020.10.20"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.DocBlock_Comments.zip",
