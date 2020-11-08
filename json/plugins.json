@@ -503,8 +503,14 @@
     "v": "2019.04.15"
   },
   {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Tab_Colors.zip",
+    "desc": "Colorizes ui-tab headers per lexer",
+    "module": "cuda_tab_colors",
+    "v": "2020.11.08"
+  },
+  {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Tab_Icons.zip",
-    "desc": "Shows file-type icons on tabs",
+    "desc": "Shows file-type icons on ui-tabs",
     "module": "cuda_tab_icons",
     "v": "2020.03.20"
   },
