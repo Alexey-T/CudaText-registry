@@ -63,5 +63,70 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/snippets_ct/snippets_ct.PyMOL.zip",
     "desc": "Snippets for PyMOL",
     "v": "2020.11.23"
+  },
+  {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/snippets_ct/snippets_ct.Python.zip",
+    "desc": "Snippets for Python",
+    "v": "2020.11.23"
+  },
+  {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/snippets_ct/snippets_ct.Sublime-SCSS.zip",
+    "desc": "Snippets for SCSS",
+    "v": "2020.11.23"
+  },
+  {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/snippets_ct/snippets_ct.Atom-JavaScript.zip",
+    "desc": "Snippets for JavaScript",
+    "v": "2020.11.23"
+  },
+  {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/snippets_ct/snippets_ct.Atom-JavaScript-ES6.zip",
+    "desc": "Snippets for JavaScript EcmaScript 6",
+    "v": "2020.11.23"
+  },
+  {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/snippets_ct/snippets_ct.Atom-Go.zip",
+    "desc": "Snippets for Go",
+    "v": "2020.11.23"
+  },
+  {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/snippets_ct/snippets_ct.Atom-Ruby.zip",
+    "desc": "Snippets for Ruby",
+    "v": "2020.11.23"
+  },
+  {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/snippets_ct/snippets_ct.Atom-Sass.zip",
+    "desc": "Snippets for Sass",
+    "v": "2020.11.23"
+  },
+  {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/snippets_ct/snippets_ct.Atom-C%23.zip",
+    "desc": "Snippets for C#",
+    "v": "2020.11.23"
+  },
+  {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/snippets_ct/snippets_ct.Atom-C.zip",
+    "desc": "Snippets for C",
+    "v": "2020.11.23"
+  },
+  {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/snippets_ct/snippets_ct.Atom-Objective-C.zip",
+    "desc": "Snippets for Objective-C",
+    "v": "2020.11.23"
+  },
+  {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/snippets_ct/snippets_ct.Atom-Perl.zip",
+    "desc": "Snippets for Perl",
+    "v": "2020.11.23"
+  },
+  {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/snippets_ct/snippets_ct.Atom-Clojure.zip",
+    "desc": "Snippets for Clojure",
+    "v": "2020.11.23"
+  },
+  {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/snippets_ct/snippets_ct.Atom-Bashscript.zip",
+    "desc": "Snippets for Bash",
+    "v": "2020.11.23"
   }
 ]
