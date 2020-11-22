@@ -1,67 +1,67 @@
 [
   {
-    "url": "https://sourceforge.net/projects/cudatext/files/addons/snippets/snippets.AutoIt.zip",
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/snippets_ct/snippets_ct.AutoIt.zip",
     "desc": "Snippets for AutoIt",
-    "v": "2015.11.28"
+    "v": "2020.11.23"
   },
   {
-    "url": "https://sourceforge.net/projects/cudatext/files/addons/snippets/snippets.C_C++.zip",
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/snippets_ct/snippets_ct.C_C++.zip",
     "desc": "Snippets for C, C++",
-    "v": "2015.11.28"
+    "v": "2020.11.23"
   },
   {
-    "url": "https://sourceforge.net/projects/cudatext/files/addons/snippets/snippets.CSS_Grid.zip",
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/snippets_ct/snippets_ct.CSS_Grid.zip",
     "desc": "Snippets for CSS *grid* attrs",
-    "v": "2018.03.16"
+    "v": "2020.11.23"
   },
   {
-    "url": "https://sourceforge.net/projects/cudatext/files/addons/snippets/snippets.CSS_Reset.zip",
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/snippets_ct/snippets_ct.CSS_Reset.zip",
     "desc": "Snippet CSS-Reset for CSS",
-    "v": "2015.11.28"
+    "v": "2020.11.23"
   },
   {
-    "url": "https://sourceforge.net/projects/cudatext/files/addons/snippets/snippets.FakeImg.zip",
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/snippets_ct/snippets_ct.FakeImg.zip",
     "desc": "Snippet for FakeImg site",
-    "v": "2015.11.28"
+    "v": "2020.11.23"
   },
   {
-    "url": "https://sourceforge.net/projects/cudatext/files/addons/snippets/snippets.HTML_Handlebars.zip",
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/snippets_ct/snippets_ct.HTML_Handlebars.zip",
     "desc": "Snippets for HTML Handlebars",
-    "v": "2015.11.28"
+    "v": "2020.11.23"
   },
   {
-    "url": "https://sourceforge.net/projects/cudatext/files/addons/snippets/snippets.Java.zip",
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/snippets_ct/snippets_ct.Java.zip",
     "desc": "Snippets for Java",
-    "v": "2015.11.28"
+    "v": "2020.11.23"
   },
   {
-    "url": "https://sourceforge.net/projects/cudatext/files/addons/snippets/snippets.Lua.zip",
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/snippets_ct/snippets_ct.Lua.zip",
     "desc": "Snippets for Lua",
-    "v": "2015.11.28"
+    "v": "2020.11.23"
   },
   {
-    "url": "https://sourceforge.net/projects/cudatext/files/addons/snippets/snippets.Markdown.zip",
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/snippets_ct/snippets_ct.Markdown.zip",
     "desc": "Snippets for Markdown",
-    "v": "2015.11.28"
+    "v": "2020.11.23"
   },
   {
-    "url": "https://sourceforge.net/projects/cudatext/files/addons/snippets/snippets.nnCron.zip",
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/snippets_ct/snippets_ct.nnCron.zip",
     "desc": "Snippets for nnCron",
-    "v": "2015.11.28"
+    "v": "2020.11.23"
   },
   {
-    "url": "https://sourceforge.net/projects/cudatext/files/addons/snippets/snippets.Pascal.zip",
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/snippets_ct/snippets_ct.Pascal.zip",
     "desc": "Snippets for Pascal",
-    "v": "2015.11.28"
+    "v": "2020.11.23"
   },
   {
-    "url": "https://sourceforge.net/projects/cudatext/files/addons/snippets/snippets.PHP.zip",
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/snippets_ct/snippets_ct.PHP.zip",
     "desc": "Snippets for PHP",
-    "v": "2015.11.28"
+    "v": "2020.11.23"
   },
   {
-    "url": "https://sourceforge.net/projects/cudatext/files/addons/snippets/snippets.PyMOL.zip",
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/snippets_ct/snippets_ct.PyMOL.zip",
     "desc": "Snippets for PyMOL",
-    "v": "2019.10.05"
+    "v": "2020.11.23"
   }
 ]
