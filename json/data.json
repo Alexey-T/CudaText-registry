@@ -9,7 +9,6 @@
     "desc": "",
     "v": "2018.08.15"
   },
-
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugintranslation/plugintranslation.kvichans-de_AT.zip",
     "desc": "Translation (de_AT) for kvichans' plugins",
@@ -29,11 +28,6 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugintranslation/plugintranslation.Preinstalled-pt_PT.zip",
     "desc": "Translation (pt_PT) for preinstalled plugins",
     "v": "2020.02.27"
-  },
-  {
-    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugintranslation/plugintranslation.Snippets-de_AT.zip",
-    "desc": "Translation (de_AT) for Snippets plugin",
-    "v": "2020.12.02"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/translations/translation.cz_CZ.zip",
