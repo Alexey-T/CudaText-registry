@@ -615,6 +615,6 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Vim_Mode.zip",
     "desc": "Allows to use Vim key bindings",
     "module": "cuda_vim_mode",
-    "v": "2019.04.11"
+    "v": "2020.12.23"
   }
 ]
