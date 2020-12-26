@@ -1025,6 +1025,11 @@
     "v": "2017.10.30"
   },
   {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/lexers/lexer.Snowflake_SQL.zip",
+    "desc": "",
+    "v": "2020.12.26"
+  },
+  {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/lexers/lexer.Solidity.zip",
     "desc": "",
     "v": "2019.09.21"
