@@ -115,6 +115,11 @@
     "v": "2018.02.07"
   },
   {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/lexers/lexer.Assembly_RISC-V.zip",
+    "desc": "",
+    "v": "2020.12.26"
+  },
+  {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/lexers/lexer.Assembly_SHARC_DSP.zip",
     "desc": "",
     "v": "2016.12.05"
