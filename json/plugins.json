@@ -217,6 +217,12 @@
     "v": "2020.06.25"
   },
   {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.File_URI_Handler.zip",
+    "desc": "Handles clicking on file:/// links in editor",
+    "module": "cuda_file_uri_handler",
+    "v": "2020.12.27"
+  },
+  {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Focus_Mode.zip",
     "desc": "Shades all lines except current paragraph",
     "module": "cuda_focus_mode",
