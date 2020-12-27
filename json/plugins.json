@@ -178,7 +178,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Edits_Navigation.zip",
     "desc": "Return to previously edited lines",
     "module": "cuda_edits_navigation",
-    "v": "2020.12.02"
+    "v": "2020.12.27"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Emmet_Lite.zip",
