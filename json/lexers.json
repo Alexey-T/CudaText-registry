@@ -130,6 +130,11 @@
     "v": "2016.12.04"
   },
   {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/lexers/lexer.Assembly_STM32.zip",
+    "desc": "",
+    "v": "2021.01.09"
+  },
+  {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/lexers/lexer.Assembly_Z80_RGBDS.zip",
     "desc": "",
     "v": "2019.06.09.1"
