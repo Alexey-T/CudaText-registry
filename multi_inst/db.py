@@ -24,7 +24,7 @@ TYPE_TO_KIND = {
     T_FMT: 'formatter',
     T_TREE: 'treehelper',
     T_INTEL: 'plugin',
-    T_SNIP: 'snippets',
+    T_SNIP: 'snippets_ct',
     T_OTHER: 'plugin',
     }
 
