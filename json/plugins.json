@@ -497,6 +497,12 @@
     "v": "2018.11.06.5"
   },
   {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Suggest_Untitled_Filename.zip",
+    "desc": "Suggests filename from text, on 'Save as' for untitled documents",
+    "module": "cuda_suggest_new",
+    "v": "2021.10.26"
+  },
+  {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Sum_Lines.zip",
     "desc": "Calculates sum/min/max/avg of numbers in lines",
     "module": "cuda_sum_lines",
