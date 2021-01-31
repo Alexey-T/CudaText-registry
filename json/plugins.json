@@ -124,13 +124,13 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.CudaFormatter.zip",
     "desc": "Code formatting framework",
     "module": "cuda_fmt",
-    "v": "2020.05.19"
+    "v": "2021.01.31"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.CudaLint.zip",
     "desc": "Linting framework: syntax-checking of source code",
     "module": "cuda_lint",
-    "v": "2020.07.05"
+    "v": "2021.01.31"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Dash_Help.zip",
