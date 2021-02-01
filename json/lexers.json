@@ -1273,5 +1273,10 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/lexers/lexer.Zephir.zip",
     "desc": "",
     "v": "2018.11.20"
+  },
+  {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/lexers/lexer.Zig.zip",
+    "desc": "",
+    "v": "2021.02.01"
   }
 ]
