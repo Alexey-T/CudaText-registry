@@ -545,6 +545,12 @@
     "v": "2020.03.20"
   },
   {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Tab-Rename.zip",
+    "desc": "Allows to rename too long ui-tab titles",
+    "module": "cuda_tab_rename",
+    "v": "2021.02.04"
+  },
+  {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Terminal.zip",
     "desc": "Adds panel which emulates OS Terminal",
     "module": "cuda_terminal",
