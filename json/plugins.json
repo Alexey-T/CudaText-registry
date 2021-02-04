@@ -361,7 +361,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.IP_Address_Helper.zip",
     "desc": "On hovering IP address, shows its country in the statusbar",
     "module": "cuda_ip_address_helper",
-    "v": "2021.02.05.2"
+    "v": "2021.02.05.3"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.JS_Multiline_Array.zip",
