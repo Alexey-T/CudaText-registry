@@ -136,7 +136,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.CudaLint.zip",
     "desc": "Linting framework: syntax-checking of source code",
     "module": "cuda_lint",
-    "v": "2021.01.31"
+    "v": "2021.02.13"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Dash_Help.zip",
@@ -214,7 +214,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Extract_Strings.zip",
     "desc": "Dialog to enter reg.ex., and find list of strings",
     "module": "cuda_extract_strings",
-    "v": "2018.04.07"
+    "v": "2021.02.13"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.File_Type_Profile.zip",
@@ -295,7 +295,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Hash_Generator.zip",
     "desc": "Dialog which allows to calc hash-sums of files/strings",
     "module": "cuda_hash_gen",
-    "v": "2017.08.07"
+    "v": "2021.02.13"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Hex_Dump.zip",
