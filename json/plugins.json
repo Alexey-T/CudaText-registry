@@ -557,6 +557,12 @@
     "v": "2020.08.01.5"
   },
   {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Terminal_Plus.zip",
+    "desc": "Adds panel which emulates OS Terminal",
+    "module": "cuda_terminal_plus",
+    "v": "2021.02.18"
+  },
+  {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Testing_of_Code_Tree_API.zip",
     "desc": "Testing plugin for CudaText Code Tree API",
     "module": "cuda_testing_code_tree",

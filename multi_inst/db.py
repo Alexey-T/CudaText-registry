@@ -336,7 +336,7 @@ PLUGINS={
             'Sync_Scroll',
             'Sync_Editing',
             'Tab_Icons',
-            'Terminal',
+            'Terminal_Plus',
             'Text_Statistics',
             'Vim_Mode',
             ),
