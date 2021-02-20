@@ -609,7 +609,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/treehelpers/treehelper.MediaWiki.zip",
     "desc": "TreeHelper for MediaWiki",
     "module": "cuda_tree_mediawiki",
-    "v": "2019.02.10"
+    "v": "2021.02.20"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/treehelpers/treehelper.Pascal.zip",
