@@ -552,15 +552,15 @@
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Terminal.zip",
-    "desc": "Adds panel which emulates OS Terminal",
+    "desc": "Emulates OS Terminal, simpler plugin",
     "module": "cuda_terminal",
     "v": "2020.08.01.5"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Terminal_Plus.zip",
-    "desc": "Adds panel which emulates OS Terminal",
+    "desc": "Emulates OS Terminal, advanced plugin",
     "module": "cuda_terminal_plus",
-    "v": "2021.02.19"
+    "v": "2021.02.24"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Testing_of_Code_Tree_API.zip",
