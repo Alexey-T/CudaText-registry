@@ -539,6 +539,12 @@
     "v": "2021.01.17"
   },
   {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Tab_Group_Resizer.zip",
+    "desc": "Allows to maximize/minimize current tab-group",
+    "module": "cuda_ed_resize",
+    "v": "2021.02.27"
+  },
+  {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Tab_Icons.zip",
     "desc": "Shows file-type icons on ui-tabs",
     "module": "cuda_tab_icons",
