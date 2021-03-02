@@ -612,28 +612,16 @@
     "v": "2019.02.12"
   },
   {
-    "url": "https://sourceforge.net/projects/cudatext/files/addons/treehelpers/treehelper.MediaWiki.zip",
-    "desc": "TreeHelper for MediaWiki",
-    "module": "cuda_tree_mediawiki",
-    "v": "2021.02.20"
-  },
-  {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/treehelpers/treehelper.Pascal.zip",
     "desc": "TreeHelper for Pascal, using PyPascalTokenizer",
     "module": "cuda_tree_pascal",
-    "v": "2019.07.06"
+    "v": "2021.03.03"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/treehelpers/treehelper.PHP.zip",
     "desc": "TreeHelper for PHP, using pyPhpTree",
     "module": "cuda_tree_php",
     "v": "2019.02.12"
-  },
-  {
-    "url": "https://sourceforge.net/projects/cudatext/files/addons/treehelpers/treehelper.reStructuredText.zip",
-    "desc": "TreeHelper for reStructuredText",
-    "module": "cuda_tree_rest",
-    "v": "2019.02.10"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/treehelpers/treehelper.Textile.zip",
