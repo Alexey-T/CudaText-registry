@@ -93,7 +93,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Config_Toolbar.zip",
     "desc": "Configures toolbar: buttons, icon set",
     "module": "cuda_config_toolbar",
-    "v": "2021.02.04"
+    "v": "2021.03.06"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.CSS_CanIUse.zip",
@@ -238,7 +238,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Font_Awesome.zip",
     "desc": "Shows FontAwesome icons in sidebar, inserts their codes",
     "module": "cuda_fontawesome",
-    "v": "2020.02.02"
+    "v": "2021.03.06"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Fonts.zip",
@@ -295,7 +295,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Hash_Generator.zip",
     "desc": "Dialog which allows to calc hash-sums of files/strings",
     "module": "cuda_hash_gen",
-    "v": "2021.02.13"
+    "v": "2021.03.06"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Hex_Dump.zip",
@@ -343,7 +343,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.HTML_Tooltips.zip",
     "desc": "Shows tooltips for HTML colors, picture filenames, etc",
     "module": "cuda_html_tooltips",
-    "v": "2019.02.04"
+    "v": "2021.03.06"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Insert_Emoji.zip",
