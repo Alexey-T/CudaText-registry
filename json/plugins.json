@@ -87,7 +87,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Console_Auto-Completion.zip",
     "desc": "Provides auto-completion in CudaText Console panel",
     "module": "cuda_console_complete",
-    "v": "2021.02.14"
+    "v": "2021.03.07"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Config_Toolbar.zip",
