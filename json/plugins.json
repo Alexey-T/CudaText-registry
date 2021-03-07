@@ -262,7 +262,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.FTP.zip",
     "desc": "FTP client: download, upload, manage files/folders",
     "module": "cuda_ftp",
-    "v": "2021.03.06"
+    "v": "2021.03.07"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.SFTP_Support_for_Windows_py35.zip",
