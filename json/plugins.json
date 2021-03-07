@@ -136,7 +136,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.CudaLint.zip",
     "desc": "Linting framework: syntax-checking of source code",
     "module": "cuda_lint",
-    "v": "2021.02.13"
+    "v": "2021.03.07"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Dash_Help.zip",
@@ -202,7 +202,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Explorer_Integration.zip",
     "desc": "Integrates CudaText with Windows Explorer",
     "module": "cuda_explorer_integration",
-    "v": "2018.05.30"
+    "v": "2021.03.07"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Extended_Selection.zip",
@@ -214,7 +214,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Extract_Strings.zip",
     "desc": "Dialog to enter reg.ex., and find list of strings",
     "module": "cuda_extract_strings",
-    "v": "2021.02.13"
+    "v": "2021.03.07"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.File_Type_Profile.zip",
@@ -379,7 +379,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Lorem_Ipsum.zip",
     "desc": "Inserts 'Lorem Ipsum' text",
     "module": "cuda_lorem",
-    "v": "2016.04.03"
+    "v": "2021.03.07"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Markdown_Editing.zip",
@@ -409,7 +409,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Number_Utils.zip",
     "desc": "Cmds for numbers: insert row of numbers, convert to textual/Romans, etc",
     "module": "cuda_number_utils",
-    "v": "2020.05.14"
+    "v": "2021.03.07"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Online_Search.zip",
@@ -488,7 +488,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Spell_Checker.zip",
     "desc": "Spell checker, with Hunspell dictionaries",
     "module": "cuda_spell_checker",
-    "v": "2019.11.28"
+    "v": "2021.03.07"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.SPIR_Helper.zip",
