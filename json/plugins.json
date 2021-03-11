@@ -540,9 +540,9 @@
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Tab_Group_Resizer.zip",
-    "desc": "Allows to maximize/minimize current tab-group",
+    "desc": "Allows to maximize/minimize/restore tab-groups",
     "module": "cuda_ed_resize",
-    "v": "2021.03.05"
+    "v": "2021.03.11"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Tab_Icons.zip",
