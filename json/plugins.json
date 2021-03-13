@@ -69,7 +69,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Colored_Indent.zip",
     "desc": "Colorizes indentation levels",
     "module": "cuda_colored_indent",
-    "v": "2019.11.17"
+    "v": "2021.03.13"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Column_Marks.zip",
@@ -124,7 +124,7 @@
     "desc": "Highlightes columns in CSV files with different colors",
     "module": "cuda_csv_hilite",
     "req": "lexer.CSV,lexer.TSV",
-    "v": "2020.03.28"
+    "v": "2021.03.13"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.CudaFormatter.zip",
@@ -313,7 +313,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Highlight_Variables.zip",
     "desc": "Highlights 'variables' inside string literals (Bash, etc)",
     "module": "cuda_hilite_vars",
-    "v": "2019.11.15"
+    "v": "2021.03.13"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.HTML_Completion.zip",
@@ -524,7 +524,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Sync_Editing.zip",
     "desc": "Synchronized editing, like in SynWrite editor",
     "module": "cuda_sync_editing",
-    "v": "2019.11.14"
+    "v": "2021.03.13"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Sync_Scroll.zip",
