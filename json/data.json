@@ -1,7 +1,12 @@
 [
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/buildsystems/buildsystem.Many_Build_Systems.zip",
-    "desc": "Build-systems from ST3 packages, for Runner plugin",
+    "desc": "Build-systems from various ST3 packages",
+    "v": "2021.03.18"
+  },
+  {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/buildsystems/buildsystem.DXL.zip",
+    "desc": "Build-system for DXL",
     "v": "2021.03.18"
   },
   {
