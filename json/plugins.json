@@ -473,6 +473,12 @@
     "v": "2016.04.06"
   },
   {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Runner.zip",
+    "desc": "Runs external tools, supports build-systems form Sublime Text",
+    "module": "cuda_runner",
+    "v": "2021.03.20"
+  },
+  {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Show_Unicode_Name.zip",
     "desc": "Shows in the statusbar Unicode name of char under caret",
     "module": "cuda_show_unicode_name",
