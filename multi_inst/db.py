@@ -329,6 +329,7 @@ PLUGINS={
             'Number_Utils',
             'Online_Search',
             'Open_URL',
+            'Runner',
             'Session_Manager',
             'Show_Unicode_Name',
             'Snippets',
@@ -338,7 +339,6 @@ PLUGINS={
             'Tab_Icons',
             'Terminal_Plus',
             'Text_Statistics',
-            'Vim_Mode',
             ),
         },
     }
