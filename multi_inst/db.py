@@ -319,7 +319,6 @@ PLUGINS={
             'Encode',
             'External_Tools',
             'Favorites',
-            'FindInFiles-v3',
             'FindInFiles-v4',
             'FTP',
             'Hash_Generator',
