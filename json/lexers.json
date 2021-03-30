@@ -207,7 +207,7 @@
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/lexers/lexer.Boo.zip",
     "desc": "",
-    "v": "2015.12.20"
+    "v": "2021.03.30"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/lexers/lexer.Brainfuck.zip",
@@ -267,7 +267,7 @@
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/lexers/lexer.CoffeeScript.zip",
     "desc": "",
-    "v": "2019.02.21"
+    "v": "2021.03.30"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/lexers/lexer.ColdFusion.zip",
@@ -412,12 +412,12 @@
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/lexers/lexer.GDScript.zip",
     "desc": "",
-    "v": "2018.09.06"
+    "v": "2021.03.30"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/lexers/lexer.Gherkin.zip",
     "desc": "",
-    "v": "2015.01.03"
+    "v": "2021.03.30"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/lexers/lexer.GHS_MULTI_IDE.zip",
@@ -572,7 +572,7 @@
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/lexers/lexer.Jade.zip",
     "desc": "",
-    "v": "2014.11.18"
+    "v": "2021.03.30"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/lexers/lexer.Jasmine_JVM_Assembler.zip",
@@ -612,7 +612,7 @@
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/lexers/lexer.Jinja2.zip",
     "desc": "",
-    "v": "2015.01.12"
+    "v": "2021.03.30"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/lexers/lexer.JQ.zip",
@@ -632,7 +632,7 @@
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/lexers/lexer.Kivy.zip",
     "desc": "",
-    "v": "2016.12.18"
+    "v": "2021.03.30"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/lexers/lexer.KiXtart.zip",
@@ -782,7 +782,7 @@
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/lexers/lexer.Nim.zip",
     "desc": "",
-    "v": "2018.11.18"
+    "v": "2021.03.30"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/lexers/lexer.Nix.zip",
@@ -897,7 +897,7 @@
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/lexers/lexer.Pony.zip",
     "desc": "",
-    "v": "2019.09.25.1"
+    "v": "2021.03.30"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/lexers/lexer.PostScript.zip",
@@ -927,7 +927,7 @@
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/lexers/lexer.Pug.zip",
     "desc": "",
-    "v": "2018.05.22"
+    "v": "2021.03.30"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/lexers/lexer.Puppet.zip",
@@ -1037,12 +1037,12 @@
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/lexers/lexer.Singularity.zip",
     "desc": "",
-    "v": "2020.04.16"
+    "v": "2021.03.30"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/lexers/lexer.Slim.zip",
     "desc": "",
-    "v": "2020.06.29"
+    "v": "2021.03.30"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/lexers/lexer.Smalltalk.zip",
