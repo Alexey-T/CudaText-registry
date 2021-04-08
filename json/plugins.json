@@ -136,7 +136,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.CudaLint.zip",
     "desc": "Linting framework: syntax-checking of source code",
     "module": "cuda_lint",
-    "v": "2021.03.07"
+    "v": "2021.04.08"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Dash_Help.zip",
