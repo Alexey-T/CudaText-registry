@@ -476,7 +476,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Runner.zip",
     "desc": "Runs external tools, supports build-systems form Sublime Text",
     "module": "cuda_runner",
-    "v": "2021.04.09"
+    "v": "2021.04.09.1"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Show_Unicode_Name.zip",
