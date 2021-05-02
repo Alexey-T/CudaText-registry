@@ -69,7 +69,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Colored_Indent.zip",
     "desc": "Colorizes indentation levels",
     "module": "cuda_colored_indent",
-    "v": "2021.03.13"
+    "v": "2021.05.02"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Column_Marks.zip",
