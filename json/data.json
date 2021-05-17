@@ -40,6 +40,11 @@
     "v": "2019.11.24"
   },
   {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugintranslation/plugintranslation.Preinstalled-it_IT.zip",
+    "desc": "Translation (it_IT) for preinstalled plugins",
+    "v": "2021.05.17"
+  },
+  {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugintranslation/plugintranslation.Preinstalled-pt_PT.zip",
     "desc": "Translation (pt_PT) for preinstalled plugins",
     "v": "2020.02.27"
