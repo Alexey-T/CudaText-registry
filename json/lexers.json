@@ -1137,7 +1137,8 @@
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/lexers/lexer.Svelte.zip",
     "desc": "",
-    "v": "2021.05.23.1"
+    "req": "lexer.LESS,lexer.SCSS,lexer.TypeScript",
+    "v": "2021.05.23.2"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/lexers/lexer.Swift.zip",
