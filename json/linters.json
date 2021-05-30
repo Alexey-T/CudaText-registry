@@ -320,7 +320,7 @@
   {
     "module": "cuda_lint_perl",
     "url": "https://sourceforge.net/projects/cudatext/files/addons/linters/linter.Perl_using_perl.zip",
-    "v": "2019.06.17",
+    "v": "2021.05.31",
     "desc": "Linter for Perl, using 'perl -c'"
   },
   {
