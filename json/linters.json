@@ -384,6 +384,12 @@
     "desc": "Linter for PowerShell, using 'PSScriptAnalyzer'"
   },
   {
+    "module": "cuda_lint_raku",
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/linters/linter.Raku_using_raku.zip",
+    "v": "2021.05.31",
+    "desc": "Linter for Raku, using 'raku -c'"
+  },
+  {
     "module": "cuda_lint_rubocop",
     "url": "https://sourceforge.net/projects/cudatext/files/addons/linters/linter.Ruby_using_rubocop.zip",
     "v": "2016.07.05",
