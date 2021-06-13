@@ -190,7 +190,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Embedded_Editor.zip",
     "desc": "Opens included CSS/JS files in the embedded window",
     "module": "cuda_embed_ed",
-    "v": "2021.06.11"
+    "v": "2021.06.13"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Emmet_Lite.zip",
