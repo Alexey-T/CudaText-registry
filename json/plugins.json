@@ -130,13 +130,13 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.CudaFormatter.zip",
     "desc": "Code formatting framework",
     "module": "cuda_fmt",
-    "v": "2021.01.31"
+    "v": "2021.06.17"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.CudaLint.zip",
     "desc": "Linting framework: syntax-checking of source code",
     "module": "cuda_lint",
-    "v": "2021.04.09"
+    "v": "2021.06.17"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Dash_Help.zip",
@@ -268,7 +268,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.FTP.zip",
     "desc": "FTP client: download, upload, manage files/folders",
     "module": "cuda_ftp",
-    "v": "2021.03.09.2"
+    "v": "2021.06.17"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.SFTP_Support_for_Windows_py35.zip",
@@ -421,7 +421,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Number_Utils.zip",
     "desc": "Cmds for numbers: insert row of numbers, convert to textual/Romans, etc",
     "module": "cuda_number_utils",
-    "v": "2021.03.17"
+    "v": "2021.06.17"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Online_Search.zip",
@@ -500,13 +500,13 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Snippets.zip",
     "desc": "Snippets engine; it's described in CudaText Wiki",
     "module": "cuda_snippets",
-    "v": "2021.05.14"
+    "v": "2021.06.17"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Spell_Checker.zip",
     "desc": "Spell checker, with Hunspell dictionaries",
     "module": "cuda_spell_checker",
-    "v": "2021.03.07"
+    "v": "2021.06.17"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.SPIR_Helper.zip",
