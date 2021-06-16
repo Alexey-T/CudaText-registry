@@ -93,7 +93,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Config_Toolbar.zip",
     "desc": "Configures toolbar: buttons, icon set",
     "module": "cuda_config_toolbar",
-    "v": "2021.03.06"
+    "v": "2021.06.17"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.CSS_CanIUse.zip",
@@ -196,7 +196,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Emmet_Lite.zip",
     "desc": "Emmet engine, see www.emmet.io",
     "module": "cuda_emmet_lite",
-    "v": "2019.04.15"
+    "v": "2021.06.17"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Encode.zip",
@@ -256,13 +256,13 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.FontStorage.zip",
     "desc": "Inserts into CSS code fonts from FontStorage.com",
     "module": "cuda_webfont",
-    "v": "2019.02.09"
+    "v": "2021.06.17"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Fountain_Helper.zip",
     "desc": "Commands for Fountain lexer",
     "module": "cuda_fountain_helper",
-    "v": "2019.06.14.2"
+    "v": "2021.06.17"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.FTP.zip",
@@ -343,7 +343,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.HTML_Tidy.zip",
     "desc": "Validates HTML documents using Tidy tool",
     "module": "cuda_html_tidy",
-    "v": "2019.02.01"
+    "v": "2021.06.17"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.HTML_Tooltips.zip",
@@ -379,7 +379,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.JS_Tern.zip",
     "desc": "Code IntelliSense for JavaScript, based on Tern.js",
     "module": "cuda_tern",
-    "v": "2018.08.31"
+    "v": "2021.06.17"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Lorem_Ipsum.zip",
@@ -397,7 +397,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Markdown_Editing.zip",
     "desc": "Various helpers for editing of Markdown documents",
     "module": "cuda_markdown_editing",
-    "v": "2021.03.17"
+    "v": "2021.06.17"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Markdown_Preview.zip",
@@ -409,7 +409,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.NTFS_Streams.zip",
     "desc": "Works with Windows NTFS streams",
     "module": "cuda_ntfs_streams",
-    "v": "2017.08.21"
+    "v": "2021.06.17"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Numbered_Bookmarks.zip",
@@ -433,13 +433,13 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Open_URL.zip",
     "desc": "Commands to open URL in text, in many browsers",
     "module": "cuda_open_url",
-    "v": "2020.05.18"
+    "v": "2021.06.17"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Pandoc_Helper.zip",
     "desc": "Uses Pandoc tool to convert file to many formats",
     "module": "cuda_pandoc",
-    "v": "2017.05.22"
+    "v": "2021.06.17"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Password_Generator.zip",
@@ -464,7 +464,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Python_IntelliSense.zip",
     "desc": "Code IntelliSense for Python, based on Jedi library",
     "module": "cuda_python_intel",
-    "v": "2021.01.12.1"
+    "v": "2021.06.17"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.pywin32.zip",
@@ -518,7 +518,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.SQL_Tools.zip",
     "desc": "Swiss army knife for SQL databases",
     "module": "cuda_sqltools",
-    "v": "2018.11.06.5"
+    "v": "2021.06.17"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Suggest_Untitled_Filename.zip",
