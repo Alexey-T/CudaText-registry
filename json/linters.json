@@ -128,7 +128,7 @@
   {
     "module": "cuda_fmt_xml_pp",
     "url": "https://sourceforge.net/projects/cudatext/files/addons/formatters/formatter.XML_Pretty_Print.zip",
-    "v": "2019.07.14",
+    "v": "2021.06.20",
     "desc": "Formatters for XML: Pretty Print, Tidy"
   },
   {
