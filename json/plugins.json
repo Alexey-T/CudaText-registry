@@ -247,12 +247,6 @@
     "v": "2021.03.06"
   },
   {
-    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Fonts.zip",
-    "desc": "Uses font files, w/o installing them to OS",
-    "module": "cuda_fonts",
-    "v": "2018.02.08"
-  },
-  {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.FontStorage.zip",
     "desc": "Inserts into CSS code fonts from FontStorage.com",
     "module": "cuda_webfont",
@@ -658,5 +652,11 @@
     "desc": "Allows to use Vim key bindings",
     "module": "cuda_vim_mode",
     "v": "2020.12.30.1"
+  },
+  {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Windows_Portable_Fonts.zip",
+    "desc": "Uses font files in CudaText, w/o installing them to OS",
+    "module": "cuda_fonts",
+    "v": "2021.06.22"
   }
 ]
