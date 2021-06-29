@@ -537,6 +537,7 @@
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/lexers/lexer.HTML_Ruby-ERB.zip",
     "desc": "",
+    "req": "lexer.Ruby",
     "v": "2019.05.22"
   },
   {
