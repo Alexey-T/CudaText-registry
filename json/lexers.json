@@ -983,6 +983,7 @@
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/lexers/lexer.R_Markdown.zip",
     "desc": "",
+    "req": "lexer.R",
     "v": "2015.09.20"
   },
   {
