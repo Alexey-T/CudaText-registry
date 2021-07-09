@@ -36,12 +36,6 @@
     "v": "2019.07.16"
   },
   {
-    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Micro_Utils.zip",
-    "desc": "Rarely needed commands for numbers/text etc.",
-    "module": "cuda_micro_utils",
-    "v": "2018.01.09"
-  },
-  {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Calc_Expression.zip",
     "desc": "Calculates math expression in text",
     "module": "cuda_calc_expr",
@@ -404,6 +398,12 @@
     "desc": "Previews Markdown text as HTML in browser",
     "module": "cuda_markdown_preview",
     "v": "2019.09.29"
+  },
+  {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Micro_Utils.zip",
+    "desc": "Rarely needed commands for numbers/text etc.",
+    "module": "cuda_micro_utils",
+    "v": "2018.01.09"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.NTFS_Streams.zip",
