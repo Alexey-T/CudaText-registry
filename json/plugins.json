@@ -36,6 +36,12 @@
     "v": "2019.07.16"
   },
   {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Breadcrumbs.zip",
+    "desc": "Widget for file-system navigation (breadcrumb bar)",
+    "module": "cuda_breadcrumbs",
+    "v": "2021.07.09"
+  },
+  {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Calc_Expression.zip",
     "desc": "Calculates math expression in text",
     "module": "cuda_calc_expr",
