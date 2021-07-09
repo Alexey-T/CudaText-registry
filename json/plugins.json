@@ -286,6 +286,12 @@
     "v": "2019.11.27"
   },
   {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Git_Conflict_Solver.zip",
+    "desc": "Gives command to solve Git merge conflicts",
+    "module": "cuda_git_conflict",
+    "v": "2021.07.09"
+  },
+  {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Git_Status.zip",
     "desc": "Shows Git branch info in the statusbar",
     "module": "cuda_git_status",
