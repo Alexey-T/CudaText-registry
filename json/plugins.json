@@ -39,7 +39,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Breadcrumbs.zip",
     "desc": "Widget for file-system navigation (breadcrumb bar)",
     "module": "cuda_breadcrumbs",
-    "v": "2021.07.09"
+    "v": "2021.07.11"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Calc_Expression.zip",
@@ -289,7 +289,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Git_Conflict_Solver.zip",
     "desc": "Gives command to solve Git merge conflicts",
     "module": "cuda_git_conflict",
-    "v": "2021.07.09"
+    "v": "2021.07.11"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Git_Status.zip",
