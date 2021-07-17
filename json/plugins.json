@@ -220,7 +220,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Extract_Strings.zip",
     "desc": "Dialog to enter reg.ex., and find list of strings",
     "module": "cuda_extract_strings",
-    "v": "2021.07.01"
+    "v": "2021.07.17"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.File_Type_Profile.zip",
