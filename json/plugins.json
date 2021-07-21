@@ -39,7 +39,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Breadcrumbs.zip",
     "desc": "Widget for file-system navigation (breadcrumb bar)",
     "module": "cuda_breadcrumbs",
-    "v": "2021.07.20"
+    "v": "2021.07.21"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Calc_Expression.zip",
