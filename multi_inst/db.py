@@ -316,7 +316,6 @@ PLUGINS={
             'Detect_Indent',
             'Differ',
             'Draw_Lines',
-            'EditorConfig_Support',
             'Encode',
             'External_Tools',
             'Favorites',
