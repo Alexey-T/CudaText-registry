@@ -200,9 +200,14 @@
     "v": "2019.09.17"
   },
   {
-    "url": "https://sourceforge.net/projects/cudatext/files/addons/themes/theme.Monokai.zip",
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/themes/theme.Monokai-Alt.zip",
     "desc": "",
     "v": "2021.04.24"
+  },
+  {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/themes/theme.Monokai-Sublime.zip",
+    "desc": "",
+    "v": "2021.07.25"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/themes/theme.NightOwl.zip",
