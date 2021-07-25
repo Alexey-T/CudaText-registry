@@ -305,6 +305,7 @@ PLUGINS={
         },
     '(General purpose)':{
         T_OTHER:(
+            'Breadcrumbs',
             'Color_Picker',
             'Color_Text',
             'Colored_Indent',
