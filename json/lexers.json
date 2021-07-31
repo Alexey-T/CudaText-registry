@@ -1,5 +1,10 @@
 [
   {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/lexers/lexer.1C.zip",
+    "desc": "",
+    "v": "2021.07.16"
+  },
+  {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/lexers/lexer.ABAP.zip",
     "desc": "",
     "v": "2018.05.18"
@@ -819,11 +824,6 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/lexers/lexer.Objective-C.zip",
     "desc": "",
     "v": "2018.12.26"
-  },
-  {
-    "url": "https://sourceforge.net/projects/cudatext/files/addons/lexers/lexer.OneC_(1C).zip",
-    "desc": "",
-    "v": "2021.07.16"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/lexers/lexer.OpenCL.zip",
