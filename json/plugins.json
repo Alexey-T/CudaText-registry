@@ -590,7 +590,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Terminal_Plus.zip",
     "desc": "Emulates OS Terminal, advanced plugin",
     "module": "cuda_terminal_plus",
-    "v": "2021.07.27.1"
+    "v": "2021.07.31"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Testing_of_Code_Tree_API.zip",
