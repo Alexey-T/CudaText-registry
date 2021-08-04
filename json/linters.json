@@ -386,7 +386,7 @@
   {
     "module": "cuda_lint_raku",
     "url": "https://sourceforge.net/projects/cudatext/files/addons/linters/linter.Raku_using_raku.zip",
-    "v": "2021.05.31",
+    "v": "2021.08.05",
     "desc": "Linter for Raku, using 'raku -c'"
   },
   {
