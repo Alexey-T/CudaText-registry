@@ -54,6 +54,12 @@
     "v": "2020.01.07"
   },
   {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Code-Tree_Bookmarks.zip",
+    "desc": "Shows bookmarks in the Code-Tree",
+    "module": "cuda_code_tree_x",
+    "v": "2021.08.06"
+  },
+  {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Color_Picker.zip",
     "desc": "Shows color-picker dialog, inserts color #rrggbb",
     "module": "cuda_color_picker",
