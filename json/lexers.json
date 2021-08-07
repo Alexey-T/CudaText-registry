@@ -295,6 +295,11 @@
     "v": "2015.01.19"
   },
   {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/lexers/lexer.D.zip",
+    "desc": "",
+    "v": "2021.08.07"
+  },
+  {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/lexers/lexer.Dart.zip",
     "desc": "",
     "v": "2018.12.25"
@@ -323,11 +328,6 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/lexers/lexer.DOORS_DXL.zip",
     "desc": "",
     "v": "2021.03.18"
-  },
-  {
-    "url": "https://sourceforge.net/projects/cudatext/files/addons/lexers/lexer.D.zip",
-    "desc": "",
-    "v": "2020.04.23"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/lexers/lexer.Eiffel.zip",
