@@ -106,6 +106,7 @@ PLUGINS={
             'HTML_Soup',
             ),
         T_INTEL:(
+            'Bootstrap_Completion',
             'HTML_Tidy',
             'HTML_Completion',
             ),
