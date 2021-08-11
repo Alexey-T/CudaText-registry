@@ -138,6 +138,7 @@ PLUGINS={
             'Sass',
             'SCSS',
             'Stylus',
+            'Svelte',
             'HTML_Diafan',
             'HTML_Django_DTL',
             'HTML_Embedded_JS',
