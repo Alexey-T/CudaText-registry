@@ -36,7 +36,7 @@
     "v": "2019.07.16"
   },
   {
-    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Bootstrap_Complete.zip",
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Bootstrap_Completion.zip",
     "desc": "Auto-completion for Bootstrap framework class names",
     "module": "cuda_bootstrap_complete",
     "v": "2021.08.11"
