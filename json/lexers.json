@@ -280,6 +280,11 @@
     "v": "2019.09.28"
   },
   {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/lexers/lexer.Coq.zip",
+    "desc": "",
+    "v": "2021.08.13"
+  },
+  {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/lexers/lexer.CRF.zip",
     "desc": "",
     "v": "2016.01.16"
