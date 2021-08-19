@@ -96,6 +96,12 @@
     "v": "2021.08.06"
   },
   {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Complete_HTML_Text.zip",
+    "desc": "Like plugin 'Complete From Text', but works in HTML, out of tags",
+    "module": "cuda_complete_html_text",
+    "v": "2021.08.19"
+  },
+  {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Console_Auto-Completion.zip",
     "desc": "Provides auto-completion in CudaText Console panel",
     "module": "cuda_console_complete",
