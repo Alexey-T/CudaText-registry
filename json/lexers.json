@@ -971,6 +971,11 @@
     "v": "2019.10.05"
   },
   {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/lexers/lexer.Pyret.zip",
+    "desc": "",
+    "v": "2021.08.28"
+  },
+  {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/lexers/lexer.QML.zip",
     "desc": "",
     "v": "2021.07.25"
@@ -1034,7 +1039,7 @@
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/lexers/lexer.Ruby.zip",
     "desc": "",
-    "v": "2020.05.15"
+    "v": "2020.08.28"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/lexers/lexer.Rust.zip",
