@@ -243,8 +243,6 @@ PLUGINS={
         },
     'Markdown/reST/Textile/Wiki':{
         T_LEXER:(
-            'MediaWiki',
-            'reStructuredText',
             'R_Markdown',
             'Textile',
             'WikidPad',
