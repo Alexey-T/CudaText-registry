@@ -208,7 +208,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Edits_Navigation.zip",
     "desc": "Return to previously edited lines",
     "module": "cuda_edits_navigation",
-    "v": "2020.12.27"
+    "v": "2021.09.21"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Embedded_Editor.zip",
