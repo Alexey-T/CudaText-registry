@@ -105,7 +105,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Complete_HTML_Text.zip",
     "desc": "Like plugin 'Complete From Text', but works in HTML, out of tags",
     "module": "cuda_complete_html_text",
-    "v": "2021.08.19"
+    "v": "2021.09.13"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Console_Auto-Completion.zip",
