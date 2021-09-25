@@ -48,6 +48,12 @@
     "v": "2021.08.10"
   },
   {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Bulma_Completion.zip",
+    "desc": "Auto-completion for Bulma CSS classes",
+    "module": "cuda_bulma_complete",
+    "v": "2021.09.25"
+  },
+  {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Calc_Expression.zip",
     "desc": "Calculates math expression in text",
     "module": "cuda_calc_expr",
