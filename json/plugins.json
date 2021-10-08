@@ -537,7 +537,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Show_Unicode_Name.zip",
     "desc": "Shows in the statusbar Unicode name of char under caret",
     "module": "cuda_show_unicode_name",
-    "v": "2019.11.25"
+    "v": "2021.10.08"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Snippets.zip",
