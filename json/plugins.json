@@ -66,6 +66,12 @@
     "v": "2020.01.07"
   },
   {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Clock.zip",
+    "desc": "Shows current time in the statusbar",
+    "module": "cuda_clock",
+    "v": "2021.10.17"
+  },
+  {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Code-Tree_Bookmarks.zip",
     "desc": "Shows bookmarks in the Code-Tree",
     "module": "cuda_code_tree_x",
