@@ -151,12 +151,17 @@
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/translations/translation.zh_CN.zip",
-    "desc": "",
+    "desc": "Chinese Simplified, by Kirk",
     "v": "2021.10.19"
   },
   {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/translations/translation.zh_CN_2.zip",
+    "desc": "Chinese Simplified, by Michael Lu / Tilt",
+    "v": "2020.01.09"
+  },
+  {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/translations/translation.zh_TW.zip",
-    "desc": "",
+    "desc": "Chinese Traditional, by Juha",
     "v": "2016.12.07"
   },
   {
