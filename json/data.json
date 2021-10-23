@@ -378,5 +378,10 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/packages/package.Windows_Python39_64bit.zip",
     "desc": "",
     "v": "2021.01.20"
+  },
+  {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/packages/package.Windows_Python310_64bit.zip",
+    "desc": "",
+    "v": "2021.10.23"
   }
 ]
