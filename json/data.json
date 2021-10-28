@@ -1,6 +1,6 @@
 [
   {
-    "url": "https://sourceforge.net/projects/cudatext/files/addons/buildsystems/buildsystem.C++_G++.zip",
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/buildsystems/buildsystem.C++_using_G++.zip",
     "desc": "Build-system for C++ using G++ compiler",
     "v": "2021.10.28"
   },
