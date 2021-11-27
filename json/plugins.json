@@ -199,6 +199,12 @@
     "v": "2021.08.20"
   },
   {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Discord_Status.zip",
+    "desc": "Shows your work status in the Discord messanger",
+    "module": "cuda_discord_status",
+    "v": "2021.11.27"
+  },
+  {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.DocBlock_Comments.zip",
     "desc": "Helps to type DocBlock comments, for JavaScript/CoffeScript/PHP",
     "module": "cuda_docblock",
