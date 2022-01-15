@@ -663,7 +663,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Text_Statistics.zip",
     "desc": "Gets statistics of current text (chars, words, sentences, etc)",
     "module": "cuda_text_stat",
-    "v": "2021.03.17"
+    "v": "2022.01.15"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Textile_Preview.zip",
