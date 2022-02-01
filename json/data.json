@@ -400,8 +400,13 @@
     "v": "2021.01.20"
   },
   {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/packages/package.Windows_Python310_32bit.zip",
+    "desc": "",
+    "v": "2022.02.01"
+  },
+  {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/packages/package.Windows_Python310_64bit.zip",
     "desc": "",
-    "v": "2021.10.23"
+    "v": "2022.02.01"
   }
 ]
