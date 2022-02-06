@@ -307,6 +307,12 @@
     "v": "2022.02.01"
   },
   {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Scratches.zip",
+    "desc": "Lite-analog of Scratches from JetBrains (C)",
+    "module": "cuda_scratches",
+    "v": "2022.02.06"
+  },
+  {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.SFTP_Support_for_Windows_py35.zip",
     "desc": "Supports SFTP in FTP plugin, Windows x32/x64, Python 3.5",
     "module": "cuda_ftp_libs_py35",
