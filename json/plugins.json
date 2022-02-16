@@ -208,7 +208,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.DocBlock_Comments.zip",
     "desc": "Helps to type DocBlock comments, for JavaScript/CoffeScript/PHP",
     "module": "cuda_docblock",
-    "v": "2022.01.12"
+    "v": "2022.02.11"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Draw_Lines.zip",
