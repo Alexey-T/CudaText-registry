@@ -623,7 +623,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Sync_Scroll.zip",
     "desc": "Sync vertical and/or horiz scrolling of editors in groups 1, 2",
     "module": "cuda_sync_scroll",
-    "v": "2022.02.16.1"
+    "v": "2022.02.21"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Tab_Colors.zip",
