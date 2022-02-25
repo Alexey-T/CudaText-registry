@@ -51,7 +51,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Bulma_Completion.zip",
     "desc": "Auto-completion for Bulma CSS classes",
     "module": "cuda_bulma_complete",
-    "v": "2021.09.25"
+    "v": "2022.02.25"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Calc_Expression.zip",
