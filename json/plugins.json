@@ -132,7 +132,7 @@
     "v": "2021.12.29"
   },
   {
-    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Converter_Between_JSON-YAML.zip",
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Converter_JSON-YAML.zip",
     "desc": "Converts document between JSON and YAML formats",
     "module": "cuda_json_yaml",
     "v": "2022.03.14"
