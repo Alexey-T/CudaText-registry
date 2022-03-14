@@ -132,6 +132,12 @@
     "v": "2021.12.29"
   },
   {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Converter_Between_JSON-YAML.zip",
+    "desc": "Converts document between JSON and YAML formats",
+    "module": "cuda_json_yaml",
+    "v": "2022.03.14"
+  },
+  {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.CSS_CanIUse.zip",
     "desc": "For CSS, shows info about selected word from CanIUse.com site",
     "module": "cuda_css_caniuse",
