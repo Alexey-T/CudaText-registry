@@ -21,7 +21,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Auto_Save.zip",
     "desc": "Auto-saves modified named files: by timer, on file close, on lost focus",
     "module": "cuda_auto_save",
-    "v": "2022.01.21"
+    "v": "2022.03.15"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.AutoIt_Helper.zip",
