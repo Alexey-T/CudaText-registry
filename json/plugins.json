@@ -430,7 +430,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Insert_Emoji.zip",
     "desc": "Dialog to show emoji list, insert emoji name",
     "module": "cuda_insert_emoji",
-    "v": "2017.09.04"
+    "v": "2022.03.18"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Insert_Pics.zip",
