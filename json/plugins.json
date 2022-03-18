@@ -741,6 +741,12 @@
     "v": "2020.12.30.1"
   },
   {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.WikidPad_Helper.zip",
+    "desc": "Handles double-click on WikidPad wiki links",
+    "module": "cuda_wikidpad_helper",
+    "v": "2022.02.21"
+  },
+  {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Windows_Portable_Fonts.zip",
     "desc": "Uses font files in CudaText, w/o installing them to OS",
     "module": "cuda_fonts",
