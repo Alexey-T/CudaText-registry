@@ -744,7 +744,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.WikidPad_Helper.zip",
     "desc": "Handles double-click on WikidPad wiki links",
     "module": "cuda_wikidpad_helper",
-    "v": "2022.03.23"
+    "v": "2022.03.29"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Windows_Portable_Fonts.zip",
