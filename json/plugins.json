@@ -732,7 +732,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/treehelpers/treehelper.WikidPad.zip",
     "desc": "TreeHelper for WikidPad",
     "module": "cuda_tree_wikidpad",
-    "v": "2019.02.10"
+    "v": "2022.04.05"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Vim_Mode.zip",
