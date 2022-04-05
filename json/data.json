@@ -370,6 +370,16 @@
     "v": "2019.08.30"
   },
   {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/packages/package.Windows_Python36-8_32bit.zip",
+    "desc": "",
+    "v": "2022.04.05"
+  },
+  {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/packages/package.Windows_Python36-8_64bit.zip",
+    "desc": "",
+    "v": "2022.04.05"
+  },
+  {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/packages/package.Windows_Python37_32bit.zip",
     "desc": "",
     "v": "2019.08.30"
