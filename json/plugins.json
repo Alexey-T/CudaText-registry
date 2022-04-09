@@ -373,6 +373,12 @@
     "v": "2022.04.05"
   },
   {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.GitHub_Gist.zip",
+    "desc": "Shows snippets saved in GitHub Git",
+    "module": "cuda_gists",
+    "v": "2022.04.09"
+  },
+  {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Hash_Generator.zip",
     "desc": "Dialog which allows to calc hash-sums of files/strings",
     "module": "cuda_hash_gen",
