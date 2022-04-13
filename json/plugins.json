@@ -310,7 +310,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.FTP.zip",
     "desc": "FTP client: download, upload, manage files/folders",
     "module": "cuda_ftp",
-    "v": "2022.04.12.1"
+    "v": "2022.04.13"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Scratches.zip",
