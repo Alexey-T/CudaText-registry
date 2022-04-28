@@ -292,7 +292,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Font_Awesome.zip",
     "desc": "Shows FontAwesome icons in sidebar, inserts their codes",
     "module": "cuda_fontawesome",
-    "v": "2021.03.06"
+    "v": "2022.04.28"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.FontStorage.zip",
