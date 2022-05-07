@@ -310,7 +310,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.FTP.zip",
     "desc": "FTP client: manage remote files/folders on FTP/SFTP",
     "module": "cuda_ftp",
-    "v": "2022.04.30"
+    "v": "2022.05.07"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Scratches.zip",
