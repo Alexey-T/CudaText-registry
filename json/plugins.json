@@ -472,7 +472,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.LSP_Client.zip",
     "desc": "Supports LSP protocol for IntelliSense",
     "module": "cuda_lsp",
-    "v": "2021.10.01"
+    "v": "2022.05.10"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Markdown_Editing.zip",
@@ -671,7 +671,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Terminal_Plus.zip",
     "desc": "Emulates OS Terminal, advanced plugin",
     "module": "cuda_terminal_plus",
-    "v": "2022.05.08"
+    "v": "2022.05.10"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Testing_of_Code_Tree_API.zip",
