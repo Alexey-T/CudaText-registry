@@ -520,7 +520,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Open_URL.zip",
     "desc": "Commands to open URL in text, in many browsers",
     "module": "cuda_open_url",
-    "v": "2021.06.17"
+    "v": "2022.05.13"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Pandoc_Helper.zip",
