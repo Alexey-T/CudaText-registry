@@ -376,7 +376,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.GitHub_Gist.zip",
     "desc": "Shows snippets saved in GitHub Gist",
     "module": "cuda_gists",
-    "v": "2022.05.27"
+    "v": "2022.05.27.1"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Hash_Generator.zip",
