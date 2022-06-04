@@ -80,7 +80,7 @@
   {
     "module": "cuda_fmt_python_black",
     "url": "https://sourceforge.net/projects/cudatext/files/addons/formatters/formatter.Python_Black.zip",
-    "v": "2021.11.17",
+    "v": "2022.06.04",
     "desc": "Formatter for Python: Black (requires Python 3.6+)"
   },
   {
