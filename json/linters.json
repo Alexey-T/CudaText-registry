@@ -50,7 +50,7 @@
   {
     "module": "cuda_fmt_go_gofmt",
     "url": "https://sourceforge.net/projects/cudatext/files/addons/formatters/formatter.Go_gofmt.zip",
-    "v": "2022.06.09.5",
+    "v": "2022.06.09.6",
     "desc": "Formatters for Go: gofmt, goimports, goreturns, gofumpt, golines"
   },
   {
