@@ -237,6 +237,9 @@ PLUGINS={
             'Go_using_gotype',
             'Go_using_go-vet',
             ),
+        T_FMT:(
+            'Go_gofmt',
+            ),
         T_SNIP:(
             'Atom-Go',
             ),
