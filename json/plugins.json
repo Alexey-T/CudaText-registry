@@ -358,7 +358,7 @@
     "desc": "Supports SFTP in FTP plugin, Windows x32/x64, Python 3.10",
     "module": "cuda_ftp_libs_py310",
     "req": "plugin.FTP",
-    "v": "2022.02.19"
+    "v": "2022.06.26"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Git_Conflict_Solver.zip",
