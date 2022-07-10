@@ -301,6 +301,12 @@
     "v": "2022.04.28.1"
   },
   {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Font_Changer.zip",
+    "desc": "Allows to change editor font more easily, than usual config dialog",
+    "module": "cuda_font_changer",
+    "v": "2022.07.10"
+  },
+  {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.FontStorage.zip",
     "desc": "Inserts into CSS code fonts from FontStorage.com",
     "module": "cuda_webfont",
