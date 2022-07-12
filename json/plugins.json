@@ -756,7 +756,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Vim_Mode.zip",
     "desc": "Allows to use Vim key bindings",
     "module": "cuda_vim_mode",
-    "v": "2022.07.12"
+    "v": "2022.07.12.1"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.WikidPad_Helper.zip",
