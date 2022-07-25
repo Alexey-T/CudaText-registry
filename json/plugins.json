@@ -382,7 +382,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Git_Status.zip",
     "desc": "Shows Git branch info in the statusbar",
     "module": "cuda_git_status",
-    "v": "2022.07.04"
+    "v": "2022.07.25"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.GitHub_Gist.zip",
