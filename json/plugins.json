@@ -147,7 +147,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.CSS_Inspector.zip",
     "desc": "In HTML files, it shows CSS props of tag under caret",
     "module": "cuda_css_inspector",
-    "v": "2022.07.29.5"
+    "v": "2022.07.29.6"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.CSS_Property_Info.zip",
