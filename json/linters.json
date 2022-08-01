@@ -2,7 +2,7 @@
   {
     "module": "cuda_fmt_astyle",
     "url": "https://sourceforge.net/projects/cudatext/files/addons/formatters/formatter.AStyle.zip",
-    "v": "2019.07.17",
+    "v": "2022.08.01",
     "desc": "Formatter for C, C++, C#, Objective-C, Java, using AStyle"
   },
   {
