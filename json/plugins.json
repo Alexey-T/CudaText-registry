@@ -87,7 +87,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Color_Text.zip",
     "desc": "Colorizes fragments in any text",
     "module": "cuda_color_text",
-    "v": "2022.04.16.1"
+    "v": "2022.08.09"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Colored_Indent.zip",
