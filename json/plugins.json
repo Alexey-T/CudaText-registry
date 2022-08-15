@@ -496,7 +496,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Markdown_Preview.zip",
     "desc": "Previews Markdown text as HTML in browser",
     "module": "cuda_markdown_preview",
-    "v": "2019.09.29"
+    "v": "2022.08.15"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Micro_Utils.zip",
