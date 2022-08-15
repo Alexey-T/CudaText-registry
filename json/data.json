@@ -20,6 +20,11 @@
     "v": "2022.04.07"
   },
   {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/buildsystems/buildsystem.Python.zip",
+    "desc": "Build-system for Python, from ST4 package",
+    "v": "2022.08.15"
+  },
+  {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/codetreeicons/codetreeicons.Axialis_Flat_Pro_2017.zip",
     "desc": "",
     "v": "2018.04.25"
