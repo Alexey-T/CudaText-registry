@@ -376,7 +376,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Special_URL_Paste.zip",
     "desc": "In lexers Markdown/reStructuredText, modifies URL on pasting",
     "module": "cuda_url_paste",
-    "v": "2022.08.21"
+    "v": "2022.08.21.1"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Git_Conflict_Solver.zip",
