@@ -373,6 +373,12 @@
     "v": "2022.06.26"
   },
   {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Special_URL_Paste.zip",
+    "desc": "In lexers Markdown/reStructuredText, modifies URL on pasting",
+    "module": "cuda_url_paste",
+    "v": "2022.08.21"
+  },
+  {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Git_Conflict_Solver.zip",
     "desc": "Gives command to solve Git merge conflicts",
     "module": "cuda_git_conflict",
