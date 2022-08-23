@@ -373,12 +373,6 @@
     "v": "2022.06.26"
   },
   {
-    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Special_URL_Paste.zip",
-    "desc": "In lexers Markdown/reStructuredText, modifies URL on pasting",
-    "module": "cuda_special_url_paste",
-    "v": "2022.08.21.6"
-  },
-  {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Git_Conflict_Solver.zip",
     "desc": "Gives command to solve Git merge conflicts",
     "module": "cuda_git_conflict",
@@ -503,6 +497,12 @@
     "desc": "Previews Markdown text as HTML in browser",
     "module": "cuda_markdown_preview",
     "v": "2022.08.16.1"
+  },
+  {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Markdown_Special_Paste.zip",
+    "desc": "In lexers Markdown/reST, handles pasting of URLs and pictures",
+    "module": "cuda_markdown_special_paste",
+    "v": "2022.08.23"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Micro_Utils.zip",
