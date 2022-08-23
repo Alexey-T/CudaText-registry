@@ -268,6 +268,7 @@ PLUGINS={
         T_OTHER:(
             'Markdown_Editing',
             'Markdown_Preview',
+            'Markdown_Special_Paste',
             'reStructuredText_Preview',
             'Textile_Preview',
             ),
