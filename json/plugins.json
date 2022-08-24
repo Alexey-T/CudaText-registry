@@ -500,9 +500,9 @@
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Markdown_Special_Paste.zip",
-    "desc": "For lexers Markdown/reST/MediaWiki/AsciiDoc, handles pasting of URLs and pictures",
+    "desc": "For lexers Markdown/reST/MediaWiki/AsciiDoc/LaTeX, handles pasting of URLs and pictures",
     "module": "cuda_markdown_special_paste",
-    "v": "2022.08.24.1"
+    "v": "2022.08.24.2"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Micro_Utils.zip",
