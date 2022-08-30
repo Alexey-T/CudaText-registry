@@ -430,7 +430,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.HTML_Ops.zip",
     "desc": "Various commands to work with HTML/CSS",
     "module": "cuda_html_ops",
-    "v": "2019.07.16"
+    "v": "2022.08.30"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.HTML_Tidy.zip",
