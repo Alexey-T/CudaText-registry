@@ -265,6 +265,11 @@
     "v": "2019.09.17"
   },
   {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/themes/theme.White-Qt5-fix.zip",
+    "desc": "theme to fix painting of menu bar on Qt5 version",
+    "v": "2022.09.03"
+  },
+  {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/toolbar_themes/toolbartheme.Aero.zip",
     "desc": "",
     "v": "2019.05.27"
