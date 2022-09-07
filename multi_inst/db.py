@@ -269,6 +269,7 @@ PLUGINS={
             'Markdown_Editing',
             'Markdown_Preview',
             'Markdown_Special_Paste',
+            'reStructuredText_Helper',
             'reStructuredText_Preview',
             'Textile_Preview',
             ),
