@@ -593,7 +593,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.reStructuredText_Helper.zip",
     "desc": "Commands to write reStructuredText headers",
     "module": "cuda_rest_helper",
-    "v": "2022.08.24"
+    "v": "2022.09.08"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.reStructuredText_Preview.zip",
