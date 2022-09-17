@@ -123,7 +123,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Config_Toolbar.zip",
     "desc": "Configures toolbar: buttons, icon set",
     "module": "cuda_config_toolbar",
-    "v": "2021.09.20"
+    "v": "2022.09.17"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Console_Auto-Completion.zip",
