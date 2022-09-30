@@ -382,7 +382,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Git_Status.zip",
     "desc": "Shows Git branch info in the statusbar",
     "module": "cuda_git_status",
-    "v": "2022.09.17"
+    "v": "2022.09.30"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.GitHub_Gist.zip",
@@ -484,7 +484,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.LSP_Client.zip",
     "desc": "Supports LSP protocol for IntelliSense",
     "module": "cuda_lsp",
-    "v": "2022.09.30"
+    "v": "2022.09.30.1"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Markdown_Editing.zip",
