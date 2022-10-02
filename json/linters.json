@@ -308,7 +308,7 @@
   {
     "module": "cuda_lint_markdownlint",
     "url": "https://sourceforge.net/projects/cudatext/files/addons/linters/linter.Markdown_using_markdownlint.zip",
-    "v": "2022.10.02",
+    "v": "2022.10.02.1",
     "desc": "Linter for Markdown, using 'markdownlint'"
   },
   {
