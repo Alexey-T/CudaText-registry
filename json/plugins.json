@@ -569,7 +569,7 @@
     "desc": "ToDo list (task list) with many features",
     "module": "cuda_plain_tasks",
     "req": "lexer.ToDo",
-    "v": "2021.06.08"
+    "v": "2022.10.04"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Python_IntelliSense.zip",
