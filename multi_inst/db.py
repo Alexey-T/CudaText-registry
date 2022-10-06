@@ -161,6 +161,7 @@ PLUGINS={
             'JavaScript_using_eslint',
             'JavaScript_using_jshint',
             'JavaScript_using_jsl',
+            'JavaScript_using_quicklintjs',
             ),
         T_FMT:(
             'JavaScript_JSON',
