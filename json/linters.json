@@ -294,6 +294,12 @@
     "desc": "Linter for JavaScript, using 'JSHint' (requires Node.js)"
   },
   {
+    "module": "cuda_lint_quicklintjs",
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/linters/linter.JavaScript_using_quicklintjs.zip",
+    "v": "2022.10.07",
+    "desc": "Linter for JavaScript, using 'quick-lint-js'"
+  },
+  {
     "module": "cuda_lint_json",
     "url": "https://sourceforge.net/projects/cudatext/files/addons/linters/linter.JSON_using_python-json.zip",
     "v": "2016.07.05",
