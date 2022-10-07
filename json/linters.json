@@ -306,6 +306,12 @@
     "desc": "Linter for JSON, using 'python-json'"
   },
   {
+    "module": "cuda_lint_jsonschemalint",
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/linters/linter.JSON_YAML_using_jsonschemalint.zip",
+    "v": "2022.10.07",
+    "desc": "Linter for JSON/YAML, using 'jsonschema-lint'"
+  },
+  {
     "module": "cuda_lint_lua",
     "url": "https://sourceforge.net/projects/cudatext/files/addons/linters/linter.Lua_using_luac.zip",
     "v": "2020.05.20",
