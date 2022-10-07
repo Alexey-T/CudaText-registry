@@ -442,5 +442,11 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/linters/linter.YAML_using_pyyaml.zip",
     "v": "2019.05.03",
     "desc": "Linter for YAML, using 'pyyaml' (only Linux/macOS yet)"
+  },
+  {
+    "module": "cuda_lint_zigcheck",
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/linters/linter.Zig_using_zigcheck.zip",
+    "v": "2022.10.07",
+    "desc": "Linter for Zig, using 'zig ast-check'"
   }
 ]
