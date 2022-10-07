@@ -312,6 +312,12 @@
     "desc": "Linter for Lua, using 'luac'"
   },
   {
+    "module": "cuda_lint_luau",
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/linters/linter.Lua_using_luau.zip",
+    "v": "2022.10.07",
+    "desc": "Linter for Lua, using 'luau-analyze'"
+  },
+  {
     "module": "cuda_lint_markdownlint",
     "url": "https://sourceforge.net/projects/cudatext/files/addons/linters/linter.Markdown_using_markdownlint.zip",
     "v": "2022.10.02.1",
