@@ -69,6 +69,7 @@ PLUGINS={
     'Lua':{
         T_LINTER:(
             'Lua_using_luac',
+            'Lua_using_luau',
             ),
         T_FMT:(
             'Lua',
