@@ -194,7 +194,7 @@
   {
     "module": "cuda_lint_coffee",
     "url": "https://sourceforge.net/projects/cudatext/files/addons/linters/linter.CoffeeScript_using_coffee.zip",
-    "v": "2019.06.20",
+    "v": "2022.10.08",
     "desc": "Linter for CoffeeScript, using 'coffee' (requires Node.js)"
   },
   {
@@ -206,7 +206,7 @@
   {
     "module": "cuda_lint_coffeelint",
     "url": "https://sourceforge.net/projects/cudatext/files/addons/linters/linter.CoffeeScript_using_coffeelint.zip",
-    "v": "2019.06.20",
+    "v": "2022.10.08",
     "desc": "Linter for CoffeeScript, using 'coffeelint' (requires Node.js)"
   },
   {
