@@ -278,7 +278,7 @@
   {
     "module": "cuda_lint_eslint",
     "url": "https://sourceforge.net/projects/cudatext/files/addons/linters/linter.JavaScript_using_eslint.zip",
-    "v": "2016.07.05",
+    "v": "2022.10.08",
     "desc": "Linter for JavaScript/ReactJS, using 'ESLint' (requires Node.js)"
   },
   {
@@ -326,7 +326,7 @@
   {
     "module": "cuda_lint_markdownlint",
     "url": "https://sourceforge.net/projects/cudatext/files/addons/linters/linter.Markdown_using_markdownlint.zip",
-    "v": "2022.10.02.1",
+    "v": "2022.10.08",
     "desc": "Linter for Markdown, using 'markdownlint'"
   },
   {
