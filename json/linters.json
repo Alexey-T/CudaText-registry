@@ -182,7 +182,7 @@
   {
     "module": "cuda_lint_csslint",
     "url": "https://sourceforge.net/projects/cudatext/files/addons/linters/linter.CSS_using_csslint.zip",
-    "v": "2016.07.05",
+    "v": "2022.10.08",
     "desc": "Linter for CSS, using 'csslint' (requires Node.js)"
   },
   {
@@ -290,7 +290,7 @@
   {
     "module": "cuda_lint_jshint",
     "url": "https://sourceforge.net/projects/cudatext/files/addons/linters/linter.JavaScript_using_jshint.zip",
-    "v": "2019.06.20",
+    "v": "2022.10.08",
     "desc": "Linter for JavaScript, using 'JSHint' (requires Node.js)"
   },
   {
