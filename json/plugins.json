@@ -268,7 +268,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.ExTerminal.zip",
     "desc": "Emulates OS Terminal, mimics terminal w/o separate input field",
     "module": "cuda_exterminal",
-    "v": "2022.09.25.1"
+    "v": "2022.10.22"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Extract_Strings.zip",
@@ -382,7 +382,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Git_Status.zip",
     "desc": "Shows Git branch info in the statusbar",
     "module": "cuda_git_status",
-    "v": "2022.10.12"
+    "v": "2022.10.22"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.GitHub_Gist.zip",
