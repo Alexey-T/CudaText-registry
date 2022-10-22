@@ -314,7 +314,7 @@
   {
     "module": "cuda_lint_jsonnetlint",
     "url": "https://sourceforge.net/projects/cudatext/files/addons/linters/linter.Jsonnet_using_jsonnetlint.zip",
-    "v": "2022.10.21",
+    "v": "2022.10.22",
     "desc": "Linter for Jsonnet, using 'jsonnet-lint'"
   },
   {
