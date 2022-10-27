@@ -105,7 +105,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Commands_History.zip",
     "desc": "Quick access to recently accessed menu and palette commands",
     "module": "cuda_cmd_history",
-    "v": "2022.10.27"
+    "v": "2022.10.27.1"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Complete_From_Text.zip",
