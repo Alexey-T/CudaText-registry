@@ -373,6 +373,13 @@
     "v": "2022.06.26"
   },
   {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.SFTP_Support_for_Windows_py311.zip",
+    "desc": "Supports SFTP in FTP plugin, Windows x32/x64, Python 3.11",
+    "module": "cuda_ftp_libs_py311",
+    "req": "plugin.FTP",
+    "v": "2022.10.30"
+  },
+  {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Git_Conflict_Solver.zip",
     "desc": "Gives command to solve Git merge conflicts",
     "module": "cuda_git_conflict",
