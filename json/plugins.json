@@ -196,7 +196,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.DevDocs.zip",
     "desc": "Performs search on DevDocs site",
     "module": "cuda_devdocs",
-    "v": "2015.10.06"
+    "v": "2022.11.05"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Differ.zip",
@@ -503,7 +503,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Markdown_Preview.zip",
     "desc": "Previews Markdown text as HTML in browser",
     "module": "cuda_markdown_preview",
-    "v": "2022.10.31"
+    "v": "2022.11.05"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Markdown_Special_Paste.zip",
@@ -624,7 +624,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Snippets.zip",
     "desc": "Snippets engine; it's described in CudaText Wiki",
     "module": "cuda_snippets",
-    "v": "2022.06.16"
+    "v": "2022.11.05"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Spell_Checker.zip",
