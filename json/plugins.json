@@ -503,7 +503,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Markdown_Preview.zip",
     "desc": "Previews Markdown text as HTML in browser",
     "module": "cuda_markdown_preview",
-    "v": "2022.11.05"
+    "v": "2022.11.05.1"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Markdown_Special_Paste.zip",
