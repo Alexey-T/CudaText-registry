@@ -195,9 +195,9 @@
     "v": "2016.12.07"
   },
   {
-    "url": "https://sourceforge.net/projects/cudatext/files/addons/filetypeicons/filetypeicons.vscode_material_24x24.zip",
-    "desc": "",
-    "v": "2022.10.08"
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/filetypeicons/filetypeicons.VSCode.zip",
+    "desc": "Icons from VSCode, in sizes 24/32/48/64",
+    "v": "2022.11.15"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/proj_toolbar_icons/projtoolbaricons.Axialis_Flat_Pro_2017_Icons_16x16.zip",
