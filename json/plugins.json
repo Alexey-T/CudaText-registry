@@ -166,7 +166,7 @@
     "desc": "Highlightes columns in CSV files with different colors",
     "module": "cuda_csv_hilite",
     "req": "lexer.CSV,lexer.TSV",
-    "v": "2021.03.13"
+    "v": "2022.11.26"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.CudaFormatter.zip",
