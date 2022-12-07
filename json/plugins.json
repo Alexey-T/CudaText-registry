@@ -521,7 +521,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Modeline.zip",
     "desc": "Modeline like in VIM but specific to CudaText",
     "module": "cuda_modeline",
-    "v": "2022.09.02"
+    "v": "2022.12.07"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.NTFS_Streams.zip",
