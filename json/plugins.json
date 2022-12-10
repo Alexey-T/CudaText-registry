@@ -648,7 +648,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Suggest_Untitled_Filename.zip",
     "desc": "Suggests filename from text, on 'Save as' for untitled documents",
     "module": "cuda_suggest_new",
-    "v": "2021.06.24"
+    "v": "2022.12.10"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Sum_Lines.zip",
