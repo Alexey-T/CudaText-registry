@@ -190,7 +190,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Deep_Translator.zip",
     "desc": "Translation of texts through the Deep Translator",
     "module": "cuda_deep_translator",
-    "v": "2022.12.31"
+    "v": "2023.01.08"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Detect_Indent.zip",
