@@ -755,9 +755,9 @@
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Transpose.zip",
-    "desc": "It's like Transpose command in Sublime Text",
+    "desc": "Almost mimics Transpose command from Sublime Text",
     "module": "cuda_transpose",
-    "v": "2023.01.13.1"
+    "v": "2023.01.30"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/treehelpers/treehelper.HTML_XML.zip",
