@@ -19,9 +19,9 @@
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Auto_Save.zip",
-    "desc": "Auto-saves modified files: by timer, on closing file, on loosing focus",
+    "desc": "Auto-saves modified files: by timer / on closing file / etc",
     "module": "cuda_auto_save",
-    "v": "2023.01.03"
+    "v": "2023.02.03"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.AutoIt_Helper.zip",
