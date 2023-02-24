@@ -115,6 +115,7 @@ PLUGINS={
             'HTML_XML',
             ),
         T_OTHER:(
+            'Emmet',
             'HTML_Live_Preview',
             'HTML_Ops',
             'HTML_Tooltips',
