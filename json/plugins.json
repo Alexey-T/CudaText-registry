@@ -45,7 +45,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Breadcrumbs.zip",
     "desc": "Widget for file-system navigation (breadcrumb bar)",
     "module": "cuda_breadcrumbs",
-    "v": "2022.10.20"
+    "v": "2023.02.27"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Bulma_Completion.zip",
