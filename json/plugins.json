@@ -636,7 +636,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Show_Unsaved_Changes_(diff).zip",
     "desc": "Shows differences between disk file and current editor text",
     "module": "cuda_show_unsaved",
-    "v": "2023.02.24"
+    "v": "2023.02.27"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Snippets.zip",
