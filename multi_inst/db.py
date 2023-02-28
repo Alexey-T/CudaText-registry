@@ -339,6 +339,7 @@ PLUGINS={
             'Runner',
             'Session_Manager',
             'Show_Unicode_Name',
+            'Show_Unsaved_Changes_(diff)',
             'Snippets',
             'Spell_Checker',
             'Sync_Scroll',
@@ -346,6 +347,7 @@ PLUGINS={
             'Tab_Icons',
             'Terminal_Plus',
             'Text_Statistics',
+            'Transpose',
             ),
         },
     }
