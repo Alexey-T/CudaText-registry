@@ -3,7 +3,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Auto_Center_Line.zip",
     "desc": "Keeps current line in the center of editor window",
     "module": "cuda_auto_center_line",
-    "v": "2018.10.28"
+    "v": "2023.03.04"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Auto_Copy_to_Clipboard.zip",
