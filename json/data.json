@@ -45,6 +45,11 @@
     "v": "2023.03.06"
   },
   {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugintranslation/plugintranslation.Misc-it_IT.zip",
+    "desc": "Translation (it_IT) for many plugins",
+    "v": "2023.03.09"
+  },
+  {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugintranslation/plugintranslation.Preinstalled-de_AT.zip",
     "desc": "Translation (de_AT) for preinstalled plugins",
     "v": "2023.03.06"
@@ -57,7 +62,7 @@
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugintranslation/plugintranslation.Preinstalled-it_IT.zip",
     "desc": "Translation (it_IT) for preinstalled plugins",
-    "v": "2023.02.21"
+    "v": "2023.03.09"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugintranslation/plugintranslation.Preinstalled-pt_PT.zip",
