@@ -630,7 +630,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Show_Unicode_Name.zip",
     "desc": "Shows in the statusbar Unicode name of char under caret",
     "module": "cuda_show_unicode_name",
-    "v": "2022.09.17"
+    "v": "2023.03.18"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Show_Unsaved_Changes_(diff).zip",
