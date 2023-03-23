@@ -310,7 +310,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Folding_Caption.zip",
     "desc": "Shows folding 'chain' on the top, for caret position",
     "module": "cuda_folding_caption",
-    "v": "2023.03.22.1"
+    "v": "2023.03.23"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Font_Awesome.zip",
