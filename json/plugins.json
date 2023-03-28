@@ -280,7 +280,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.ExTerminal.zip",
     "desc": "Emulates OS Terminal, mimics terminal w/o separate input field",
     "module": "cuda_exterminal",
-    "v": "2023.03.23"
+    "v": "2023.03.27"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Extract_Strings.zip",
