@@ -542,6 +542,12 @@
     "v": "2018.01.09"
   },
   {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.MO_File_Viewer.zip",
+    "desc": "Dialog to show contents of *.mo files",
+    "module": "cuda_mo_file_viewer",
+    "v": "2023.04.02"
+  },
+  {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Modeline.zip",
     "desc": "Modeline like in VIM but specific to CudaText",
     "module": "cuda_modeline",
