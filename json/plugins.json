@@ -545,7 +545,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.MO_File_Viewer.zip",
     "desc": "Dialog to show contents of *.mo files",
     "module": "cuda_mo_file_viewer",
-    "v": "2023.04.07"
+    "v": "2023.04.07.1"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Modeline.zip",
