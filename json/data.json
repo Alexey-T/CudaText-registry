@@ -35,6 +35,16 @@
     "v": "2018.08.15"
   },
   {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/codetreeicons/codetreeicons.VSCode_dark.zip",
+    "desc": "",
+    "v": "2023.04.23"
+  },
+  {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/codetreeicons/codetreeicons.VSCode_light.zip",
+    "desc": "",
+    "v": "2023.04.23"
+  },
+  {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugintranslation/plugintranslation.kvichans-de_AT.zip",
     "desc": "Translation (de_AT) for kvichans' plugins",
     "v": "2023.04.05"
