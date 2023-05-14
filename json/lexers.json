@@ -708,7 +708,7 @@
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/lexers/lexer.JavaScript_Babel.zip",
     "desc": "",
-    "v": "2021.04.18"
+    "v": "2023.05.14"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/lexers/lexer.JavaScript_(ES6).zip",
@@ -849,7 +849,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/lexers/lexer.MDX.zip",
     "desc": "",
     "req": "lexer.JavaScript_Babel",
-    "v": "2023.05.12.1"
+    "v": "2023.05.14"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/lexers/lexer.MediaWiki.zip",
