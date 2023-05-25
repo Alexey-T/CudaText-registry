@@ -186,6 +186,9 @@ PLUGINS={
             ),
         },
     'PHP':{
+        T_LEXER:(
+            'PHP',
+            ),
         T_LINTER:(
             'PHP_using_phpcs',
             'PHP_using_phpl',
