@@ -68,7 +68,7 @@
   {
     "module": "cuda_fmt_js",
     "url": "https://sourceforge.net/projects/cudatext/files/addons/formatters/formatter.JavaScript_JSON.zip",
-    "v": "2023.08.26",
+    "v": "2023.08.26.1",
     "desc": "Formatters for JavaScript and JSON"
   },
   {
