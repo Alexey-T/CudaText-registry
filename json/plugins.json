@@ -654,7 +654,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.reStructuredText_Preview.zip",
     "desc": "Previews reStructuredText file as HTML in browser",
     "module": "cuda_rest_preview",
-    "v": "2016.04.06"
+    "v": "2023.09.03"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Runner.zip",
