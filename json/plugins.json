@@ -593,7 +593,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Online_Search.zip",
     "desc": "Opens browser with search for selected text",
     "module": "cuda_online_search",
-    "v": "2023.09.02"
+    "v": "2023.09.06"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Open_URL.zip",
