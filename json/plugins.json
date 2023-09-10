@@ -123,7 +123,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Complete_From_Text.zip",
     "desc": "Handles Ctrl+Space, suggests words from current file / all opened files",
     "module": "cuda_complete_from_text",
-    "v": "2023.07.05"
+    "v": "2023.09.10"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Complete_HTML_Text.zip",
