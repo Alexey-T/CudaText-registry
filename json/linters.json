@@ -74,7 +74,7 @@
   {
     "module": "cuda_fmt_lua",
     "url": "https://sourceforge.net/projects/cudatext/files/addons/formatters/formatter.Lua.zip",
-    "v": "2019.07.14",
+    "v": "2023.09.28",
     "desc": "Formatter for Lua"
   },
   {
