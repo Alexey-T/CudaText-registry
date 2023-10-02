@@ -533,7 +533,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Markdown_Editing.zip",
     "desc": "Various helpers for editing of Markdown documents",
     "module": "cuda_markdown_editing",
-    "v": "2021.06.17"
+    "v": "2023.10.02"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Markdown_Image.zip",
