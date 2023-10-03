@@ -417,11 +417,21 @@
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/packages/package.Windows_Python311_32bit.zip",
     "desc": "",
-    "v": "2023.06.12"
+    "v": "2023.10.03"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/packages/package.Windows_Python311_64bit.zip",
     "desc": "",
-    "v": "2023.06.12"
+    "v": "2023.10.03"
+  },
+  {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/packages/package.Windows_Python312_32bit.zip",
+    "desc": "",
+    "v": "2023.10.03"
+  },
+  {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/packages/package.Windows_Python312_64bit.zip",
+    "desc": "",
+    "v": "2023.10.03"
   }
 ]
