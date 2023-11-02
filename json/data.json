@@ -25,6 +25,11 @@
     "v": "2022.08.15"
   },
   {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/buildsystems/buildsystem.Zig.zip",
+    "desc": "Build-system for Zig",
+    "v": "2023.11.02"
+  },
+  {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/codetreeicons/codetreeicons.Axialis_Flat_Pro_2017.zip",
     "desc": "",
     "v": "2018.04.25"
