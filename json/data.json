@@ -1,8 +1,18 @@
 [
   {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/buildsystems/buildsystem.C_using_GCC.zip",
+    "desc": "Build-system for C using GCC",
+    "v": "2023.11.02"
+  },
+  {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/buildsystems/buildsystem.C++_using_G++.zip",
     "desc": "Build-system for C++ using G++ compiler",
     "v": "2021.10.28"
+  },
+  {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/buildsystems/buildsystem.D.zip",
+    "desc": "Build-system for D",
+    "v": "2023.11.02"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/buildsystems/buildsystem.DXL.zip",
@@ -10,9 +20,34 @@
     "v": "2021.03.18"
   },
   {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/buildsystems/buildsystem.Erlang.zip",
+    "desc": "Build-system for Erlang",
+    "v": "2023.11.02"
+  },
+  {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/buildsystems/buildsystem.Free_Pascal.zip",
     "desc": "Build-system for Free Pascal",
     "v": "2022.04.07"
+  },
+  {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/buildsystems/buildsystem.Graphviz.zip",
+    "desc": "Build-system for Graphviz",
+    "v": "2023.11.02"
+  },
+  {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/buildsystems/buildsystem.Haskell.zip",
+    "desc": "Build-system for Haskell",
+    "v": "2023.11.02"
+  },
+  {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/buildsystems/buildsystem.Java.zip",
+    "desc": "Build-system for Java",
+    "v": "2023.11.02"
+  },
+  {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/buildsystems/buildsystem.Lua.zip",
+    "desc": "Build-system for Lua",
+    "v": "2023.11.02"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/buildsystems/buildsystem.Many_Build_Systems.zip",
@@ -20,9 +55,29 @@
     "v": "2022.04.07"
   },
   {
-    "url": "https://sourceforge.net/projects/cudatext/files/addons/buildsystems/buildsystem.Many_Build_Systems_from_ST4.zip",
-    "desc": "Build-systems from standard ST4 packages",
-    "v": "2022.08.15"
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/buildsystems/buildsystem.Perl.zip",
+    "desc": "Build-system for Perl",
+    "v": "2023.11.02"
+  },
+  {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/buildsystems/buildsystem.Python.zip",
+    "desc": "Build-system for Python",
+    "v": "2023.11.02"
+  },
+  {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/buildsystems/buildsystem.R.zip",
+    "desc": "Build-system for R",
+    "v": "2023.11.02"
+  },
+  {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/buildsystems/buildsystem.Ruby.zip",
+    "desc": "Build-system for Ruby",
+    "v": "2023.11.02"
+  },
+  {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/buildsystems/buildsystem.Rust.zip",
+    "desc": "Build-system for Rust",
+    "v": "2023.11.02"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/buildsystems/buildsystem.Zig.zip",
