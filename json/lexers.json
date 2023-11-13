@@ -1404,6 +1404,11 @@
     "v": "2022.12.18"
   },
   {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/lexers/lexer.Todo.txt.zip",
+    "desc": "Lexer for http://todotxt.org",
+    "v": "2023.11.13"
+  },
+  {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/lexers/lexer.TOML.zip",
     "desc": "",
     "v": "2015.01.12"
