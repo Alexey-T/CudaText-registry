@@ -340,11 +340,6 @@
     "v": "2021.08.10.1"
   },
   {
-    "url": "https://sourceforge.net/projects/cudatext/files/addons/lexers/lexer.CSV.zip",
-    "desc": "",
-    "v": "2018.06.10"
-  },
-  {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/lexers/lexer.CUDA_C++.zip",
     "desc": "",
     "v": "2015.01.19"
@@ -1422,11 +1417,6 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/lexers/lexer.Tree.zip",
     "desc": "",
     "v": "2020.06.29"
-  },
-  {
-    "url": "https://sourceforge.net/projects/cudatext/files/addons/lexers/lexer.TSV.zip",
-    "desc": "",
-    "v": "2020.03.19"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/lexers/lexer.T-SQL.zip",
