@@ -431,7 +431,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Git_Status.zip",
     "desc": "Shows Git info in the statusbar",
     "module": "cuda_git_status",
-    "v": "2023.12.16"
+    "v": "2023.12.25"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.GitHub_Gist.zip",
