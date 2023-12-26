@@ -6,12 +6,6 @@
     "v": "2023.03.06"
   },
   {
-    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Auto_Copy_to_Clipboard.zip",
-    "desc": "Auto-copies selected block to clipboard",
-    "module": "cuda_auto_copy",
-    "v": "2018.12.06"
-  },
-  {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Auto_Replace.zip",
     "desc": "Auto-changes case of typed identifiers/keywords, via snippets",
     "module": "cuda_auto_replace",
