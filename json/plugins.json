@@ -455,7 +455,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Highlight_Variables.zip",
     "desc": "Highlights 'variables' inside string literals (Bash/Python/Perl/etc)",
     "module": "cuda_hilite_vars",
-    "v": "2024.01.02"
+    "v": "2024.01.04"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.HTML_Completion.zip",
