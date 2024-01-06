@@ -135,7 +135,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Console_Auto-Completion.zip",
     "desc": "Provides Python auto-completion in the Console bottom panel",
     "module": "cuda_console_complete",
-    "v": "2023.03.28"
+    "v": "2024.01.06"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Converter_JSON-YAML.zip",
