@@ -685,7 +685,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Snippets.zip",
     "desc": "Snippets engine; it's described in the CudaText Wiki",
     "module": "cuda_snippets",
-    "v": "2024.01.13.1"
+    "v": "2024.01.14"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Spell_Checker.zip",
