@@ -351,7 +351,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Scratches.zip",
     "desc": "Lite-analog of Scratches from JetBrains (C)",
     "module": "cuda_scratches",
-    "v": "2024.01.15"
+    "v": "2024.01.16"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.SFTP_Support_for_Windows_py35.zip",
