@@ -273,6 +273,7 @@ PLUGINS={
             ),
         T_OTHER:(
             'Markdown_Editing',
+            'Markdown_Image',
             'Markdown_Preview',
             'Markdown_Special_Paste',
             'reStructuredText_Helper',
