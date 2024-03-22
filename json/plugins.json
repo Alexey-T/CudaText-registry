@@ -636,7 +636,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Python_IntelliSense.zip",
     "desc": "Code IntelliSense for Python, based on Jedi library",
     "module": "cuda_python_intel",
-    "v": "2024.03.21"
+    "v": "2024.03.22"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.pywin32.zip",
