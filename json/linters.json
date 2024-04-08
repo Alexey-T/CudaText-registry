@@ -62,7 +62,7 @@
   {
     "module": "cuda_fmt_html_soup",
     "url": "https://sourceforge.net/projects/cudatext/files/addons/formatters/formatter.HTML_Soup.zip",
-    "v": "2024.01.28",
+    "v": "2024.04.08",
     "desc": "Formatter for HTML: Soup"
   },
   {
