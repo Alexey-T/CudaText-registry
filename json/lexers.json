@@ -852,7 +852,7 @@
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/lexers/lexer.MDX.zip",
-    "desc": "",
+    "desc": "Markdown + JSX",
     "req": "lexer.JavaScript_Babel",
     "v": "2023.05.24"
   },
