@@ -213,6 +213,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Differ.zip",
     "desc": "Compares 2 files and shows them side-by-side",
     "module": "cuda_differ",
+    "req": "lexer.Diff",
     "v": "2024.03.20"
   },
   {
