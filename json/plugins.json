@@ -213,7 +213,6 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Differ.zip",
     "desc": "Compares 2 files and shows them side-by-side",
     "module": "cuda_differ",
-    "req": "lexer.Diff",
     "v": "2024.03.20"
   },
   {
@@ -426,6 +425,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Git_Status.zip",
     "desc": "Shows Git info in the statusbar",
     "module": "cuda_git_status",
+    "req": "lexer.Diff",
     "v": "2024.01.16"
   },
   {
