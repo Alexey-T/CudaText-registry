@@ -782,7 +782,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Testing_of_dialog_API.zip",
     "desc": "Testing plugin for CudaText dialog API",
     "module": "cuda_testing_dlg_proc",
-    "v": "2022.03.10"
+    "v": "2024.06.10"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Testing_of_gaps_API.zip",
