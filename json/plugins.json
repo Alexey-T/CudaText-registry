@@ -309,7 +309,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Focus_Mode.zip",
     "desc": "Shades all lines except current paragraph",
     "module": "cuda_focus_mode",
-    "v": "2023.02.13"
+    "v": "2024.08.24"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Folding_Caption.zip",
