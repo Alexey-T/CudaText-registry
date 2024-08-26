@@ -758,7 +758,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Tab-Rename.zip",
     "desc": "Allows to rename too long ui-tab titles",
     "module": "cuda_tab_rename",
-    "v": "2023.03.11"
+    "v": "2024.08.26"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Terminal.zip",
