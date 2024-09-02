@@ -107,12 +107,12 @@
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugintranslation/plugintranslation.kvichans-de_AT.zip",
     "desc": "Translation (de_AT) for kvichans' plugins",
-    "v": "2024.03.28"
+    "v": "2024.09.02"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugintranslation/plugintranslation.Misc-de_AT.zip",
     "desc": "Translation (de_AT) for many plugins",
-    "v": "2024.08.25"
+    "v": "2024.09.02"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugintranslation/plugintranslation.Misc-it_IT.zip",
@@ -122,7 +122,7 @@
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugintranslation/plugintranslation.Preinstalled-de_AT.zip",
     "desc": "Translation (de_AT) for preinstalled plugins",
-    "v": "2024.07.17"
+    "v": "2024.09.02"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugintranslation/plugintranslation.Preinstalled-de_DE.zip",
@@ -147,7 +147,7 @@
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/translations/translation.de_AT.zip",
     "desc": "German/Austria translation",
-    "v": "2024.08.19"
+    "v": "2024.09.02"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/translations/translation.de_DE_1.zip",
@@ -177,7 +177,7 @@
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/translations/translation.it_IT_4.zip",
     "desc": "Italian translation, by hexaae/bovirus",
-    "v": "2024.08.18.1"
+    "v": "2024.09.02"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/translations/translation.ja_JP.zip",
@@ -207,7 +207,7 @@
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/translations/translation.zh_CN.zip",
     "desc": "Chinese Simplified translation, by Kirk",
-    "v": "2024.08.19"
+    "v": "2024.09.02"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/translations/translation.zh_CN_2.zip",
