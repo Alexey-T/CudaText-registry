@@ -348,8 +348,14 @@
     "v": "2024.04.18"
   },
   {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Scope_Description.zip",
+    "desc": "For C, C++: shows function signature after function end",
+    "module": "cuda_scope_description",
+    "v": "2024.09.19"
+  },
+  {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Scratches.zip",
-    "desc": "Lite-analog of Scratches from JetBrains (C)",
+    "desc": "Lite analog of Scratches from JetBrains (C)",
     "module": "cuda_scratches",
     "v": "2024.01.16"
   },
