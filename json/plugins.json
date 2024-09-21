@@ -540,7 +540,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.LSP_Client.zip",
     "desc": "Supports LSP protocol for IntelliSense",
     "module": "cuda_lsp",
-    "v": "2024.07.25"
+    "v": "2024.09.21"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Markdown_Editing.zip",
