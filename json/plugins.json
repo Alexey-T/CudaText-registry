@@ -330,6 +330,12 @@
     "v": "2022.07.10.1"
   },
   {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Font_Preview.zip",
+    "desc": "On opening font-files, previews them in webbrowser",
+    "module": "cuda_font_preview",
+    "v": "2024.09.24"
+  },
+  {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.FontStorage.zip",
     "desc": "Inserts into CSS code fonts from FontStorage.com",
     "module": "cuda_webfont",
