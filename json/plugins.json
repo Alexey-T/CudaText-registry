@@ -333,7 +333,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Font_Preview.zip",
     "desc": "On opening font-files, previews them in webbrowser",
     "module": "cuda_font_preview",
-    "v": "2024.09.24"
+    "v": "2024.09.25"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.FontStorage.zip",
