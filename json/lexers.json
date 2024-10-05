@@ -325,6 +325,11 @@
     "v": "2019.09.28"
   },
   {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/lexers/lexer.Common_Lisp.zip",
+    "desc": "",
+    "v": "2024.10.05"
+  },
+  {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/lexers/lexer.Coq.zip",
     "desc": "",
     "v": "2021.08.14"
