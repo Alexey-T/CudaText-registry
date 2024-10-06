@@ -211,6 +211,8 @@ PLUGINS={
             'MySQL_SQL',
             'MySQL_Stored_Procedures',
             'PL-SQL',
+            'SQL',
+            'Snowflake_SQL',
             'T-SQL',
             ),
         T_FMT:(
