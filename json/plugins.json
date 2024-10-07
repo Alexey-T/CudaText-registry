@@ -237,7 +237,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.EditorConfig_Support.zip",
     "desc": "Supports EditorConfig system",
     "module": "cuda_editorconfig",
-    "v": "2019.04.05.2"
+    "v": "2024.10.07"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Edits_Navigation.zip",
