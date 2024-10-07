@@ -1582,5 +1582,10 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/lexers/lexer.Zig.zip",
     "desc": "",
     "v": "2021.02.01.3"
+  },
+  {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/lexers/lexer.Ziggy.zip",
+    "desc": "",
+    "v": "2024.10.07"
   }
 ]
