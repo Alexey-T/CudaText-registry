@@ -438,7 +438,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Git_Blame.zip",
     "desc": "Shows Git 'blame' info for current line",
     "module": "cuda_git_blame",
-    "v": "2023.12.29"
+    "v": "2024.10.17"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Git_Status.zip",
