@@ -1217,6 +1217,11 @@
     "v": "2017.06.06"
   },
   {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/lexers/lexer.Ring.zip",
+    "desc": "",
+    "v": "2024.10.17"
+  },
+  {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/lexers/lexer.R_Markdown.zip",
     "desc": "",
     "req": "lexer.R",
