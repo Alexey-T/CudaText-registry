@@ -67,6 +67,9 @@ PLUGINS={
             ),
         },
     'Lua':{
+        T_LEXER:(
+            'Lua',
+            ),
         T_LINTER:(
             'Lua_using_luac',
             'Lua_using_luau',
