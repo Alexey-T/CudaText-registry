@@ -481,7 +481,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Hotspots.zip",
     "desc": "Shows panel: all bookmarks + Git modified/untracked files",
     "module": "cuda_hotspots",
-    "v": "2024.02.22"
+    "v": "2024.11.02"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.HTML_Completion.zip",
