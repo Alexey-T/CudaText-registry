@@ -279,7 +279,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Extended_Selection.zip",
     "desc": "Extend double/triple-click selection while holding Shift",
     "module": "cuda_extended_selection",
-    "v": "2021.02.20"
+    "v": "2024.11.05"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.ExTerminal.zip",
