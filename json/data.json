@@ -215,6 +215,11 @@
     "v": "2022.10.09"
   },
   {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/translations/translation.zh_TW.zip",
+    "desc": "Chinese Traditional translation, by startgo Yeh",
+    "v": "2024.12.15"
+  },
+  {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/filetypeicons/filetypeicons.VSCode.zip",
     "desc": "Icons from VSCode, in sizes 24/32/48/64",
     "v": "2024.01.06"
