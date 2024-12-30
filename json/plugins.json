@@ -523,7 +523,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Insert_Pics.zip",
     "desc": "Inserts picture-files into text (using helper file)",
     "module": "cuda_insert_pics",
-    "v": "2024.12.29"
+    "v": "2024.12.30"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.IP_Address_Helper.zip",
