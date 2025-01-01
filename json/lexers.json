@@ -1157,6 +1157,11 @@
     "v": "2014.12.04"
   },
   {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/lexers/lexer.PureBasic.zip",
+    "desc": "",
+    "v": "2025.01.01"
+  },
+  {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/lexers/lexer.PureScript.zip",
     "desc": "",
     "v": "2024.09.08"
@@ -1260,7 +1265,7 @@
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/lexers/lexer.Rust.zip",
     "desc": "",
-    "v": "2024.05.31.1"
+    "v": "2024.12.31"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/lexers/lexer.R.zip",
