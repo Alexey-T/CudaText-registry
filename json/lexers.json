@@ -552,7 +552,7 @@
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/lexers/lexer.Go.zip",
     "desc": "",
-    "v": "2020.07.02"
+    "v": "2025.01.21"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/lexers/lexer.Gold_Parser.zip",
@@ -1035,6 +1035,11 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/lexers/lexer.Org-mode.zip",
     "desc": "",
     "v": "2018.03.04"
+  },
+  {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/lexers/lexer.P4.zip",
+    "desc": "",
+    "v": "2025.01.21"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/lexers/lexer.Papyrus.zip",
