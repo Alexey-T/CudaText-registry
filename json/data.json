@@ -161,12 +161,12 @@
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/translations/translation.fr_CH.zip",
-    "desc": "French translation (Switzerland)",
+    "desc": "French/Switzerland translation, by Chabloz Régis",
     "v": "2025.02.11"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/translations/translation.fr_FR.zip",
-    "desc": "French translation (France)",
+    "desc": "French/France translation, by Jean van Kasteel & fwhcat & Vivalzar",
     "v": "2025.02.11"
   },
   {
