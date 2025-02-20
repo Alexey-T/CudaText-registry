@@ -1,5 +1,11 @@
 [
   {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.AI_Local.zip",
+    "desc": "Connects to Ollama to use a Large Language Model (LLM) locally",
+    "module": "cuda_ailocal",
+    "v": "2025.02.20"
+  },
+  {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Auto_Center_Line.zip",
     "desc": "Keeps current line in the center of editor window",
     "module": "cuda_auto_center_line",
