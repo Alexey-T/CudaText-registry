@@ -266,7 +266,7 @@
   {
     "module": "cuda_lint_htmltidy",
     "url": "https://sourceforge.net/projects/cudatext/files/addons/linters/linter.HTML_using_htmltidy.zip",
-    "v": "2016.07.04",
+    "v": "2025.02.26",
     "desc": "Linter for HTML, using 'HTML Tidy'"
   },
   {
