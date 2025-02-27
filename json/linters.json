@@ -182,7 +182,7 @@
   {
     "module": "cuda_lint_csslint",
     "url": "https://sourceforge.net/projects/cudatext/files/addons/linters/linter.CSS_using_csslint.zip",
-    "v": "2022.10.08",
+    "v": "2025.02.27",
     "desc": "Linter for CSS, using 'csslint' (requires Node.js)"
   },
   {
