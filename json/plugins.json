@@ -225,7 +225,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Discord_Status.zip",
     "desc": "Shows your work status in the Discord messanger",
     "module": "cuda_discord_status",
-    "v": "2022.03.13"
+    "v": "2025.03.01"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.DocBlock_Comments.zip",
