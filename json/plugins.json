@@ -3,7 +3,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.AI_Local.zip",
     "desc": "Connects to Ollama to use a Large Language Model (LLM) locally",
     "module": "cuda_ailocal",
-    "v": "2025.02.28"
+    "v": "2025.03.02"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Auto_Center_Line.zip",
@@ -87,7 +87,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Codeium.zip",
     "desc": "Codeium AI completions in your editor",
     "module": "cuda_codeium",
-    "v": "2024.04.26.1"
+    "v": "2025.03.02"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Color_Picker.zip",
@@ -273,7 +273,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Encode.zip",
     "desc": "Converts text using many 'codings transformations'",
     "module": "cuda_encode",
-    "v": "2023.12.08.2"
+    "v": "2025.03.02"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Explorer_Integration.zip",
@@ -656,7 +656,7 @@
     "desc": "ToDo list (task list) with many features",
     "module": "cuda_plain_tasks",
     "req": "lexer.ToDo",
-    "v": "2022.10.04.1"
+    "v": "2025.03.02"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Python_IntelliSense.zip",
