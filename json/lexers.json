@@ -1059,7 +1059,7 @@
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/lexers/lexer.Pascal.zip",
     "desc": "",
-    "v": "2025.01.12"
+    "v": "2025.04.01"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/lexers/lexer.Pawn.zip",
@@ -1487,6 +1487,11 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/lexers/lexer.TypeScript.zip",
     "desc": "",
     "v": "2021.09.15"
+  },
+  {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/lexers/lexer.Typst.zip",
+    "desc": "",
+    "v": "2025.03.24.3"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/lexers/lexer.Umka.zip",
