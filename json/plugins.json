@@ -853,6 +853,12 @@
     "v": "2025.03.20"
   },
   {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/treehelpers/treehelper.ToDo.zip",
+    "desc": "TreeHelper for ToDo",
+    "module": "cuda_tree_todo",
+    "v": "2025.04.13"
+  },
+  {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Vim_Mode.zip",
     "desc": "Allows to use Vim key bindings",
     "module": "cuda_vim_mode",
