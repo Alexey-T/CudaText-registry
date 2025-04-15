@@ -856,7 +856,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/treehelpers/treehelper.ToDo.zip",
     "desc": "TreeHelper for ToDo, for plugin 'Plain Tasks'",
     "module": "cuda_tree_todo",
-    "v": "2025.04.14"
+    "v": "2025.04.15"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Vim_Mode.zip",
