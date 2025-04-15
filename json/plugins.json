@@ -856,7 +856,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/treehelpers/treehelper.ToDo.zip",
     "desc": "TreeHelper for ToDo, for plugin 'Plain Tasks'",
     "module": "cuda_tree_todo",
-    "req": "cuda_detect_indent",
+    "req": "plugin.Detect_Indent",
     "v": "2025.04.15"
   },
   {
