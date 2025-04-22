@@ -835,6 +835,24 @@
     "v": "2023.03.01"
   },
   {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Vim_Mode.zip",
+    "desc": "Allows to use Vim key bindings",
+    "module": "cuda_vim_mode",
+    "v": "2023.05.28"
+  },
+  {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.WikidPad_Helper.zip",
+    "desc": "Handles double-click on WikidPad wiki links",
+    "module": "cuda_wikidpad_helper",
+    "v": "2022.04.20"
+  },
+  {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Windows_Portable_Fonts.zip",
+    "desc": "Uses font files in CudaText, w/o installing them to OS",
+    "module": "cuda_fonts",
+    "v": "2021.06.22"
+  },
+  {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/treehelpers/treehelper.HTML_XML.zip",
     "desc": "TreeHelper for HTML/XML",
     "module": "cuda_tree_xml",
@@ -858,23 +876,5 @@
     "module": "cuda_tree_todo",
     "req": "plugin.Detect_Indent",
     "v": "2025.04.22.1"
-  },
-  {
-    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Vim_Mode.zip",
-    "desc": "Allows to use Vim key bindings",
-    "module": "cuda_vim_mode",
-    "v": "2023.05.28"
-  },
-  {
-    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.WikidPad_Helper.zip",
-    "desc": "Handles double-click on WikidPad wiki links",
-    "module": "cuda_wikidpad_helper",
-    "v": "2022.04.20"
-  },
-  {
-    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Windows_Portable_Fonts.zip",
-    "desc": "Uses font files in CudaText, w/o installing them to OS",
-    "module": "cuda_fonts",
-    "v": "2021.06.22"
   }
 ]
