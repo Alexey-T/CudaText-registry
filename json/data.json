@@ -210,8 +210,13 @@
     "v": "2025.04.27"
   },
   {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/translations/translation.ta_CE.zip",
+    "desc": "Tamil / Sri Lanka translation",
+    "v": "2025.05.04"
+  },
+  {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/translations/translation.ta_IN.zip",
-    "desc": "Tamil/India translation",
+    "desc": "Tamil / India translation",
     "v": "2025.05.04"
   },
   {
