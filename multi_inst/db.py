@@ -287,6 +287,10 @@ PLUGINS={
             ),
         },
     'C/C++':{
+        T_LEXER:(
+            'C',
+            'C++',
+            ),
         T_LINTER:(
             'C++_using_cppcheck',
             'C++_using_cpplint',
