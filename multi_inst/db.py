@@ -311,6 +311,7 @@ PLUGINS={
         },
     'Ruby':{
         T_LEXER:(
+            'Ruby',
             'HTML_Ruby-ERB',
             ),
         T_LINTER:(
