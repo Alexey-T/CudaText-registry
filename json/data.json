@@ -20,41 +20,6 @@
     "v": "2023.04.23"
   },
   {
-    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugintranslation/plugintranslation.kvichans-de_AT.zip",
-    "desc": "Translation (de_AT) for kvichans' plugins",
-    "v": "2025.04.13"
-  },
-  {
-    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugintranslation/plugintranslation.Misc-de_AT.zip",
-    "desc": "Translation (de_AT) for many plugins",
-    "v": "2025.04.23"
-  },
-  {
-    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugintranslation/plugintranslation.Misc-it_IT.zip",
-    "desc": "Translation (it_IT) for many plugins",
-    "v": "2023.03.30"
-  },
-  {
-    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugintranslation/plugintranslation.Preinstalled-de_AT.zip",
-    "desc": "Translation (de_AT) for preinstalled plugins",
-    "v": "2024.11.16"
-  },
-  {
-    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugintranslation/plugintranslation.Preinstalled-de_DE.zip",
-    "desc": "Translation (de_DE) for preinstalled plugins",
-    "v": "2019.11.24"
-  },
-  {
-    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugintranslation/plugintranslation.Preinstalled-it_IT.zip",
-    "desc": "Translation (it_IT) for preinstalled plugins",
-    "v": "2023.03.09"
-  },
-  {
-    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugintranslation/plugintranslation.Preinstalled-pt_PT.zip",
-    "desc": "Translation (pt_PT) for preinstalled plugins",
-    "v": "2024.01.26"
-  },
-  {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/translations/translation.cz_CZ.zip",
     "desc": "Czech translation",
     "v": "2025.04.27"
@@ -62,12 +27,12 @@
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/translations/translation.de_AT.zip",
     "desc": "German/Austria translation",
-    "v": "2024.11.04"
+    "v": "2025.05.25"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/translations/translation.de_DE.zip",
     "desc": "German/Germany translation, by Tom Braider / Andreas Heim / adoeller",
-    "v": "2025.01.31"
+    "v": "2025.05.25"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/translations/translation.es_ES.zip",
@@ -85,14 +50,9 @@
     "v": "2025.02.11"
   },
   {
-    "url": "https://sourceforge.net/projects/cudatext/files/addons/translations/translation.it_IT_1.zip",
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/translations/translation.it_IT.zip",
     "desc": "Italian translation, by skarsgal/hexaae",
-    "v": "2025.02.25"
-  },
-  {
-    "url": "https://sourceforge.net/projects/cudatext/files/addons/translations/translation.it_IT_4.zip",
-    "desc": "Italian translation, by hexaae/bovirus",
-    "v": "2025.02.25"
+    "v": "2025.05.25"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/translations/translation.ja_JP.zip",
@@ -112,7 +72,7 @@
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/translations/translation.pt_PT.zip",
     "desc": "Portugal translation",
-    "v": "2024.01.26"
+    "v": "2025.05.25"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/translations/translation.sk_SK.zip",
