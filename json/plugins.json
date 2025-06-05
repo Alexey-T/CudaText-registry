@@ -219,7 +219,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Differ.zip",
     "desc": "Compares 2 files and shows them side-by-side",
     "module": "cuda_differ",
-    "v": "2024.07.06"
+    "v": "2025.06.02"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Discord_Status.zip",
