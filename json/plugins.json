@@ -481,7 +481,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Highlight_Variables.zip",
     "desc": "Highlights 'variables' inside string literals",
     "module": "cuda_hilite_vars",
-    "v": "2025.06.02"
+    "v": "2025.06.06"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Hotspots.zip",
