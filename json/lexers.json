@@ -235,6 +235,11 @@
     "v": "2020.04.16"
   },
   {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/lexers/lexer.Bazelrc.zip",
+    "desc": "",
+    "v": "2024.07.01"
+  },
+  {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/lexers/lexer.BibTeX.zip",
     "desc": "",
     "v": "2015.09.17"
