@@ -83,6 +83,7 @@ PLUGINS={
         },
     'Pascal':{
         T_LEXER:(
+            'Assembly',
             'Pascal',
             ),
         T_FMT:(
