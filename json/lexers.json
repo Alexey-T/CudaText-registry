@@ -105,6 +105,11 @@
     "v": "2018.07.21"
   },
   {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/lexers/lexer.Assembly.zip",
+    "desc": "",
+    "v": "2024.06.04"
+  },
+  {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/lexers/lexer.Assembly_ARM.zip",
     "desc": "",
     "v": "2021.12.29.2"
@@ -277,12 +282,14 @@
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/lexers/lexer.C.zip",
     "desc": "",
-    "v": "2025.05.10"
+    "v": "2025.05.10",
+    "req": "lexer.Assembly"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/lexers/lexer.C++.zip",
     "desc": "",
-    "v": "2025.05.10"
+    "v": "2025.05.10",
+    "req": "lexer.Assembly"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/lexers/lexer.C%23.zip",
@@ -337,7 +344,8 @@
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/lexers/lexer.CodeVisionAVR.zip",
     "desc": "",
-    "v": "2017.06.07"
+    "v": "2017.06.07",
+    "req": "lexer.Assembly"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/lexers/lexer.CoffeeScript.zip",
@@ -1089,7 +1097,8 @@
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/lexers/lexer.Pascal.zip",
     "desc": "",
-    "v": "2025.04.01"
+    "v": "2025.04.01",
+    "req": "lexer.Assembly"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/lexers/lexer.Pawn.zip",
