@@ -288,6 +288,7 @@ PLUGINS={
         },
     'C/C++':{
         T_LEXER:(
+            'Assembly',
             'C',
             'C++',
             ),
