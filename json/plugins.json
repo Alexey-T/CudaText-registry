@@ -222,6 +222,12 @@
     "v": "2025.06.02"
   },
   {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Disable_Picture_Viewer.zip",
+    "desc": "Disables picture viewer, pics will be opened in hex mode",
+    "module": "cuda_disable_picture_viewer",
+    "v": "2024.11.11"
+  },
+  {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Discord_Status.zip",
     "desc": "Shows your work status in the Discord messanger",
     "module": "cuda_discord_status",
