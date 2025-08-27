@@ -574,13 +574,7 @@
     "v": "2025.01.24"
   },
   {
-    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Markdown_Preview_py38.zip",
-    "desc": "Previews Markdown text as HTML in browser",
-    "module": "cuda_markdown_preview_py38",
-    "v": "2023.05.04"
-  },
-  {
-    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Markdown_Preview_py310.zip",
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Markdown_Preview.zip",
     "desc": "Previews Markdown text as HTML in browser",
     "module": "cuda_markdown_preview",
     "v": "2025.08.27"
