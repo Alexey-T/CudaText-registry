@@ -571,7 +571,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Markdown_Image.zip",
     "desc": "Previews local Markdown image files in inter-line gaps",
     "module": "cuda_markdown_image",
-    "v": "2025.09.27"
+    "v": "2025.09.27.1"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Markdown_Preview.zip",
