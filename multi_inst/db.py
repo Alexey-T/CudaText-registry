@@ -122,7 +122,7 @@ PLUGINS={
             'Emmet',
             'HTML_Live_Preview',
             'HTML_Ops',
-            'HTML_Tooltips',
+            'HTML-CSS-Markdown_Tooltips',
             'CSS_CanIUse',
             'CSS_Property_Info',
             'CSS_Table_of_Contents',
@@ -278,6 +278,7 @@ PLUGINS={
             'Markdown',
             ),
         T_OTHER:(
+            'HTML-CSS-Markdown_Tooltips',
             'Markdown_Editing',
             'Markdown_Image',
             'Markdown_Preview',
