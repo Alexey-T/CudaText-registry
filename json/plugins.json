@@ -57,7 +57,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Calc_Expression.zip",
     "desc": "Calculates math expression in text",
     "module": "cuda_calc_expr",
-    "v": "2025.05.06"
+    "v": "2025.09.28"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Case_Converter.zip",
