@@ -177,7 +177,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.CSV_Helper.zip",
     "desc": "Highlightes columns in CSV files with different colors",
     "module": "cuda_csv_hilite",
-    "v": "2023.12.16"
+    "v": "2025.09.28"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.CudaFormatter.zip",
