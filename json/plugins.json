@@ -366,81 +366,6 @@
     "v": "2024.04.18"
   },
   {
-    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Scope_Description.zip",
-    "desc": "For C, C++: shows function signature after function end",
-    "module": "cuda_scope_description",
-    "v": "2024.09.19"
-  },
-  {
-    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Scratches.zip",
-    "desc": "Lite analog of Scratches from JetBrains (C)",
-    "module": "cuda_scratches",
-    "v": "2024.01.16"
-  },
-  {
-    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.SFTP_Support_for_Windows_py35.zip",
-    "desc": "Supports SFTP in FTP plugin, Windows x32/x64, Python 3.5",
-    "module": "cuda_ftp_libs_py35",
-    "req": "plugin.FTP",
-    "v": "2019.11.27"
-  },
-  {
-    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.SFTP_Support_for_Windows_py36.zip",
-    "desc": "Supports SFTP in FTP plugin, Windows x32/x64, Python 3.6",
-    "module": "cuda_ftp_libs_py36",
-    "req": "plugin.FTP",
-    "v": "2022.03.26"
-  },
-  {
-    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.SFTP_Support_for_Windows_py37.zip",
-    "desc": "Supports SFTP in FTP plugin, Windows x32/x64, Python 3.7",
-    "module": "cuda_ftp_libs_py37",
-    "req": "plugin.FTP",
-    "v": "2022.02.01"
-  },
-  {
-    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.SFTP_Support_for_Windows_py38.zip",
-    "desc": "Supports SFTP in FTP plugin, Windows x32/x64, Python 3.8",
-    "module": "cuda_ftp_libs_py38",
-    "req": "plugin.FTP",
-    "v": "2024.05.15"
-  },
-  {
-    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.SFTP_Support_for_Windows_py39.zip",
-    "desc": "Supports SFTP in FTP plugin, Windows x32/x64, Python 3.9",
-    "module": "cuda_ftp_libs_py39",
-    "req": "plugin.FTP",
-    "v": "2022.02.19"
-  },
-  {
-    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.SFTP_Support_for_Windows_py310.zip",
-    "desc": "Supports SFTP in FTP plugin, Windows x32/x64, Python 3.10",
-    "module": "cuda_ftp_libs_py310",
-    "req": "plugin.FTP",
-    "v": "2023.05.02"
-  },
-  {
-    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.SFTP_Support_for_Windows_py311.zip",
-    "desc": "Supports SFTP in FTP plugin, Windows x32/x64, Python 3.11",
-    "module": "cuda_ftp_libs_py311",
-    "req": "plugin.FTP",
-    "v": "2023.05.02"
-  },
-  {
-    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.SFTP_Support_for_Windows_py312.zip",
-    "desc": "Supports SFTP in FTP plugin, Windows x32/x64, Python 3.12",
-    "module": "cuda_ftp_libs_py312",
-    "req": "plugin.FTP",
-    "v": "2025.02.07"
-  },
-  {
-    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.SFTP_Support_for_Windows_py313.zip",
-    "desc": "Supports SFTP in FTP plugin, Windows x32/x64, Python 3.13",
-    "module": "cuda_ftp_libs_py313",
-    "req": "plugin.FTP",
-    "v": "2025.04.14"
-  },
-  {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Git_Conflict_Solver.zip",
     "desc": "Gives command to solve Git merge conflicts",
     "module": "cuda_git_conflict",
@@ -693,6 +618,81 @@
     "desc": "Runs external tools, supports build-systems form Sublime Text",
     "module": "cuda_runner",
     "v": "2025.08.30"
+  },
+  {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Scope_Description.zip",
+    "desc": "For C, C++: shows function signature after function end",
+    "module": "cuda_scope_description",
+    "v": "2024.09.19"
+  },
+  {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Scratches.zip",
+    "desc": "Lite analog of Scratches from JetBrains (C)",
+    "module": "cuda_scratches",
+    "v": "2024.01.16"
+  },
+  {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.SFTP_Support_for_Windows_py35.zip",
+    "desc": "Supports SFTP in FTP plugin, Windows x32/x64, Python 3.5",
+    "module": "cuda_ftp_libs_py35",
+    "req": "plugin.FTP",
+    "v": "2019.11.27"
+  },
+  {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.SFTP_Support_for_Windows_py36.zip",
+    "desc": "Supports SFTP in FTP plugin, Windows x32/x64, Python 3.6",
+    "module": "cuda_ftp_libs_py36",
+    "req": "plugin.FTP",
+    "v": "2022.03.26"
+  },
+  {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.SFTP_Support_for_Windows_py37.zip",
+    "desc": "Supports SFTP in FTP plugin, Windows x32/x64, Python 3.7",
+    "module": "cuda_ftp_libs_py37",
+    "req": "plugin.FTP",
+    "v": "2022.02.01"
+  },
+  {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.SFTP_Support_for_Windows_py38.zip",
+    "desc": "Supports SFTP in FTP plugin, Windows x32/x64, Python 3.8",
+    "module": "cuda_ftp_libs_py38",
+    "req": "plugin.FTP",
+    "v": "2024.05.15"
+  },
+  {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.SFTP_Support_for_Windows_py39.zip",
+    "desc": "Supports SFTP in FTP plugin, Windows x32/x64, Python 3.9",
+    "module": "cuda_ftp_libs_py39",
+    "req": "plugin.FTP",
+    "v": "2022.02.19"
+  },
+  {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.SFTP_Support_for_Windows_py310.zip",
+    "desc": "Supports SFTP in FTP plugin, Windows x32/x64, Python 3.10",
+    "module": "cuda_ftp_libs_py310",
+    "req": "plugin.FTP",
+    "v": "2023.05.02"
+  },
+  {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.SFTP_Support_for_Windows_py311.zip",
+    "desc": "Supports SFTP in FTP plugin, Windows x32/x64, Python 3.11",
+    "module": "cuda_ftp_libs_py311",
+    "req": "plugin.FTP",
+    "v": "2023.05.02"
+  },
+  {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.SFTP_Support_for_Windows_py312.zip",
+    "desc": "Supports SFTP in FTP plugin, Windows x32/x64, Python 3.12",
+    "module": "cuda_ftp_libs_py312",
+    "req": "plugin.FTP",
+    "v": "2025.02.07"
+  },
+  {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.SFTP_Support_for_Windows_py313.zip",
+    "desc": "Supports SFTP in FTP plugin, Windows x32/x64, Python 3.13",
+    "module": "cuda_ftp_libs_py313",
+    "req": "plugin.FTP",
+    "v": "2025.04.14"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Show_Unicode_Name.zip",
