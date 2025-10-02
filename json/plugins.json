@@ -306,6 +306,12 @@
     "v": "2021.07.17"
   },
   {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Find-Replace_Separate_History.zip",
+    "desc": "Adds separate 3rd find/replace history to the find/replace-dialog",
+    "module": "cuda_separate_find_replace_history",
+    "v": "2025.10.02"
+  },
+  {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.File_Type_Profile.zip",
     "desc": "Creates profiles for files, and applies settings on opening file",
     "module": "cuda_file_type_profile",
