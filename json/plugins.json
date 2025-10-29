@@ -207,7 +207,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Detect_Indent.zip",
     "desc": "Detects space/tab indentation, on opening files",
     "module": "cuda_detect_indent",
-    "v": "2024.10.10"
+    "v": "2025.10.29"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.DevDocs.zip",
