@@ -315,7 +315,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.File_Type_Profile.zip",
     "desc": "Creates profiles for files, and applies settings on opening file",
     "module": "cuda_file_type_profile",
-    "v": "2020.06.25"
+    "v": "2025.11.05"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.File_URI_Handler.zip",
