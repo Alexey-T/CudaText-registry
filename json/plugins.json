@@ -93,7 +93,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Color_Picker.zip",
     "desc": "Shows color-picker dialog, inserts color #rrggbb",
     "module": "cuda_color_picker",
-    "v": "2019.11.12"
+    "v": "2025.11.20"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Color_Text.zip",
@@ -135,7 +135,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Configure_Toolbar.zip",
     "desc": "Configures toolbar: buttons, icon set",
     "module": "cuda_config_toolbar",
-    "v": "2024.08.06"
+    "v": "2025.11.20"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Console_Auto-Completion.zip",
@@ -339,7 +339,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Font_Awesome.zip",
     "desc": "Shows FontAwesome icons in sidebar, inserts their codes",
     "module": "cuda_fontawesome",
-    "v": "2022.04.28.1"
+    "v": "2025.11.20"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Font_Changer.zip",
@@ -363,7 +363,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Fountain_Helper.zip",
     "desc": "Commands for Fountain lexer",
     "module": "cuda_fountain_helper",
-    "v": "2021.06.17"
+    "v": "2025.11.20"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.FTP.zip",
@@ -460,7 +460,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Insert_Emoji.zip",
     "desc": "Dialog to show emoji list, insert emoji name",
     "module": "cuda_insert_emoji",
-    "v": "2025.10.02"
+    "v": "2025.11.20"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Insert_Pics.zip",
