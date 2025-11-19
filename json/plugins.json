@@ -544,7 +544,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Numbered_Bookmarks.zip",
     "desc": "Allows to set/goto numbered bookmarks (1..8)",
     "module": "cuda_num_bookmarks",
-    "v": "2018.09.25"
+    "v": "2025.11.19"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Number_Utils.zip",
