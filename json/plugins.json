@@ -496,7 +496,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Markdown_Editing.zip",
     "desc": "Various helpers for editing of Markdown documents",
     "module": "cuda_markdown_editing",
-    "v": "2025.04.19"
+    "v": "2025.11.19"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Markdown_Image.zip",
@@ -723,7 +723,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Spell_Checker.zip",
     "desc": "Spell checker, with Hunspell dictionaries",
     "module": "cuda_spell_checker",
-    "v": "2025.11.19.1"
+    "v": "2025.11.19.2"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.SPIR_Helper.zip",
