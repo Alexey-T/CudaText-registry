@@ -45,7 +45,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Breadcrumbs.zip",
     "desc": "Widget for file-system navigation (breadcrumb bar)",
     "module": "cuda_breadcrumbs",
-    "v": "2024.05.06"
+    "v": "2025.11.20"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Bulma_Completion.zip",
@@ -81,7 +81,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Code-Tree_Bookmarks.zip",
     "desc": "Shows bookmarks in the Code-Tree",
     "module": "cuda_code_tree_x",
-    "v": "2024.05.26"
+    "v": "2025.11.20"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Codeium.zip",
@@ -369,7 +369,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.FTP.zip",
     "desc": "FTP client: manage remote files/folders on FTP/SFTP",
     "module": "cuda_ftp",
-    "v": "2024.04.18"
+    "v": "2025.11.20"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Git_Conflict_Solver.zip",
