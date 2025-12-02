@@ -759,7 +759,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Sync_Editing.zip",
     "desc": "Synchronized editing, like in SynWrite editor",
     "module": "cuda_sync_editing",
-    "v": "2025.11.30"
+    "v": "2025.12.01"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Sync_Scroll.zip",
