@@ -241,7 +241,7 @@
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Double-Shift.zip",
-    "desc": "Reacts to double-Shift press, shows Command Palette (like in JetBrains products)",
+    "desc": "Maps double-Shift / double-Ctrl to any commands (default: Command Palette)",
     "module": "cuda_double_shift",
     "v": "2025.12.03"
   },
