@@ -394,7 +394,7 @@
     "desc": "Shows Git info in the statusbar",
     "module": "cuda_git_status",
     "req": "lexer.Diff",
-    "v": "2025.12.05"
+    "v": "2025.12.12"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.GitHub_Gist.zip",
