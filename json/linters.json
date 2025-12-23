@@ -162,6 +162,12 @@
     "desc": "Linter for Bash, using 'bashate'"
   },
   {
+    "module": "cuda_linter_shellcheck",
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/linters/linter.Bash_using_ShellCheck.zip",
+    "v": "2025.12.23",
+    "desc": "Linter for Bash, using 'ShellCheck'"
+  },
+  {
     "module": "cuda_lint_cppcheck",
     "url": "https://sourceforge.net/projects/cudatext/files/addons/linters/linter.C%2B%2B_using_cppcheck.zip",
     "v": "2019.02.23",
