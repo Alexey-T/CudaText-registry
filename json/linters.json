@@ -164,7 +164,7 @@
   {
     "module": "cuda_linter_shellcheck",
     "url": "https://sourceforge.net/projects/cudatext/files/addons/linters/linter.Bash_using_ShellCheck.zip",
-    "v": "2025.12.23",
+    "v": "2025.12.23.1",
     "desc": "Linter for Bash, using 'ShellCheck'"
   },
   {
