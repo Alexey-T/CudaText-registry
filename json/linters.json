@@ -381,13 +381,19 @@
     "module": "cuda_lint_pylint",
     "url": "https://sourceforge.net/projects/cudatext/files/addons/linters/linter.Python_using_pylint.zip",
     "v": "2025.02.27",
-    "desc": "Linter for Python, using PyLint"
+    "desc": "Linter for Python, using 'PyLint'"
   },
   {
     "module": "cuda_lint_pep8",
     "url": "https://sourceforge.net/projects/cudatext/files/addons/linters/linter.Python_using_pycodestyle.zip",
     "v": "2020.07.21",
-    "desc": "Linter for Python, using PyCodeStyle"
+    "desc": "Linter for Python, using 'PyCodeStyle'"
+  },
+  {
+    "module": "cuda_linter_ruff",
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/linters/linter.Python_using_Ruff.zip",
+    "v": "2025.12.24",
+    "desc": "Linter for Python, using 'Ruff'"
   },
   {
     "module": "cuda_lint_php",
