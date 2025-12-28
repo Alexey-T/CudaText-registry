@@ -162,9 +162,9 @@
     "desc": "Linter for Bash, using 'bashate'"
   },
   {
-    "module": "cuda_linter_shellcheck",
+    "module": "cuda_lint_shellcheck",
     "url": "https://sourceforge.net/projects/cudatext/files/addons/linters/linter.Bash_using_ShellCheck.zip",
-    "v": "2025.12.23.1",
+    "v": "2025.12.28",
     "desc": "Linter for Bash, using 'ShellCheck'"
   },
   {
@@ -390,9 +390,9 @@
     "desc": "Linter for Python, using 'PyCodeStyle'"
   },
   {
-    "module": "cuda_linter_ruff",
+    "module": "cuda_lint_ruff",
     "url": "https://sourceforge.net/projects/cudatext/files/addons/linters/linter.Python_using_Ruff.zip",
-    "v": "2025.12.26.1",
+    "v": "2025.12.28",
     "desc": "Linter for Python, using 'Ruff'"
   },
   {
