@@ -249,7 +249,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Draw_Lines.zip",
     "desc": "Allows to draw pseudo-graphic lines/frames in text",
     "module": "cuda_draw_lines",
-    "v": "2025.12.29"
+    "v": "2025.12.29.1"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.EditorConfig_Support.zip",
