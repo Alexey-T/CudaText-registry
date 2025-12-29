@@ -9,7 +9,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Auto_Center_Line.zip",
     "desc": "Keeps current line in the center of editor window",
     "module": "cuda_auto_center_line",
-    "v": "2023.03.06"
+    "v": "2025.12.29"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Auto_Replace.zip",
@@ -21,7 +21,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Auto_Save.zip",
     "desc": "Auto-saves modified files: by timer / on closing file / etc",
     "module": "cuda_auto_save",
-    "v": "2023.03.10"
+    "v": "2025.12.29"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.AutoIt_Helper.zip",
@@ -45,7 +45,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Breadcrumbs.zip",
     "desc": "Widget for file-system navigation (breadcrumb bar)",
     "module": "cuda_breadcrumbs",
-    "v": "2025.11.20"
+    "v": "2025.12.29"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Bulma_Completion.zip",
@@ -105,7 +105,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Colored_Indent.zip",
     "desc": "Colorizes indentation levels in e.g. Python code",
     "module": "cuda_colored_indent",
-    "v": "2025.03.14"
+    "v": "2025.12.29"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Column_Marks.zip",
@@ -219,7 +219,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Differ.zip",
     "desc": "Compares 2 files and shows them side-by-side",
     "module": "cuda_differ",
-    "v": "2025.06.02"
+    "v": "2025.12.29"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Disable_Picture_Viewer.zip",
@@ -249,7 +249,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Draw_Lines.zip",
     "desc": "Allows to draw pseudo-graphic lines/frames in text",
     "module": "cuda_draw_lines",
-    "v": "2018.11.23"
+    "v": "2025.12.29"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.EditorConfig_Support.zip",
@@ -418,7 +418,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Highlight_Occurrences.zip",
     "desc": "Highlights all occurrences of selected/current word",
     "module": "cuda_hilite_occurrences",
-    "v": "2025.11.29"
+    "v": "2025.12.29"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Highlight_Variables.zip",
@@ -478,7 +478,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.IP_Address_Helper.zip",
     "desc": "On hovering IP address, shows its country in the statusbar",
     "module": "cuda_ip_address_helper",
-    "v": "2021.02.05.4"
+    "v": "2025.12.29"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.JS_Multiline_Array.zip",
@@ -514,7 +514,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Markdown_Preview.zip",
     "desc": "Previews Markdown text as HTML in browser",
     "module": "cuda_markdown_preview",
-    "v": "2025.11.19"
+    "v": "2025.12.29"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Markdown_Special_Paste.zip",
@@ -710,7 +710,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Show_Unicode_Name.zip",
     "desc": "Shows in the statusbar Unicode name of char under caret",
     "module": "cuda_show_unicode_name",
-    "v": "2023.03.18"
+    "v": "2025.12.29"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Show_Unsaved_Changes_(diff).zip",
@@ -771,7 +771,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Sync_Scroll.zip",
     "desc": "Sync vertical and/or horiz scrolling of editors in groups 1, 2",
     "module": "cuda_sync_scroll",
-    "v": "2022.02.21"
+    "v": "2025.12.29"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Tab_Colors.zip",
