@@ -183,7 +183,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.CudaFormatter.zip",
     "desc": "Framework to format files, using 'formatters' add-ons",
     "module": "cuda_fmt",
-    "v": "2025.02.19"
+    "v": "2025.12.30"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.CudaLint.zip",
