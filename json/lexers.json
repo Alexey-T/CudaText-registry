@@ -774,11 +774,6 @@
     "v": "2025.04.30.3"
   },
   {
-    "url": "https://sourceforge.net/projects/cudatext/files/addons/lexers/lexer.Jade.zip",
-    "desc": "",
-    "v": "2021.03.30"
-  },
-  {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/lexers/lexer.Janet.zip",
     "desc": "",
     "v": "2023.04.19"
@@ -1233,7 +1228,7 @@
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/lexers/lexer.Pug.zip",
     "desc": "",
-    "v": "2021.03.30"
+    "v": "2025.01.02"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/lexers/lexer.Puppet.zip",
