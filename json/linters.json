@@ -86,7 +86,7 @@
   {
     "module": "cuda_fmt_prettier",
     "url": "https://sourceforge.net/projects/cudatext/files/addons/formatters/formatter.Prettier.zip",
-    "v": "2026.01.04",
+    "v": "2026.01.20",
     "desc": "Formatter for 20+ langs via 'Prettier'"
   },
   {
