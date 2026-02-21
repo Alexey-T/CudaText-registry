@@ -368,11 +368,6 @@
     "v": "2024.10.07"
   },
   {
-    "url": "https://sourceforge.net/projects/cudatext/files/addons/lexers/lexer.Coq.zip",
-    "desc": "",
-    "v": "2021.08.14"
-  },
-  {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/lexers/lexer.CRF.zip",
     "desc": "",
     "v": "2016.01.16"
@@ -1325,6 +1320,11 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/lexers/lexer.Roc.zip",
     "desc": "",
     "v": "2023.03.19.1"
+  },
+  {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/lexers/lexer.Rocq_Prover.zip",
+    "desc": "",
+    "v": "2021.08.14"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/lexers/lexer.RON.zip",
