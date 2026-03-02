@@ -1,5 +1,10 @@
 [
   {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/snippets_ct/snippets_ct.Arduino.zip",
+    "desc": "Snippets for Arduino",
+    "v": "2026.03.02"
+  },
+  {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/snippets_ct/snippets_ct.AutoIt.zip",
     "desc": "Snippets for AutoIt",
     "v": "2020.11.23"
