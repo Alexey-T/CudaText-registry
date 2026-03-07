@@ -171,6 +171,7 @@ PLUGINS={
             ),
         T_FMT:(
             'JavaScript_JSON',
+            'Clang-Format',
             ),
         T_LEXER:(
             'CoffeeScript',
@@ -184,9 +185,6 @@ PLUGINS={
             'DevDocs',
             'DocBlock_Comments',
             'Paste_as_String',
-            ),
-        T_INTEL:(
-            'JS_Tern',
             ),
         },
     'PHP':{
@@ -300,7 +298,8 @@ PLUGINS={
             'C++_using_gcc',
             ),
         T_FMT:(
-            'AStyle',
+            'Clang-Format',
+            'Embarcadero',
             'Uncrustify',
             ),
         T_SNIP:(
