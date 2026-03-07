@@ -108,6 +108,7 @@ PLUGINS={
             'CSS_SASS_SCSS_LESS',
             'HTML_Beautify',
             'HTML_Soup',
+            'Prettier',
             ),
         T_INTEL:(
             'Bootstrap_Completion',
@@ -169,8 +170,9 @@ PLUGINS={
             'JavaScript_using_quicklintjs',
             ),
         T_FMT:(
-            'JavaScript_JSON',
             'Clang-Format',
+            'JavaScript_JSON',
+            'Prettier',
             ),
         T_LEXER:(
             'CoffeeScript',
@@ -229,6 +231,7 @@ PLUGINS={
             'XML_using_xmllint-libxml2',
             ),
         T_FMT:(
+            'Prettier',
             'XML_IndentX',
             'XML_Pretty_Print',
             ),
@@ -264,6 +267,7 @@ PLUGINS={
             ),
         T_FMT:(
             'Markdown_Tables',
+            'Prettier',
             ),
         T_TREE:(
             'MediaWiki',
