@@ -96,12 +96,6 @@
     "desc": "Formatter for Python: Fix Imports"
   },
   {
-    "module": "cuda_fmt_python_reindent",
-    "url": "https://sourceforge.net/projects/cudatext/files/addons/formatters/formatter.Python_ReIndent.zip",
-    "v": "2019.07.28",
-    "desc": "Formatter for Python: ReIndent"
-  },
-  {
     "module": "cuda_fmt_ruby",
     "url": "https://sourceforge.net/projects/cudatext/files/addons/formatters/formatter.Ruby.zip",
     "v": "2019.07.14",
