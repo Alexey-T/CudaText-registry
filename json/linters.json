@@ -123,7 +123,7 @@
     "module": "cuda_fmt_uncrustify",
     "url": "https://sourceforge.net/projects/cudatext/files/addons/formatters/formatter.Uncrustify.zip",
     "v": "2019.07.14.1",
-    "desc": "Formatter using Uncrustify"
+    "desc": "Formatter using Uncrustify (for: C, C++, C#, Objective-C, D, Java, Pawn, Vala)"
   },
   {
     "module": "cuda_fmt_vbscript",
