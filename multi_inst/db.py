@@ -53,7 +53,6 @@ PLUGINS={
         T_FMT:(
             'Python_Black',
             'Python_Fix_Imports',
-            'Python_ReIndent',
             ),
         T_INTEL:(
             'Python_IntelliSense',
