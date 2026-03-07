@@ -6,6 +6,12 @@
     "desc": "Formatter for Bash script, using Beautysh library"
   },
   {
+    "module": "cuda_fmt_clang",
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/formatters/formatter.CLang-format.zip",
+    "v": "2026.03.07",
+    "desc": "Formatter for 8 languages, using clang-format"
+  },
+  {
     "module": "cuda_fmt_css_autoprefixer",
     "url": "https://sourceforge.net/projects/cudatext/files/addons/formatters/formatter.CSS_AutoPrefixer.zip",
     "v": "2019.07.13.1",
