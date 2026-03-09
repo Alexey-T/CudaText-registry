@@ -8,7 +8,7 @@
   {
     "module": "cuda_fmt_clang",
     "url": "https://sourceforge.net/projects/cudatext/files/addons/formatters/formatter.Clang-Format.zip",
-    "v": "2026.03.07",
+    "v": "2026.03.08",
     "desc": "Formatter using clang-format (for: C, C++, C#, Java, JavaScript, TypeScript etc)"
   },
   {
