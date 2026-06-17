@@ -243,7 +243,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Double-Shift.zip",
     "desc": "Maps double-Shift / double-Ctrl to any commands (default: Command Palette)",
     "module": "cuda_double_shift",
-    "v": "2025.12.03"
+    "v": "2026.06.17"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Draw_Lines.zip",
