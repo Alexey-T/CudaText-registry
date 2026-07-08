@@ -87,7 +87,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Codeium.zip",
     "desc": "Codeium AI completions in your editor",
     "module": "cuda_codeium",
-    "v": "2025.03.02"
+    "v": "2026.03.02"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Color_Picker.zip",
