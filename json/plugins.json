@@ -640,7 +640,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Scope_Description.zip",
     "desc": "For C, C++: shows function signature after function end",
     "module": "cuda_scope_description",
-    "v": "2024.09.19"
+    "v": "2026.07.08"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Scratches.zip",
