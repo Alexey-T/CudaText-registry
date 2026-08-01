@@ -794,7 +794,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Tab_Icons.zip",
     "desc": "Shows icons on UI-tabs (per file-type / custom icons)",
     "module": "cuda_tab_icons",
-    "v": "2026.07.30"
+    "v": "2026.08.01"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Tab-Rename.zip",
