@@ -99,7 +99,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Color_Text.zip",
     "desc": "Colorizes fragments in any text, saves them to 'companion' file",
     "module": "cuda_color_text",
-    "v": "2025.11.19"
+    "v": "2026.08.13"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Colored_Indent.zip",
@@ -734,7 +734,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Spell_Checker.zip",
     "desc": "Spell checker, with Hunspell dictionaries",
     "module": "cuda_spell_checker",
-    "v": "2026.02.23"
+    "v": "2026.08.13"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.SPIR_Helper.zip",
