@@ -507,7 +507,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Markdown_Advanced_Preview.zip",
     "desc": "Previews Markdown text in browser, supports also math blocks",
     "module": "cuda_markdown_advanced_preview",
-    "v": "2026.08.25"
+    "v": "2026.08.25.1"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Markdown_Editing.zip",
