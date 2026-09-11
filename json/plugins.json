@@ -740,7 +740,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Spell_Checker.zip",
     "desc": "Spell checker, with Hunspell dictionaries",
     "module": "cuda_spell_checker",
-    "v": "2026.08.13"
+    "v": "2026.09.12"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.SPIR_Helper.zip",
