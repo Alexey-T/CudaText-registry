@@ -102,7 +102,7 @@
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/lexers/lexer.AsciiDoc.zip",
     "desc": "",
-    "v": "2018.07.21"
+    "v": "2026.06.15"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/lexers/lexer.Assembly.zip",
@@ -746,7 +746,7 @@
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/lexers/lexer.Ini_files.zip",
     "desc": "",
-    "v": "2023.04.24"
+    "v": "2026.09.14"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/lexers/lexer.Informix_4GL.zip",
@@ -1127,7 +1127,7 @@
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/lexers/lexer.Pascal.zip",
     "desc": "",
-    "v": "2026.03.04",
+    "v": "2026.07.29",
     "req": "lexer.Assembly"
   },
   {
@@ -1317,6 +1317,11 @@
     "v": "2015.09.20"
   },
   {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/lexers/lexer.robots.txt.zip",
+    "desc": "",
+    "v": "2026.09.18"
+  },
+  {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/lexers/lexer.Roc.zip",
     "desc": "",
     "v": "2023.03.19.1"
@@ -1434,7 +1439,7 @@
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/lexers/lexer.SQL.zip",
     "desc": "",
-    "v": "2024.10.05"
+    "v": "2026.08.01"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/lexers/lexer.Squirrel.zip",
@@ -1530,7 +1535,7 @@
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/lexers/lexer.ToDo.zip",
     "desc": "Lexer for plugin 'Plain Tasks'",
-    "v": "2025.12.19"
+    "v": "2026.07.14"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/lexers/lexer.Todo.txt.zip",

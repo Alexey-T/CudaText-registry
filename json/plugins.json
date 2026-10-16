@@ -9,7 +9,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Auto_Center_Line.zip",
     "desc": "Keeps current line in the center of editor window",
     "module": "cuda_auto_center_line",
-    "v": "2025.12.29"
+    "v": "2026.07.08"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Auto_Replace.zip",
@@ -57,7 +57,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Calc_Expression.zip",
     "desc": "Calculates math expression in text",
     "module": "cuda_calc_expr",
-    "v": "2025.09.28"
+    "v": "2026.10.02"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Case_Converter.zip",
@@ -81,13 +81,13 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Code-Tree_Bookmarks.zip",
     "desc": "Shows bookmarks in the Code-Tree",
     "module": "cuda_code_tree_x",
-    "v": "2025.11.20"
+    "v": "2026.08.26"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Codeium.zip",
     "desc": "Codeium AI completions in your editor",
     "module": "cuda_codeium",
-    "v": "2025.03.02"
+    "v": "2026.07.12"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Color_Picker.zip",
@@ -99,7 +99,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Color_Text.zip",
     "desc": "Colorizes fragments in any text, saves them to 'companion' file",
     "module": "cuda_color_text",
-    "v": "2025.11.19"
+    "v": "2026.08.13"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Colored_Indent.zip",
@@ -135,7 +135,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Configure_Toolbar.zip",
     "desc": "Configures toolbar: buttons, icon set",
     "module": "cuda_config_toolbar",
-    "v": "2026.04.05"
+    "v": "2026.09.30"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Console_Auto-Completion.zip",
@@ -183,7 +183,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.CudaFormatter.zip",
     "desc": "Framework to format files, using 'formatters' add-ons",
     "module": "cuda_fmt",
-    "v": "2026.03.07"
+    "v": "2026.08.31"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.CudaLint.zip",
@@ -213,7 +213,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Differ.zip",
     "desc": "Compares 2 files and shows them side-by-side",
     "module": "cuda_differ",
-    "v": "2025.12.29"
+    "v": "2026.09.16"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Disable_Picture_Viewer.zip",
@@ -237,7 +237,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Double-Shift.zip",
     "desc": "Maps double-Shift / double-Ctrl to any commands (default: Command Palette)",
     "module": "cuda_double_shift",
-    "v": "2025.12.03"
+    "v": "2026.06.17"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Draw_Lines.zip",
@@ -261,7 +261,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Embedded_Editor.zip",
     "desc": "Opens included CSS/JS files in the embedded window",
     "module": "cuda_embed_ed",
-    "v": "2021.06.23"
+    "v": "2026.07.08"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Emmet.zip",
@@ -297,7 +297,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.ExTerminal.zip",
     "desc": "Emulates OS Terminal, mimics terminal w/o separate input field",
     "module": "cuda_exterminal",
-    "v": "2025.11.19"
+    "v": "2026.07.08"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Extract_Strings.zip",
@@ -321,7 +321,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.File_Type_Profile.zip",
     "desc": "Creates profiles for files, and applies settings on opening file",
     "module": "cuda_file_type_profile",
-    "v": "2025.11.05"
+    "v": "2026.07.18"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.File_URI_Handler.zip",
@@ -393,7 +393,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Git_Status.zip",
     "desc": "Shows Git info in the statusbar",
     "module": "cuda_git_status",
-    "v": "2026.03.05"
+    "v": "2026.09.01"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.GitHub_Gist.zip",
@@ -417,13 +417,13 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Highlight_Occurrences.zip",
     "desc": "Highlights all occurrences of selected/current word",
     "module": "cuda_hilite_occurrences",
-    "v": "2025.12.29"
+    "v": "2026.09.12"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Highlight_Variables.zip",
     "desc": "Highlights 'variables' inside string literals",
     "module": "cuda_hilite_vars",
-    "v": "2025.06.06"
+    "v": "2026.09.01"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Hotspots.zip",
@@ -501,7 +501,13 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.LSP_Client.zip",
     "desc": "Supports LSP protocol for IntelliSense",
     "module": "cuda_lsp",
-    "v": "2025.11.19"
+    "v": "2026.07.08.1"
+  },
+  {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Markdown_Advanced_Preview.zip",
+    "desc": "Previews Markdown text in browser, supports also math blocks",
+    "module": "cuda_markdown_advanced_preview",
+    "v": "2026.08.26"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Markdown_Editing.zip",
@@ -517,7 +523,7 @@
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Markdown_Preview.zip",
-    "desc": "Previews Markdown text as HTML in browser",
+    "desc": "Previews Markdown text in browser",
     "module": "cuda_markdown_preview",
     "v": "2025.12.29"
   },
@@ -640,7 +646,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Scope_Description.zip",
     "desc": "For C, C++: shows function signature after function end",
     "module": "cuda_scope_description",
-    "v": "2024.09.19"
+    "v": "2026.07.08"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Scratches.zip",
@@ -728,13 +734,13 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Snippets.zip",
     "desc": "Snippets engine; it's described in the CudaText Wiki",
     "module": "cuda_snippets",
-    "v": "2025.11.19.1"
+    "v": "2026.05.17"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Spell_Checker.zip",
     "desc": "Spell checker, with Hunspell dictionaries",
     "module": "cuda_spell_checker",
-    "v": "2026.02.23"
+    "v": "2026.09.12"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.SPIR_Helper.zip",
@@ -774,9 +780,9 @@
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Sync_Scroll.zip",
-    "desc": "Sync vertical and/or horiz scrolling of editors in groups 1, 2",
+    "desc": "Sync vertical/horizontal scrolling of editors in groups 1, 2",
     "module": "cuda_sync_scroll",
-    "v": "2025.12.29"
+    "v": "2026.07.08"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Tab_Colors.zip",
@@ -794,7 +800,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Tab_Icons.zip",
     "desc": "Shows icons on UI-tabs (per file-type / custom icons)",
     "module": "cuda_tab_icons",
-    "v": "2025.09.04"
+    "v": "2026.08.01"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Tab-Rename.zip",
@@ -812,24 +818,12 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Terminal_Plus.zip",
     "desc": "Emulates OS Terminal, advanced plugin",
     "module": "cuda_terminal_plus",
-    "v": "2023.09.10"
+    "v": "2026.07.08"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Testing_of_Code_Tree_API.zip",
     "desc": "Testing plugin for CudaText Code Tree API",
     "module": "cuda_testing_code_tree",
-    "v": "2018.10.21"
-  },
-  {
-    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Testing_of_dialog_API.zip",
-    "desc": "Testing plugin for CudaText dialog API",
-    "module": "cuda_testing_dlg_proc",
-    "v": "2024.06.10"
-  },
-  {
-    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Testing_of_gaps_API.zip",
-    "desc": "Testing plugin for CudaText gaps API",
-    "module": "cuda_testing_gaps",
     "v": "2018.10.21"
   },
   {
@@ -861,7 +855,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Vim_Mode.zip",
     "desc": "Allows to use Vim key bindings",
     "module": "cuda_vim_mode",
-    "v": "2023.05.28"
+    "v": "2026.07.08"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.WikidPad_Helper.zip",
