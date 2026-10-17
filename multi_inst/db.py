@@ -337,7 +337,7 @@ PLUGINS={
             'Color_Text',
             'Colored_Indent',
             'Complete_From_Text',
-            'Config_Toolbar',
+            'Configure_Toolbar',
             'CSV_Helper',
             'CudaExt',
             'Detect_Indent',
