@@ -33,7 +33,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.ASCII_Art.zip",
     "desc": "Inserts text formatted via ASCII art, using PyFiglet",
     "module": "cuda_ascii_art",
-    "v": "2024.10.07"
+    "v": "2026.10.17"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Bootstrap_Completion.zip",
