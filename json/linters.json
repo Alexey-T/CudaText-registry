@@ -410,7 +410,7 @@
   {
     "module": "cuda_lint_phpcs",
     "url": "https://sourceforge.net/projects/cudatext/files/addons/linters/linter.PHP_using_phpcs.zip",
-    "v": "2025.02.25",
+    "v": "2026.10.26",
     "desc": "Linter for PHP, using 'PHP_CodeSniffer'"
   },
   {
