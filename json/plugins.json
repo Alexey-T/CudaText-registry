@@ -897,7 +897,6 @@
   {
     "url": "https://github.com/OrangeSauce99/cuda_word_count/releases/download/v1.0/Cuda_Word_Count.zip",
     "desc": "Cuda Word Count, it shows word and character count in status bar",
-    "module": "cuda_word_count",
     "v": "2026.10.29"
   }
 ]
