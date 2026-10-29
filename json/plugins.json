@@ -492,6 +492,12 @@
     "v": "2026.10.16"
   },
   {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Live_Word_Count.zip",
+    "desc": "Shows word/character count in the editor corner",
+    "module": "cuda_live_word_count",
+    "v": "2026.10.29"
+  },
+  {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Lorem_Ipsum.zip",
     "desc": "Inserts 'Lorem Ipsum' text",
     "module": "cuda_lorem",
