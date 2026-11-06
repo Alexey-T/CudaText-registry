@@ -833,6 +833,12 @@
     "v": "2018.10.21"
   },
   {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Testing_of_Lexers.zip",
+    "desc": "Testing plugin for CudaText lexer parser",
+    "module": "cuda_testing_lexers",
+    "v": "2026.11.06"
+  },
+  {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Text_Statistics.zip",
     "desc": "Gets statistics of current text (chars, words, sentences, etc)",
     "module": "cuda_text_stat",
