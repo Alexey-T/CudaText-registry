@@ -833,7 +833,7 @@
     "v": "2018.10.21"
   },
   {
-    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Testing_of_Lexers.zip",
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Testing_of_lexer_parser.zip",
     "desc": "Testing plugin for CudaText lexer parser",
     "module": "cuda_testing_lexers",
     "v": "2026.11.06"
