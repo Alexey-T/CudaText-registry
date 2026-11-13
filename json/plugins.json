@@ -309,7 +309,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Find-Replace-Pairs.zip",
     "desc": "Saves/restores last used pairs of search/replace texts",
     "module": "cuda_find_replace_pairs",
-    "v": "2025.09.27"
+    "v": "2026.11.13"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Find-Replace_Separate_History.zip",
