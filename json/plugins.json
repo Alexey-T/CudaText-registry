@@ -45,7 +45,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Breadcrumbs.zip",
     "desc": "Widget for file-system navigation (breadcrumb bar)",
     "module": "cuda_breadcrumbs",
-    "v": "2026.03.05.1"
+    "v": "2026.11.21"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Bulma_Completion.zip",
@@ -87,7 +87,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Codeium.zip",
     "desc": "Codeium AI completions in your editor",
     "module": "cuda_codeium",
-    "v": "2026.07.12"
+    "v": "2026.11.21"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Color_Picker.zip",
@@ -183,7 +183,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.CudaFormatter.zip",
     "desc": "Framework to format files, using 'formatters' add-ons",
     "module": "cuda_fmt",
-    "v": "2026.08.31"
+    "v": "2026.11.21"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.CudaLint.zip",
@@ -213,7 +213,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Differ.zip",
     "desc": "Compares 2 files and shows them side-by-side",
     "module": "cuda_differ",
-    "v": "2026.11.07"
+    "v": "2026.11.21"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Disable_Picture_Viewer.zip",
@@ -261,7 +261,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Embedded_Editor.zip",
     "desc": "Opens included CSS/JS files in the embedded window",
     "module": "cuda_embed_ed",
-    "v": "2026.07.08"
+    "v": "2026.11.21"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Emmet.zip",
@@ -297,7 +297,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.ExTerminal.zip",
     "desc": "Emulates OS Terminal, mimics terminal w/o separate input field",
     "module": "cuda_exterminal",
-    "v": "2026.07.08"
+    "v": "2026.11.21"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Extract_Strings.zip",
@@ -507,7 +507,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.LSP_Client.zip",
     "desc": "Supports LSP protocol for IntelliSense",
     "module": "cuda_lsp",
-    "v": "2026.07.08.1"
+    "v": "2026.11.21"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Markdown_Advanced_Preview.zip",
@@ -616,7 +616,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Python_IntelliSense.zip",
     "desc": "Code IntelliSense for Python, based on Jedi library",
     "module": "cuda_python_intel",
-    "v": "2026.01.29"
+    "v": "2026.11.21"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.pywin32.zip",
@@ -652,7 +652,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Scope_Description.zip",
     "desc": "For C, C++: shows function signature after function end",
     "module": "cuda_scope_description",
-    "v": "2026.07.08"
+    "v": "2026.11.21"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Scratches.zip",
@@ -746,7 +746,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Spell_Checker.zip",
     "desc": "Spell checker, with Hunspell dictionaries",
     "module": "cuda_spell_checker",
-    "v": "2026.09.12"
+    "v": "2026.11.21"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.SPIR_Helper.zip",
@@ -782,7 +782,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Sync_Editing.zip",
     "desc": "Synchronized editing, like in SynWrite editor",
     "module": "cuda_sync_editing",
-    "v": "2026.01.09"
+    "v": "2026.11.21"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Sync_Scroll.zip",
