@@ -904,6 +904,6 @@
     "desc": "TreeHelper for ToDo, for plugin 'Plain Tasks'",
     "module": "cuda_tree_todo",
     "req": "plugin.Detect_Indent",
-    "v": "2025.04.22.1"
+    "v": "2026.11.21"
   }
 ]
