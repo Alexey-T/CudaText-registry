@@ -21,7 +21,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Auto_Save.zip",
     "desc": "Auto-saves modified files: by timer / on closing file / etc",
     "module": "cuda_auto_save",
-    "v": "2025.12.29"
+    "v": "2026.11.21"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.AutoIt_Helper.zip",
@@ -159,7 +159,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.CSS_Inspector.zip",
     "desc": "In HTML files, it shows CSS props of tag under caret",
     "module": "cuda_css_inspector",
-    "v": "2025.03.14"
+    "v": "2026.11.21"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.CSS_Property_Info.zip",
@@ -177,7 +177,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.CSV_Helper.zip",
     "desc": "Highlightes columns in CSV files with different colors",
     "module": "cuda_csv_hilite",
-    "v": "2025.09.28"
+    "v": "2026.11.21"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.CudaFormatter.zip",
@@ -201,7 +201,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Detect_Indent.zip",
     "desc": "Detects space/tab indentation, on opening files",
     "module": "cuda_detect_indent",
-    "v": "2025.10.29"
+    "v": "2026.11.21"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.DevDocs.zip",
@@ -279,7 +279,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Encode.zip",
     "desc": "Converts text using many 'codings transformations'",
     "module": "cuda_encode",
-    "v": "2025.11.07.1"
+    "v": "2026.11.21"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Explorer_Integration.zip",
@@ -321,7 +321,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.File_Type_Profile.zip",
     "desc": "Creates profiles for files, and applies settings on opening file",
     "module": "cuda_file_type_profile",
-    "v": "2026.07.18"
+    "v": "2026.11.21"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.File_URI_Handler.zip",
@@ -333,7 +333,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Focus_Mode.zip",
     "desc": "Shades all lines except current paragraph",
     "module": "cuda_focus_mode",
-    "v": "2025.12.06"
+    "v": "2026.11.21"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Folding_Caption.zip",
@@ -375,7 +375,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.FTP.zip",
     "desc": "FTP client: manage remote files/folders on FTP/SFTP",
     "module": "cuda_ftp",
-    "v": "2026.04.30.2"
+    "v": "2026.11.21"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Git_Conflict_Solver.zip",
@@ -393,7 +393,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Git_Status.zip",
     "desc": "Shows Git info in the statusbar",
     "module": "cuda_git_status",
-    "v": "2026.09.01"
+    "v": "2026.11.21"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.GitHub_Gist.zip",
@@ -429,7 +429,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Hotspots.zip",
     "desc": "Shows panel: all bookmarks + Git modified/untracked files",
     "module": "cuda_hotspots",
-    "v": "2025.07.15"
+    "v": "2026.11.21"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.HTML_Completion.zip",
@@ -459,7 +459,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.HTML-CSS-Markdown_Tooltips.zip",
     "desc": "Shows tooltips for HTML/CSS/Markdown: colors, picture filenames, etc",
     "module": "cuda_html_tooltips",
-    "v": "2026.04.28"
+    "v": "2026.11.21"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Insert_Emoji.zip",
@@ -471,7 +471,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Insert_Pics.zip",
     "desc": "Inserts picture-files into text (using helper file)",
     "module": "cuda_insert_pics",
-    "v": "2025.12.11"
+    "v": "2026.11.21"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.IP_Address_Helper.zip",
@@ -531,7 +531,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Markdown_Preview.zip",
     "desc": "Previews Markdown text in browser",
     "module": "cuda_markdown_preview",
-    "v": "2025.12.29"
+    "v": "2026.11.21"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Markdown_Special_Paste.zip",
@@ -740,7 +740,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Snippets.zip",
     "desc": "Snippets engine; it's described in the CudaText Wiki",
     "module": "cuda_snippets",
-    "v": "2026.05.17"
+    "v": "2026.11.21"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Spell_Checker.zip",
@@ -764,7 +764,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Suggest_Untitled_Filename.zip",
     "desc": "Suggests filename from text, on 'Save as' for untitled documents",
     "module": "cuda_suggest_new",
-    "v": "2026.10.18"
+    "v": "2026.11.21"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Sum_Lines.zip",
@@ -788,7 +788,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Sync_Scroll.zip",
     "desc": "Sync vertical/horizontal scrolling of editors in groups 1, 2",
     "module": "cuda_sync_scroll",
-    "v": "2026.07.08"
+    "v": "2026.11.21"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Tab_Colors.zip",
@@ -836,7 +836,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Testing_of_lexer_parser.zip",
     "desc": "Testing plugin for CudaText lexer parser",
     "module": "cuda_testing_lexers",
-    "v": "2026.11.06"
+    "v": "2026.11.21"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Text_Statistics.zip",
