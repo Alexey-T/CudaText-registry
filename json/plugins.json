@@ -471,7 +471,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Insert_Pics.zip",
     "desc": "Inserts picture-files into text (using helper file)",
     "module": "cuda_insert_pics",
-    "v": "2026.11.21"
+    "v": "2026.11.22"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.IP_Address_Helper.zip",
@@ -525,7 +525,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Markdown_Image.zip",
     "desc": "Previews local Markdown image files in inter-line gaps",
     "module": "cuda_markdown_image",
-    "v": "2026.11.21"
+    "v": "2026.11.22"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Markdown_Preview.zip",
@@ -652,7 +652,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Scope_Description.zip",
     "desc": "For C, C++: shows function signature after function end",
     "module": "cuda_scope_description",
-    "v": "2026.11.21"
+    "v": "2026.11.22"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Scratches.zip",
