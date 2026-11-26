@@ -808,6 +808,12 @@
     "v": "2026.11.21"
   },
   {
+    "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Tab_Pin.zip",
+    "desc": "Pin ui-tabs like browsers (first: tabs with icons without names, then regular tabs)",
+    "module": "cuda_tab_pin",
+    "v": "2026.11.26"
+  },
+  {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Tab-Rename.zip",
     "desc": "Allows to rename too long ui-tab titles",
     "module": "cuda_tab_rename",
