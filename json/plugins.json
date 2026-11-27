@@ -489,7 +489,7 @@
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Language_Translator.zip",
     "desc": "Translation of texts through the site 'translate.googleapis.com'",
     "module": "cuda_language_translator",
-    "v": "2026.10.16"
+    "v": "2026.11.27"
   },
   {
     "url": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Live_Word_Count.zip",
